@@ -1,0 +1,20 @@
+Prime Consumer Electronics
+[macro|micah]I got you a present![addslave|A custom-built android from Prime Consumer Electronics' research division.|She was a gift from Micah|18/18|100/100|0/0||virgin|Williams/Doll][select|0][remove]
+
+Null Autonomous Collective
+[macro|speaker]We offer a gift in the service of peace. (Attached is a crypto transfer of $100,000)[money|100000|Gifts][remove]
+
+Black Star Mercenary Group
+[macro|tyrant]Something special from our last raid. I trust that they will be to your liking.[random|[addslave|A chieftan's daughter raided from a backwater planet.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|An expert warrior rescued from a pit fighting ring.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|A primitive military commander, kidnapped from her tent on the eve of battle.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]][random|[addslave|Was a primitive king's concubine.|She was a gift from Tyrant|18/18|0/0|0/100||nonvirgin]|[addslave|A locally-famous contortionist, kidnapped from a travelling circus.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|Was a famous actress before being kidnapped.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]][select|0][remove]
+
+Shiva Military Corporation
+[macro|pari]Please accept my gift. May it bring our empires closer together.[addslave|Trained from birth in a prestigous slave school|She was a gift from Pari|18/18|100/100|0/0||virgin|Williams][select|0][remove]
+
+Piaoliao Nuli
+[macro|fei]Please, accept these gifts.[addslave|Trained from birth in Piaoliao Nuli's most intensive slave program|She was a gift from Fei|18/18|100/100|0/0||virgin|Williams][addslave|Trained from birth in Piaoliao Nuli's most intensive slave program|She was a gift from Fei|18/18|100/100|0/0||virgin|Williams][select|0][remove]
+
+Australian Cooperative
+[macro|ava]Please, accept this gift as a token of our friendship. (Attached is a crypto transfer of $100,000)[money|100000|Gifts][remove]
+
+Vladivostok Holdings, Inc
+[macro|raza]Please, accept this token of our friendship. (Attached is a crypto transfer of $250,000)[money|250000|Gifts][remove]

@@ -1,0 +1,6 @@
+Colony
+Station
+Base
+Terminal
+Orbital
+Nexus

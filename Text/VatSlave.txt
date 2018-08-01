@@ -1,0 +1,6 @@
+Vat Slave Ready
+[name] has fininshed her time in the vat, and is ready to be extracted into your service. She is currently in an induced coma, held in the exact moment of her 18th birthday. [br][familytree]
+	Wake her up
+		The pod opens, and she stumbles out. She is clad in the adaptive suit that she has worn her whole life, but it quickly disintegrates as it leaves the tank's nutrient solution.[graduate][strip] [macro|tankbred]
+	Sell her for $10,000
+		You almost immediately line up a buyer for her, and send the comatose slave away to her new home. Someone else will have the pleasure of waking her up.[remove][money|10000]

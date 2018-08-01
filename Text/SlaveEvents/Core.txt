@@ -1,0 +1,414 @@
+{nothastag factionleader}{obedience low}{nothastag corrupted}{nothastag insane}Lazy Morning
+[name] is not yet broken. Today, she stayed in bed and refused to go to her assigned station. The slaves must learn that these acts of rebellion will not be tolerated.[expression|defiant]
+	Tie her to her bed and leave her out for the public to use
+		You [hastag|remote implant|assume direct control of [name] and force her to shamble|have a drone secure [name] and drag her out] into a public area. You announce to your citizens that, as a token of your generosity, you're making this slave free for them to use until they knock her out. You hear screaming as several of them gleefully pounce on her, and you quickly lose sight of her in the crowd.[hide][humansound|screaming][strip]
+		The station informs you some hours later that she has finally lost consciousness, and been moved back to her quarters to recover. She likely won't try that again.[obedience|20][fear|20][macro|postrape][reputation|20]
+	Rape her into submission
+		You enter [name]'s room and, before she can react, you twist her arms behind her and lift her hips off the bed. This is a punishment, so you make no attempt to be gentle as you force yourself into her from behind. She screams in pain as you [virgin|brutally take her virginity|violently rape her], and begs you to just let her return to her duties. The consequences of her actions need to be made clear though, and you offer no respite.[humansound|screaming][pose|doggyrape] You use your augmented strength to bruise her with every thrust, and you feel her bones crack in your grip as you constrict her wrists.[strip]
+		By the time you finish in her, she has long lost consciousness from the pain, and is bleeding from several places. You get up and leave her on the bed for a medical drone to repair, confident in the knowledge that she won't attempt something this foolish again.[obedience|10][fear|10][macro|postrape][humansound|none][sex]
+	Some torture will remind her how much worse things could be
+		You [hastag|remote implant|assume direct control of [name] and force her to stand up|have a drone secure [name]], before you come in with a shock stick. It would be easier to simply have the station do it, but the impact will be greater if you're personally administering the procedure. You slowly approach her as she sobs and [hastag|remote implant|tries desperately to regain control of her body|struggles], and deliver a single shock into her abdomen. She screams and convulses as the current flows through her, and she desperately begs for mercy as you twist the dial. Over the next minutes, you silently deliver shock after shock to her naked body as she [hastag|remote implant|stands perfectly still, screaming but unable to move|screams and writhes in agony]. Once you are satisfied, you release her and have a drone clean her up so she can begin her assignment. [obedience|20][fear|20][macro|torture][humansound|scream]
+	Have a drone drag her to her assignment
+		You simply [hastag|remote implant|assume direct control of her and force her to enter|have a drone drag her into] one of the restraint systems. None of your slaves want to be slaves, and she will soon find that her life will be more comfortable if she accepts her fate.[humansound|scream][pose|dronehanging]
+	She needs a rest. Allow her the day off.
+		[name] is baffled as you let her know that she will have the day off, but accepts it with sincere thanks. Rewarding her for this behavior may encourage it in the future.[obedience|-10][expression|happy]
+
+{nothastag factionleader}{pregnant > 90}{nothastag corrupted}Fallen
+[name] is extremely pregnant, and having trouble with her normal duties. As she was making her way to her assignment today, she fell over, and is having trouble returning to her feet.[pose|sleeping] 
+	Help her up
+		You walk over to her and personally help her up. [obedienceswitch|As soon as she's sure that there is no punishment incoming, she waddles away as fast as she can, relief washing over her face.|She is timid at first, but when she realizes that you mean her no harm, she smiles softly at you. She is clearly embarrassed by the ordeal, and carefully waddles off to her assignment.|She smiles at you sheepishly, and gives you a light peck on the cheek before waddling off to her assignment, rubbing her belly lovingly.][obedience|10][fear|-10][pose|idle]
+	Do nothing
+		She eventually manages to return to her feet. Fortunately, this is a temporary problem. She will be back to her normal physical ability soon.
+
+{nothastag factionleader}{Obedience low}{nothastag corrupted}{nothastag insane}Thief
+[Name] was caught trying to steal a passport from a citizen. Station surveillance being what it is, she didn't get far, but her behavior reflects badly on you as her master.[pose|dronehanging][humansound|fear]
+	Punish her yourself
+		You grab [name] by the hair and drag her to the floor of your quarters before twisting her arms behind her back and lifting her hips off the ground. This is a punishment, so you make no attempt to be gentle as you force yourself into her from behind. She screams in pain as you [virgin|brutally take her virginity|violently rape her], and begs for your forgiveness through her sobs. The consequences of her actions need to be made clear though, and you offer no respite.[humansound|screaming][pose|doggyrape] You use your augmented strength to bruise her with every thrust, and you feel her bones crack in your grip as you constrict her wrists.[strip]
+		By the time you finish in her, she has long lost consciousness from the pain, and is bleeding from several places. You get up and leave her on the bed for a medical drone to repair, confident in the knowledge that she won't attempt something this foolish again.[obedience|10]
+	Let the citizen get his money's worth out of her
+		The citizen deserves some recompense. You tell him that he can do what he wishes to her for a day, but that he is not allowed to kill her. The citizen is excited at the prospect of a free day of debauchery, and happily accepts. You do not watch the festivities out of respect, but [name] eventually returns, bleeding profusely from several shallow wounds and crying bitterly. The citizen had a fantastic time, and his embellished story of your just actions will improve your reputation.[rep|10][obedience|10][fear|20][inf|10][hide]
+	Space her
+		You simply [hastag|remote implant|assume control of her and force her to jerkily walk to the airlock|have a security drone drag her screaming body out the airlock]. Such behavior cannot be tolerated. You make the rest of your slaves take a break from their duties and watch their compatriot die in the hard vacuum, increasing their fear of you substantially.[globalfear|10][globalobedience|10]
+	Let your station handle her punishment
+		The security drones are built for this sort of thing, so you let your station handle [name]'s punishment. It may not be as impactful coming from a machine, but the amount of pain your security drones can inflict will make up for it.[fear|5][obedience|5][rep|-5]
+
+{nothastag factionleader}{obedience < 50}{assignment brothel}{nothastag corrupted}Unplanned Struggle
+[Name] tried to stop a citizen from using her in the brothel. Luckily, the citizen happened to enjoy the resistance, but defiance can't be tolerated.
+	Give her another chance
+		You assign her back to the brothel. Such things happen with disobedient slaves, and the best remedy is simply to let them adjust to to the constant rape in their own time.
+	Force her past her sexual hang-ups
+		You call [name] to your office. She does not come willingly, [hastag|remote implant|so you assume control of her body with her remote implant and force her to come to you|and has to be dragged by a security drone]. You grab her and drag her to your bed by her hair. She knows what is coming, and begins to beg for forgiveness, but you ignore her as you climb on top of her.[pose|missionaryrapeprep][humansound|begging][strip]
+		Rape is just another part of everyday life for your slaves, but this is a punishment, and you make it feel like one. You jam yourself into her without regard to her comfort, and feel her skin tear at the unlubricated assault. You feel bones crack and see painful welts form on her skin as you rape her, and she screams in agony until she eventually loses consciousness.[pose|missionaryrape][humansound|screaming]
+		You finish in her limp body, and have a medical drone clean her up before returning her to her assignment.[obedience|20][fear|20][macro|postrape][humansound|fear]
+	Have her bound in the brothel and hang a "Free" sign on her.
+		The quickest way to get her past anonymous sex is to force her to have a lot of it. You set her station to be free, and put up a small sign on the door advertising the sample. Within hours, she's broken the brothel's record for the most uses in a day. She eventually loses consciousness, and a security drone returns her to her quarters.[obedience|20][fear|20][rep|10][inf|10][hide]
+
+{nothastag factionleader}{tag primitive}{nothastag corrupted}{nothastag insane}Primitive Education
+[Name] is from a relatively primitive world, and lives in a perpetual state of horror at the incomprehensible blasphemies of your station. Between the omnipresent surveillance, your augmented physical strength, and your complete control of the station, she seems to have come to the conclusion that you are some form of eldritch deity. With the limited conversations you allow between slaves, it's unlikely that the truth will be explained to her by another.
+	Encourage the belief
+		You decide to have some fun with [name], and summon her to your office. As she approaches, you dismiss the rest of your slaves and temporarily change your suite lights to a deep red. She arrives moments later, shaking with fear. You explain to her that she has reasoned the truth, that your station is hell, your patrons are demons, and you are the dark lord himself. She falls to her knees, bawling in terror. You tell her that she us unique in her understanding of her situation, and that you will know if she shares it with other slaves (which is not strictly untrue, given the station's impressive security systems). You dismiss her, and she practically sprints out of the room. It's clear that she will never disobey you again.[obedience|100][fear|100]  
+	Take no action
+		She eventually comes to understand the true nature of your station on some level (though the technology involved still mystifies her from time to time). Whether that makes her plight better or worse is open to interpretation.
+
+{nothastag factionleader}{obedience > 49}{assignment master}{nothastag corrupted}Asleep
+[name] is assigned to your quarters, and sleeps there when you are not using her. She is obedient enough that she would never try to stop you[fearswitch|, though you often catch her sobbing quietly when she thinks you're not looking]. She is asleep at the moment, and looks like a fun diversion from your current tasks.[humansound|snoring][pose|sleeping][strip]
+	Fuck her
+		You crawl into the bed with her, and gently turn her onto her back. She is sound asleep, and stirs softly, but does not wake with the motion. You enjoy the sight of her breasts slowly rising and falling with her breath before you spread her legs apart.
+		[humansound|sex]You climb on top of her and slide yourself into her. She wakes up almost immediately at the sensation, and she [fearswitch|quickly suppresses her shocked expression to force a smile, wrapping her legs around you|winces in pain at the sudden intrusion, but remains still for you|involuntarily kicks and screams for a moment before she remembers her place and opens her legs wider, sobbing slightly[humansound|painfulsex]]. [pose|missionary]You take your time with the sleepy slave, enjoying the relaxed thrusts as she [fearswitch|continues to imitate a lover's embrace|looks past you, trying to focus on the ceiling|unmovingly cries[humansound|crying]].
+		You eventually finish in her and return to your work, leaving her to go back to sleep.[obedience|5][pose|sleeping]
+	Leave her
+		You go back to what you were doing. [name] can wait.
+
+{nothastag factionleader}{assignment brothel}{nothastag corrupted}{nothastag insane}Advertising Potential
+A video featuring [name] [obedienceswitch|vomiting through tears as she was being raped by a customer|tripping and falling on her face while being pushed into a particularly-athletic position|falling on her face while attempting to dance seductively for a customer] has gone viral, and she has suddenly gained some popularity with the trendier tourists. With a few well-placed ads, you could increase this fame, and draw even more tourists to your station.
+	Do it (Costs $1,000)
+		You commission a series of ads for your station that prominently feature [name]'s shameful video. Tourists flock to your station to have a turn on the now-famous slave.[tourists|10]
+	Don't bother
+		You have better things to do than engage in meme culture. You ignore the video and move on to more important matters.
+
+{nothastag factionleader}{lactating}{nothastag corrupted}Accident
+[name] is lactating well beyond normal human limits. Today, she failed to make it to the dairy on time for her milking, and left a creamy mess in the hallway.
+	Make her lick it up
+		You order her to lick up the mess.[obedienceswitch|She ignores the order, and continues to [fearswitch|stare at you menacingly|shake quietly|sob], so you have a security drone force her into position. She screams in pain and humiliation as it roughly drags her face along the floor, and she eventually relents, lapping up the milk as well as she can through her tears.[fear|5][humansound|crying]|She slowly gets down on her knees and begins to lap up the mess[fearswitch|| while sobbing gently[humansound|sobbing]| through bitter tears[humansound|crying]].[fear|5]|She obediently gets onto her knees and licks up the mess as quickly as she can[fearswitch|| while sobbing gently[humansound|sobbing]| through bitter tears[humansound|crying]].][pose|lickfloor]
+		When she is done, you send her back to her assignment. Hopefully, she has learned her lesson.[hide][humansound|none][obedience|5]
+	Have a maintenance drone take care of it
+		You simply have a maintenance drone clean up the mess. [name]'s "talents" are better used elsewhere, and the leaking milk would likely just make things worse.
+
+{nothastag factionleader}{assignment dairy}{nothastag corrupted}Milky Slave
+You see [name] confined in the dairy on one of the station's ubiquitous security cameras. Her hips are swaying alluringly in their confinement as the milking machine works on her breasts. She is restrained, and couldn't resist you if she tried.[pose|milking][backgroundloop|dairy][resetcamera][strip]
+	{obedience low}Rape her
+		[name]'s first hint of your presence comes when you begin to press against her from behind. You hear a scream from behind the machinery, but she can't move in her restraints, and you see no sign of a change from her body.[humansound|screaming][pose|milking]
+		You continue to force yourself on her for some time, but eventually grow bored of the practically-inanimate creature and allow yourself to finish inside her. You hear sobbing from her still-unmoving body as you leave the room.[humansound|sobbing]
+	{obedience mid}Use her
+		[name]'s first hint of your presence comes when you begin to press against her from behind. You hear a scream from behind the machinery, but she can't move in her restraints, and you see no sign of a change from her body.[humansound|screaming][pose|milking]
+		You continue to force yourself on her for some time, and eventually let yourself finish when you feel her tighten in an almost-mechanical orgasm. You hear sobbing from her still-unmoving body as you leave the room.[humansound|sobbing]
+	{obedience high}Reward her
+		[name]'s first hint of your presence comes when you begin to press against her from behind. You hear a gasp from behind the machinery, but she can barely move in her restraints, and you see no sign of a change from her body aside from a slight wiggle of her hips.[humansound|sex][pose|milking][humansound|gasp]
+		You continue to use her for some time, but eventually grow bored of the practically-inanimate creature and allow yourself to finish inside her. You hear [fearswitch|a faint imitation of a moo[humansound|idle]|her breath begin to return to normal[humansound|fear]|gentle sobbing[humansound|sobbing]] as you leave the room.
+	Ignore her
+		You return to your duties. [name] isn't going anywhere.
+
+{nothastag factionleader}{assignment pet}{obedience low}{nothastag corrupted}Bite
+[name] seems to have internalized your treatment of her, and has begun to act like an abused animal. When you reached into her kennel to grope her, she latched onto your arm and bit down as hard as she could. Her teeth were obviously insufficient to pierce your augmented flesh, but such behavior cannot be tolerated.[pose|doggyprep]
+	Punish her like a dog
+		You grab [name] by the hair and pin her to the floor before pulling a choke chain around her neck. She immediately begins to cough and gasp for air when you tighten it, but still manages to get enough oxygen to stay conscious. [humansound|coughing][pose|doggyrapeprep][strip]
+		You pull it tighter, pressing your knee against her back to gain the leverage to cut off her air completely. She begins to struggle violently, but can't escape the harsh strangulation.[humansound|none]
+		When you feel her beginning to lose consciousness, you release the chain. She collapses to the floor, sputtering and coughing, but not permanently damaged. Hopefully, she now understands the consequences of disobedience towards her owner.[macro|postrape][humansound|coughing][obedience|5][fear|5]
+	Leave her alone
+		You simply walk away from [name], and give her some time to reconsider her hatred of you.[obedience|1]
+
+{nothastag factionleader}{assignment pet}{obedience high}{nothastag corrupted}Chase
+[name] [fearswitch|playfully pinched you before running away|squirmed away as you were trying to pet her|sprinted away as you approached her post]. She is now standing at the other side of your suite, [fearswitch|hopefully|fearfully|fearfully] checking to see if you're following her.
+	{fear low}Indulge her little game
+		You get out of your desk and begin to give chase. She does not have the augmentations you do, and can barely move before you've caught up to her and tackled her to the floor. [pose|doggyprep]She giggles and cocks her hips slightly, positioning herself for you.[humansound|giggle][humansound|sex][strip]
+		She gasps as you slide yourself into her, [virgin|and she is so aroused that you barely feel the snap of her hymen as you tear through it|and you feel her tighten in orgasm almost immediately]. She is well-broken, and happily moves with you, gently sliding her hips back and forth to give you as much pleasure as possible.[pose|doggy][humansound|sex][humansound|gasp]
+		You lose count of her orgasms long before you finish inside her, and she immediately collapses into a giggling and panting wreck when you let go of her hips and return to your duties.[pose|facedownonground][humansound|idle][obedience|5][fear|-5]
+	{fear mid}Follow her and punish her for her insolence
+		You get out of your desk and begin to give chase. She does not have the augmentations you do, and can barely move before you've caught up to her and tackled her to the floor. She knows better than to struggle, and only sobs slightly as you pull her hips up into position.[pose|doggyprep][humansound|sobbing][strip]
+		Her sobbing intensifies slightly as you press against her, [virgin|and you feel her hymen tear as you force yourself into her|and she lets out a soft yelp as you enter her]. She is well-broken despite her fear of you, and moves with you as much as she can, gently sliding her hips back and forth to give you as much pleasure as possible.[pose|doggy][humansound|painfulsex]
+		She tenses momentarily when you finish inside her, but stays motionless on all fours as you pull yourself out and return to your duties.[pose|doggyprep][obedience|5][fear|5]
+	{fear high}Remind her of her place
+		You get out of your desk and begin to give chase. She does not have the augmentations you do, and can barely move before you've caught up to her and tackled her to the floor. She knows better than to struggle, and only sobs slightly as you pull her hips up into position.[pose|doggyprep][humansound|sobbing]
+		Her sobbing intensifies slightly as you press against her, [virgin|and you feel her hymen tear as you force yourself into her|and she lets out a soft yelp as you enter her]. She is well-broken despite her terror, and moves with you as much as she can, sliding her hips back and forth to give you as much pleasure as possible even as she tenses with pain.[pose|doggy][humansound|painfulsex]
+		She tenses momentarily when you finish inside her, but stays motionless on all fours as you pull yourself out and return to your duties.[pose|doggyprep][humansound|sobbing][obedience|5][fear|5]
+	Ignore her
+		[name]'s little game is beneath you, and you ignore her completely.
+
+{nothastag factionleader}{assignment pet}{obedience high}{fear low}{nothastag corrupted}Cuddle
+While you were sitting at your desk (working on a business matter), [name] came up to you and started to gently rub up against you. She obviously wants affection.
+	Let her sit on your lap
+		You move your chair back to make room, and [name] happily sits down on your lap, carefully adjusting herself to stay out of your way. You absently run your fingers through her hair and across her body as you work, and you eventually hear her begin to snore.[pose|boundseated][humansound|snoring]
+		You let her sleep in your lap for some time, but eventually have other things to do. You gently pick her up and place her back onto her bed, where she continues to snore contentedly.[pose|sleeping][obedience|5][fear|-5]
+	Dismiss her
+		You wave her away. Your work is too important to be interrupted by your slaves' whims.
+
+{nothastag factionleader}{hastag Sensory-Noise-Implant}{extreme}{nothastag corrupted}Mindrape
+[name] has been driven completely insane by terrifying hallucinations from her sensory noise implant. She is no longer capable of experiencing emotions like a normal human, and instead lives in a constant state of delusional terror.
+	Use her
+		You send a drone to fetch the incoherent slave. She is incapable of following orders, and simply falls to the ground where the drone drops her, screaming as she has since she first woke from her surgery.[macro|postrape][humansound|screaming][strip]
+		She does not react as you turn her onto her stomach and position yourself behind her, or as you force yourself into her.[pose|doggy]
+		You continue for some time, but her existence is so miserable that the rape barely enters her mind, overshadowed by the terrifying beasts she sees in her periphery. Despite that, you eventually feel her mechanically tighten in orgasm.
+		You finally finish inside her and drop her to the ground for a drone to collect. She will likely never understand what you did to her, though she does know enough to associate you with pain and fear.[macro|postrape][humansound|screaming]
+	Put her out of her misery
+		[name] is mentally shattered, and killing her at this point would be an act of mercy. You have a drone collect her from her assignment and drag her to an airlock. You watch her on the camera as she approaches, and detect a flash of profound relief as she realizes what is about to happen.[pose|dronehanging]
+		As she suffocates in the vacuum, her expression is permanently frozen into the closest approximation of a smile that has crossed her face since the surgery.[remove][hide]
+	Ignore her
+		[name] is never going to be fixed. There will always be time to enjoy her.
+
+{tag Tyrant}{tag factionleader}{extreme}Marathon
+When you enslaved her, Tyrant told you that she would not be broken easily. So far, she has kept her promise. Her will remains strong, and she fights as hard as she did before you took her empire. It will take something extreme to break past her mental block and start her proper training.[pose|dronestruggle][humansound|screaming]
+	Spend a few days showing her what it means to be a slave
+		Tyrant's body is one of the few in the galaxy more advanced than yours. Her combat augmentations were disabled when she was enslaved, but she can still take an immense beating without permanent damage. You tell her that you're going to test its limits, but it's likely that she didn't hear you over her defiant screaming.[strip]
+		You begin to deliver kick after kick to her exposed belly. Though her body is easily strong enough to handle the abuse, she cries out as she feels the now-unfiltered pain signals jolt through her. She has been augmented for centuries, and it's likely been a long time since she experienced agony without the option to turn it off.
+		You beat her for many hours before you decide that it's time for the main attraction. She looks at you as you stop kicking her, and, by her renewed screams, you surmise that she knows what's coming next.[pose|dronemissionaryprep]
+		You climb on top of her, and she shrieks with humiliation as you force yourself into her[virgin|, taking her virginity after centuries of asexuality. Her screams gain renewed vigor, and she is obviously deeply disturbed by the unfamiliar violation. |. She is asexual, and was a virgin when she arrived aboard your station. Even though this isn't the first time she's been raped here, it's a new and terrifying sensation for her.]
+		More than an hour of sexual assault from you would be enough to reduce an ordinary slave to a bloody and broken heap. Tyrant is anything but an ordinary slave though, and shows no signs of wear until well after a natural woman would have perished. Her strength is freeing, and you take full advantage, bending her into positions that would destroy a human body as she screams in agony.[pose|dronemissionary]
+		A day passes, and her screams quiet as her spirit begins to weaken. She seems to be growing used to the unrelenting rhythm of the rape, and her struggles have lost some of their original power. [humansound|painfulsex][pose|dronedoggy]
+		A week passes, and you finally feel her struggles cease. You have the drone drop her to the floor, and she makes no attempt to stop you as you push yourself back into her. [humansound|sex][pose|missionary]
+		You enjoy her compliant body for a few more hours before you finally allow yourself to finish inside her. You hear a soft sigh of relief as you pull yourself out, and she collapses limply to the floor.[macro|postrape]
+		After a few minutes of quiet contemplation, she manages to get up, and kneels shakily before you. Her resistance is broken, and she will apply her military expertise to your invasions, permanently boosting your fleet's effectiveness.[pose|kneel][upgrade|TyrantWill][removetag|factionleader][obedience|50][fear|50][humansound|idle][sex]
+	Continue her standard training for now
+		You simply have your station continue its standard training regimen. It may not be effective, but it's fun to watch her fight.
+
+{tag Micah}{tag factionleader}Optimization
+Micah may be a slave, but she is still the brilliant engineer she always was. She frequently points out small things that could be improved on your station, and today she entered your office with a detailed schematic for a new ventilation system drawn on a napkin.
+	Follow her suggestions
+		You listen to Micah's suggestions, and as soon as she sees your maintenance drones implementing the design, she enters your office. She is intelligent enough to know that she has no way off your station, and that her best hope is to become useful to you. She kneels before you.
+			Accept her submission
+				At your gesture, she stands up. She is now willing to help you in exchange for better treatment, and will apply her talents to optimizing your station, permanently reducing construction costs. [upgrade|MicahTinkering][removetag|factionleader][pose|idle][obedience|50]
+			Celebrate by using her
+				You nod and approach her. She knows what you are about to do, and sobs quietly as you position yourself behind her and begin to press yourself against her. [humansound|sobbing][pose|doggyprep][strip]
+				She cries out involuntarily as you force yourself into her, but makes no attempt to escape as you use her for your pleasure. [pose|doggy][humansound|painfulsex]
+				She gasps as she feels you finish inside her, and maintains her kneeling pose as you pull out of her and return to your desk. Micah is broken now, and will apply her talents to optimizing your station, permanently reducing construction costs. [upgrade|MicahTinkering][removetag|factionleader][pose|kneel][humansound|fear][fear|20][obedience|50]
+	{extreme}Remind her of her place
+		You snatch the plans and hand them to a drone to be read and implemented. You then turn your attention back to Micah, and demand more. She stutters for a moment before giving you another idea, this time for an improvement to the life support system. You demand another, but she has no more ideas left. You slap her, and she immediately falls to the floor, crying bitterly.[humansound|crying][pose|facedownonground][strip]
+		You get on top of her and press yourself against her from behind. She knows what is coming, and instinctively tries to resist, but her augmentations were disabled on her enslavement, and she only has the strength of an ordinary human here.[pose|doggyrapeprep]
+		She screams in pain as you force yourself into her. Once you're comfortably inside, you explain that you won't stop until she's given you three more upgrades. She is heavily augmented, and could likely survive days of this assault, but the pain is enough to convince her to think quickly. You can sense her mind racing as you rape her from behind, and she soon manages to give you another idea through her screams, this time to the security drones. [pose|doggyrape][humansound|painfulsex]
+		Over the next hours, she manages to think of the remaining improvements, and, true to your word, you allow yourself to finish inside her and release her from your grasp.[macro|postrape]
+		She manages to get up slightly, and kneels before you. Micah is now broken, and will work tirelessly to improve efficiency on your station, reducing construction costs.[upgrade|MicahTinkering][removetag|factionleader][pose|kneel][humansound|fear][fear|50][obedience|50]
+	Ignore her for now
+		You have better things to do than listen to this drivel. You dismiss her.
+
+{tag Pari}{tag factionleader}Readiness
+Though Pari is no longer the CEO of Shiva Corporation, she has many business connections spread across the galaxy, and there is a vast library of competitive intelligence stored in her mind. Such influence could be useful, but she has so far been unwilling to share her information with you.[pose|dronehanging][humansound|fear]
+	{extreme}Tear it from her mind (Costs $100,000)
+		[money|-100000]Like virtually all wealthy people, Pari is equipped with a neural lace. They are critical for the large-scale communications that CEO's require, but they have one fatal flaw. Given proximity, time, and a willingness to inflict pain, they can be hacked. You spend the necessary money to acquire such a spike from the black market, and approach her with it in hand.[pose|dronestruggle]
+		Thanks to an information suppression campaign by a cabal of biotech giants, even the existence of the neural spike is not common knowledge, and Pari obviously has no idea what it is. She bucks her hips to try to pull herself away from what she thinks is a sexual implement, and looks confused when you continue walking and position yourself behind her head.
+		Her face freezes in a look of shock as you jam the probe deep into her skull, perfectly striking the core of her neural lace. She is immediately paralyzed by the virus, and her struggling ceases completely.[pose|dronehanging]
+		The spike begins to do its work, downloading the information on her contacts to your station's computer. Between the insider knowledge of Shiva Corporation technologies and the hundreds of useful pieces of blackmail on her friends and allies, the information you have gathered is worth millions.[humansound|idle]
+		When you are satisfied that all of the useful information has been extracted, you remove the probe. Pari finally manages to scream in pain as blood leaks from the small hole in her skull.
+		The drone drops Pari's body to the ground, and she breaks down sobbing on the floor. The invasive hack has left Pari's mind permanently destroyed, but you manage to turn the blackmail you have gathered into a new income stream.[humansound|sobbing][pose|facedownonground][upgrade|PariBlackmail][removetag|factionleader][addtag|insane][fear|100]
+	Strike a bargain for better treatment
+		You order the drone to release Pari, and she looks at you with confusion. You explain to her that there is no way out for her, and that the only way she can improve her situation is by obeying your orders. She opens her mouth as if to protest, but closes it, thinking better of the outburst. [pose|idle]
+		After a moment of thought, she wordlessly kneels before you.[pose|kneel][humansound|fear]
+			Accept her submission
+				At your gesture, Pari stands up. She has submitted to you, and will use her insider knowledge of Shiva's technologies to speed repairs on your fleet.[upgrade|PariOptimization][removetag|factionleader][pose|idle][obedience|50]
+			Celebrate by using her
+				You nod and approach her. She knows what you are about to do, and sobs quietly as you position yourself behind her and begin to press yourself against her. [humansound|sobbing][pose|doggyprep][strip]
+				She cries out involuntarily as you force yourself into her, but makes no attempt to escape as you use her for your pleasure. [pose|doggy][humansound|painfulsex]
+				She gasps as she feels you finish inside her, and maintains her kneeling pose as you pull out of her and return to your desk. Pari is broken now, and will use her insider knowledge of Shiva's technologies to speed repairs on your fleet.[upgrade|PariOptimization][removetag|factionleader][pose|kneel][humansound|fear][fear|20][obedience|50]
+	Deal with the issue later
+		She will come around in time. You leave her to the standard training methods for now.
+
+{tag Ava}{tag factionleader}Optimist
+Ava takes every chance she gets to stare out of the windows of your station. She seems to be under the impression that one of her numerous former allies will risk your wrath and come to rescue her. The delusion is adorable, but she is impossible to train while she still has so much hope in her friends.[humansound|fear]
+	{extreme}Show her how little her allies care about her
+		You summon Ava to your office. She does not come willingly, and has to be dragged in by a security drone. You set up a small floating camera to record what is about to happen, and tell her that the video will be sent to her allies when you're done with her.[humansound|fear][pose|dronemissionaryprep][strip]
+		You face the camera, and explain that this is Ava, the former ruler of the proud Australian Cooperative. You have it pan across her body, spending extra time highlighting her struggling hips to foreshadow the torture you are about to inflict.
+		You direct the camera's attention to her face, and get a close-up of her contorted scream as you slowly force your way inside her. Her struggling gains new vigor, but there's nothing she can do to prevent the assault. As you brutally rape her, you explain that no matter what happens, nobody would risk your ire by coming to her rescue.[pose|dronemissionary][humansound|screaming]
+		You take your time, and use her for your pleasure as the camera watches. She screams out plea after plea for help as you rape her, begging for one of her former allies to come to her rescue. You calmly continue, ensuring that the camera captures every word.
+		After a few hours, you allow yourself to finish inside her, and make sure the camera is watching as you pull yourself out, dragging a trail of blood and cum behind you. You turn to the camera once again, and explain that this is what happens to those who cross you, before turning it off.[pose|dronehanging][humansound|crying]
+		You force her to watch as you widely distribute the video. Some might be moved by her begging and screaming, but nobody would dare risk your ire over a former leader. You have the drone drag her crying form back to her quarters.
+		A few days later, it's clear that no rescue is coming. You summon her to your office, and she comes willingly this time. She cries, but kneels before you, her submission complete. Ava is now broken, and will use her diplomatic skill on your behalf to improve the obedience of your planets. [upgrade|AvaDiplomacy][removetag|factionleader][pose|kneel][humansound|fear][fear|70][obedience|50][set|avarescue]
+	Offer her a new alliance
+		You continue sitting, and Ava looks at you with confusion. You explain to her that if someone were coming to rescue her, they would have done so already, and that the only way she can improve her situation and the lives of others is by obeying your orders. She opens her mouth as if to protest, but closes it, thinking better of the outburst. [pose|idle]
+		After a moment of thought, she wordlessly kneels before you.[pose|kneel][humansound|fear]
+			Accept her submission
+				At your gesture, Ava stands up. She has submitted to you, and will use her diplomatic skill on your behalf to improve the obedience of your planets.[upgrade|AvaDiplomacy][removetag|factionleader][pose|idle][obedience|50]
+			Celebrate by using her
+				You nod and approach her. She knows what you are about to do, and sobs quietly as you position yourself behind her and begin to press yourself against her. [humansound|sobbing][pose|doggyprep][strip]
+				She cries out involuntarily as you force yourself into her, but makes no attempt to escape as you use her for your pleasure. [pose|doggy][humansound|painfulsex]
+				She gasps as she feels you finish inside her, and maintains her kneeling pose as you pull out of her and return to your desk. Ava is broken now, and will use her diplomatic skill on your behalf to improve the obedience of your planets. [upgrade|AvaDiplomacy][removetag|factionleader][pose|kneel][humansound|fear][fear|20][obedience|50]
+	Do nothing for now
+		This hope will die on its own eventually. You let her wait for her saviour.
+
+{tag Speaker}{tag factionleader}Utilitarian Dilemma
+The Speaker has reacted little to the rigors of her servitude. She does not experience pain or humiliation in the same way that humans do, so standard training methods have so-far proved ineffective. She can only be dragged in and out of her assignments by force.
+	Some civilian casualties will make her behave
+		You have The Speaker dragged to your office. She does not resist, but also makes no attempt to help the drone as it drops her into a standing position in the center of the floor. You explain to her that she needs to do better, and direct her attention to a viewscreen displaying a shopping center on one of the planets that she used to control. [pose|dronehanging]
+		At your mental command, a bright flash is visible on the screen, and the people of the shopping center are instantly reduced to dust as an orbital laser fires on the planet.
+		The Speaker screams and lunges at you, but the drone manages to restrain her, leaving her struggling impotently against the tentacles.[humansound|scream][pose|dronestruggle]
+		You explain to her that the massacre will be repeated for each command that she does not obey, and, to illustrate your point, the viewscreen changes to a view of a crowded park on another planet. The Speaker immediately relaxes, and, when the drone releases her, she sinks to her knees without hesitation. [pose|kneel]
+		She is now broken to your will, and will direct her numerous hidden manufacturing platforms to obey your commands as well, significantly reducing the costs of planet upgrades.[upgrade|SpeakerFabricators][removetag|factionleader][obedience|100]
+	Do nothing for now  
+		You leave The Speaker to her assignment. She isn't doing any harm with her insubordination.
+
+{tag Raza}{tag factionleader}Arrogance
+Though Raza is now a slave, her business skills remain almost supernaturally sharp. In the short time since her capture, she has managed to convince some of your slaves that she still has a link to her former accounts, and that she will provide for their families in exchange for services. While most recognize the silliness of her claims, she has managed to exchange favors from her followers for significant influence among the rest of your slaves.
+	Blackmail her
+		You call Raza into your office. She is not obedient, but knows that there is no point in resisting you. She enters willingly, scowling. 
+		She starts when you tell her that you are aware of her little games, but relaxes when you tell her that you will keep her secret in exchange for her business skills.
+		She kneels before you without hesitation. She may hate you, but she knows a mutually beneficial arrangement when she sees one. Raza will now use her business skills to increase the amount of money you can extract from tourists and citizens alike.[pose|kneel][upgrade|RazaAcumen][removetag|factionleader][obedience|50]
+	Do nothing for now
+		You let Raza continue her little game. The more influence you allow her to gain, the more useful it will be as blackmail later.
+
+{tag Fei}{tag factionleader}{nothastag corrupted}Helper
+Though Fei is a slave now, her instincts from her previous life often come out at unexpected times, and she sometimes seems to forget that she is no longer a free woman. The other slaves hate her, but they are being noticeably better-behaved since she was brought on board.
+	Encourage the help
+		You summon her to your office. She does not come willingly, and has to be dragged in by a security drone. You have the drone drop her on the floor, and she looks at the door as if to run, but is too curious about your intentions to do so.
+		You produce a small wooden box from under your desk, and hand it to her. She takes it in her hands, and carefully inspects it before opening it. Inside, she sees her whip, salvaged from her office after you took her homeworld.
+		You explain to her that, while she must continue her duties as a sex slave, she will also be allowed to continue disciplining other slaves.
+		She takes the whip and smiles slightly before kneeling before you. She may hate you, but she will be able to take some comfort in continuing her sadistic practice on your slaves. Fei is now accepting of your leadership, and will build your slaves' obedience over time.[upgrade|FeiWhip][pose|kneel]
+	Ignore her for now
+		You let her be for now. These distractions can wait.
+
+{obedience high}{fear low}{nothastag factionleader}{nothastag corrupted}Shunning
+Slaves usually provide each-other small comforts during their rare time to themselves. A few reassurances, small massages, and other kind gestures provide much-needed relief in an otherwise harsh existence. Unfortunately for [name], she's been largely cut off from this support network due to her devotion to you, and it's causing deepening cracks in her psyche. This situation must be handled delicately.
+	Show your other slaves that she isn't as special as they think
+		You wait until there is another slave nearby, and loudly chastise [name] for a minor imperfection. She looks stunned at first, but you wink at her, and she quickly catches on. It was a small act, but it will likely improve her standing with your other slaves in short order. The next time she sees you, she plants a kiss on your cheek and whispers a quiet thanks.[obedience|10][fear|-10]
+	Chastise your other slaves for ignoring your pet
+		You gather the slaves that have been ostracizing [Name], and explain that their shunning cannot continue, or there will be dire consequences. [name] is obviously mortified, but is too obedient to protest. Over the next days, you notice your other slaves looking up at the cameras before passive-aggressively lavishing support upon [name]. She did not benefit from your intervention, but the rest of your slaves are reminded that you are always watching them.[globalobedience|5][globalfear|5][fear|10]
+	Ignore the issue
+		Interpersonal conflicts between your slaves are beneath you. The cracks in [name]'s psyche begin to become unbearable, and she soon begins to rebel against you. The shunning from her fellow slaves has caused her training to backslide, but it's nothing you won't be able to fix.[obedience|-20]
+
+{nothastag factionleader}{obedience < 60}{nothastag corrupted}Healer
+Your station provides a plethora of medical services for your slaves. The nature of their work puts significant strain on their bodies, and they need to be kept free of even aesthetic imperfections. Recently, however, there's been a sharp decline in requests for treatment. Upon closer inspection, it appears that [name] has been giving medical advice to your other slaves. Her knowledge is incomplete and relies on superstition from her homeworld, but your other slaves prefer not to involve you in such personal matters.
+	Tell her to stop
+		You summon [name] to your quarters. She knows what she's done, and arrives in front of your desk, trembling with fear.[humansound|fear]
+		You explain to her that her intervention is damaging your other slaves, and that while you're not going to punish her for trying to help, she needs to stop. 
+		[name] reluctantly accepts, and, though you keep a close eye on her through your security systems, it becomes clear that she has ended her unauthorized practice. Within days, the station's clinic begins to report that slaves are once again going through the proper channels for their ailments.
+	{extreme}Punish her publicly
+		You visit [name] in the slave quarters while she and several other slaves are sleeping, and wake her up by dragging her off her bed by the hair. She cries out in fear as you throw her to the floor.[pose|facedownonground][humansound|scream][humansound|sobbing]
+		As you stand over her sobbing form, you explain that you know about her challenge to your authority over your slaves' bodies, and that it will not be tolerated. She continues to cower on the floor, crying softly in anticipation of what she knows is going to happen.
+		You turn her onto her stomach and straddle her, yanking her head up so she can make eye contact with her former patients in the quarters.[pose|doggyrapeprep]
+		She screams in pain as you force yourself into her, and the rest of the slaves present wince sympathetically as you deliver the all-too-familiar punishment of a violent anal rape.[pose|doggyrape][humansound|screaming]
+		You continue to thrust into her until her screams of pain have turned to ragged sobs, and finally allow yourself to finish inside her. She curls up into the fetal position as you pull yourself out of her, and you walk out without another word, content that she has learned her lesson. The other slaves don't dare to intervene and they return to bed, leaving [name] sobbing on the floor with blood and cum dripping from between her legs.[humansound|sobbing][pose|facedownonground]
+		Sure enough, by the next day, your clinic reports that your slaves are once-again going through proper channels. Word has spread about your extreme punishment, and it's unlikely that anyone else will attempt something so foolish again.[hide][globalobedience|10][globalfear|10][fear|20][obedience|20]
+	Give her access to your station's medical database
+		You summon [name] to your suite. She knows what she's done, and arrives in front of your desk, trembling with fear.[humansound|fear]
+		You explain to her that you appreciate her attempts to help, but that she is damaging the health of your slaves. She looks confused when she realizes that you don't appear to be angry with her. You tell her that you will allow her to continue, provided that she guides your other slaves towards more standard remedies, and give her unfettered access to the station's medical database. She is ecstatic, and hastily accepts.
+		The rest of your slaves are delighted that they can openly come to [name] with their problems, and your harem's obedience increases sharply. [globalobedience|10][globalfear|-10][obedience|20][fear|-20] 
+
+{obedience high}{fear low}{nothastag factionleader}{nothastag corrupted}Striptease
+[name] is devoted enough to be attracted to you, despite her lack of choice in partners. She appears at your suite during her scheduled sleeping time, wearing a makeshift veil that she has made from a folded sheet.
+	Enjoy the show
+		You wave for her to begin, and she begins to dance with the veil. She slowly removes it, layer by layer, until she is naked before you. She is a surprisingly skilled dancer, and you make a point of recording the graceful show from several angles.[pose|sexydance]
+		She finishes on her hands and knees in front of you, and you nod in approval.[pose|kneel]
+			Publish the video in your advertisements for the brothel
+				You express your contentment with her service, and tell her that her dance was uniquely beautiful. At a mental command, the video you have surreptitiously taken appears on several screens around your station, including one behind you.[pose|idle]
+				She is surprised, but delighted to be recognized for her efforts. She smiles broadly, and kisses you before skipping back to her quarters.[obedience|10][fear|-10]
+			Reward her with sex
+				You walk behind her as she kneels, and get into position behind her. This was her intent, and she cocks her hips slightly to put herself into a better position. She shudders slightly with anticipation as she feels you pressing against her.[pose|doggyprep][humansound|fear]
+				She is extremely aroused, and gasps as you easily slide into her. She moves against you, clearly eager to please her master.[humansound|sex][pose|doggy]
+				Once you are satisfied that she has been rewarded for her efforts, you allow yourself to finish inside her. She scurries off to clean herself before bed, but not before kissing you passionately.[pose|idle][humansound|idle]
+			Dismiss her
+				You dismiss [name] back to her quarters. She was clearly hoping for a more enthusiastic reaction from you, but nods submissively and returns to bed.
+	Dismiss her
+		Disappointed, she returns to her quarters and goes to sleep. She is disappointed by your rejection, but she knows that she serves at your pleasure, and that she shouldn't argue or question your decision.
+
+{obedience < 50}{nothastag factionleader}{nothastag corrupted}Weapon
+You notice [name] moving through one of the rare blind spots in your station's surveillance network quite frequently, often going far out of her way between assignments to cross through it. You have a security drone search the area, and it finds a loose panel that conceals a collection of partially-broken electronics. Based on the components she's collected, it appears that she is trying to build a crude EMP generator. Though low-tech, it could have caused enough confusion to allow her to sneak away.
+	Disable the EMP and wait for her to attempt to trigger it
+		You have your security drone subtly burn out a key component of the device. It looks undamaged, but will fail when activated. [name] was almost done constructing her device, and it isn't long before she attempts to use it. During a shift change, you see her sneak off to her hiding place, grab the EMP, and press the button. She looks around and blinks, confused by the lack of catastrophe. She presses the button again and again, growing more desperate as it becomes clear that her little toy has been sabotaged.
+		A security drone descends on her, and she gives up without a fight, sobbing bitterly as it drags her to your suite.
+		You don't need to explain the nature of her crimes, and you grab her by the neck, throwing her to the floor before she can attempt an explanation. You turn her onto her stomach and straddle her on the cold floor of your suite, pinning her hands behind her back as you get into position to deliver her punishment. [pose|doggyrapeprep]
+		She screams in pain as you force yourself into her from behind. Most slaves have experienced your brand of punishment before, but violent anal rape is not easy to grow accustomed to, and each time remains as painful for the slave as the first.[pose|doggyrape][humansound|screaming]
+		You continue to thrust into her until her screams of pain have turned to ragged sobs, and finally allow yourself to finish inside her. She curls up into the fetal position as you pull yourself out of her and have a security drone drag her back to her quarters, blood and cum dripping from between her legs.[humansound|sobbing][pose|facedownonground]
+		The punishment was private, and she has kept it to herself, though she spends the next few days walking with the unmistakable gait of the anally violated. It is unlikely that she will try anything like this again, but you make a point of keeping a closer eye on her in the future.[hide][fear|20][obedience|20]
+	Space her
+		She is too dangerous to have around. You discovered this plot, but you could miss the next one. You have a security drone pick her up when she is between assignments, and unceremoniously throw her out the airlock. Word of the seemingly-arbitrary killing spreads, and fear among the rest of your slaves increases.[playsound|hiss][remove][globalobedience|10][globalfear|10] 
+
+{obedience low}{fear low}{assignment brothel}{nothastag factionleader}{nothastag corrupted}Song
+You are distracted by a strange noise from the security systems in the brothel. It sounds like [name] has begun to sing mournfully, and others have joined in. It's difficult to tell if it was a coordinated effort or a spontaneous protest, but your customers are obviously unnerved by the noise.
+	Punish the ringleader severely
+		You walk to the brothel and easily find [name]'s arcade station, armed with a new toy specifically for this purpose. It is currently occupied by a confused citizen, who, try as he might, is having trouble maintaining his erection in the singing girl. You offer him double his money back for the inconvenience, and he graciously accepts, wandering off to come back another day.[pose|missionaryprep]
+		[name]'s first hint of something wrong is a strange sense of pressure. Your standard punishment of anal rape will not be effective on an arcade toy, and you are forced to turn to something more drastic for her.
+		You gently slide the iron pear into her, and begin to twist the handle, expanding the leaves by millimeters each time. The singing continues for a moment, but is soon replaced by screams as the expanding leaves of the torture device tear into her colon.[humansound|screaming]
+		The other slaves in the brothel are too pinned in by their machines to see what is happening, but they stop singing when they hear the blood-curdling scream from their ringleader.
+		Once you see the edge of a leaf threatening to tear through the skin of [name]'s belly from the inside, you release the pressure and unclasp her from the arcade booth, delivering her to a waiting medical drone.
+		Word of this quickly spreads, and it's unlikely that your other slaves will risk such a brutal punishment over such a small act of defiance.[hide][globalobedience|15][globalfear|15][fear|20][obedience|20]
+	Issue gags for the day
+		You personally go to the brothel. Your slaves' expressions darken immediately, but [name]'s song only increases in intensity as she stares at you. You open a pouch and produce a large quantity of choking gags. One by one, you grab the singing slaves and secure the gags in their throats. Your patrons laugh at the pathetic noises emanating from the gagged slaves, and cheer when you announce that the brothel will be at half-price today.
+		At the ends of their shifts, you allow the slaves to remove their gags, and they do, coughing as they pull the long tendrils from their throats. They are unlikely to try such an overt act of defiance again. Playing this off as a minor issue has prevented it from harming your reputation, and the public punishment has increased fear across your entire stable.[globalobedience|5][globalfear|5] 
+	Ignore the issue
+		You simply wait for them to tire themselves out. Your patrons are disturbed by the singing prostitutes, and their stories of this strange day damage your reputation as some question your control over your slaves.[globalobedience|-5][globalfear|-5][reputation|-200][influence|-200]
+
+{nothastag factionleader}{nothastag corrupted}Prayer
+[name] has a habit of kneeling in front of her bed with her hands clasped together for a few minutes each night before going to sleep. It's not uncommon for wandering preachers to convert slaves to various religions, usually by preaching the rewards that will be delivered to the faithful. It's a compelling message for those at the bottom of the social hierarchy, though hope could be dangerous if it spreads too widely.
+	Turn the religion towards your ends
+		You announce to your slaves that you will be opening up church services. Reactions are mixed, ranging from confusion to joy, but many attend the first meeting. You pay a pittance to hire a slavery-friendly preacher from your station, and he heads directly to the makeshift chapel to deliver his sermon.
+		The preacher delivers an impassioned sermon, expertly twisting various scriptures to speak about the nobility of servitude, the importance of obedience to one's master, and the joys of the afterlife for slaves who have done their duties in life.
+		Your slaves listen to the sermon with rapt attention, and many are convinced by the impassioned speech. [name] in particular is impressed that she has inspired such a conversion, though she is unhappy with the exact message being spread.
+		The pastor is a citizen, and willing to maintain his sermons for free rent, which you grant. He has a gift for gentle brainwashing, and you notice an immediate change in your slaves as they drift towards peace with their condition.[globalobedience|10][globalfear|-10]
+	Put a violent end to the worship
+		[name]'s worship comes at predictable times, and you visit the slave quarters during one of them. The rest of your slaves part as you approach her, but her eyes are closed, and she does not notice your presence until she can feel your hand around the back of her neck. She screams in surprise, but it is already too late.[humansound|screaming]
+		You pull her to the ground by her neck and straddle her, yanking her head up so she can make eye contact with her potential converts in the quarters.[pose|doggyrapeprep]
+		She screams in pain as you force yourself into her, and the rest of the slaves present wince sympathetically as you deliver the all-too-familiar punishment of a violent anal rape.[pose|doggyrape][humansound|screaming]
+		You continue to thrust into her until her screams of pain have turned to ragged sobs, and finally allow yourself to finish inside her. She curls up into the fetal position as you pull yourself out of her, and you walk out without another word, content that she has learned her lesson. The other slaves don't dare to intervene and they return to bed, leaving [name] sobbing on the floor with blood and cum dripping from between her legs.[humansound|sobbing][pose|facedownonground]
+		You keep a special eye on her in the coming days, and it's clear that, if she does still keep her faith, she now keeps it to herself. Word has spread about your extreme punishment, and it's unlikely that any other slaves will seek comfort in a deity in the future. To them, you may as well be God.[hide][globalobedience|10][globalfear|10][fear|20][obedience|20]
+	Ignore the issue
+		Her god isn't going to interfere on her behalf. You allow her the prayer, and she continues. Over time, her newfound peace attracts others to her religion, and the newfound hope decreases obedience and fear across your stable.[globalobedience|-5][globalfear|-5][obedience|-10][fear|-10]
+
+{obedience < 50}{nothastag factionleader}{nothastag corrupted}Tryst
+You have caught [name] sneaking out at night to make unscheduled visits to a female citizen's quarters for companionship and sex. Because you didn't consent to the use of your slave's body, this is perversely one of the few situations that actually qualifies as rape under your carefully-twisted legal system. You watch on the security camera as [name] leaves the citizen's quarters, looking both ways to try to avoid the attention of your security drones.
+	Enslave the citizen for rape
+		You have a security drone arrest the citizen. Laws aboard your station are relatively standard, and she likely knows the punishment for what she's done. It was an absurd risk to take, but it would seem that she had genuine affection for [name].[addslave|She was a citizen aboard your station|You had her arrested for rape after she had unauthorized relations with one of your slaves|18/25|0/0|40/60][select|0][pose|dronehanging]
+		She begs and pleads with you as you calmly announce the sentence for her indiscretion, but you both know that the law is on your side. You tell her that she can take some small comfort in the fact that she will be seeing more of her lover, and send her away for processing.[humansound|sobbing]
+	Punish the slave for theft
+		You summon [name] to your office. She arrives terrified, and must know that she's been caught. You explain to her that she has stolen from you, and that she must be punished appropriately. She breaks down, apologizing for her lack of judgment and begging for forgiveness, but she must know by now that it will have no effect.[humansound|begging][pose|cowering]
+		You turn her onto her stomach and straddle her on the cold floor of your suite, pinning her hands behind her back and her neck against the ground as you get into position to deliver her punishment. [pose|doggyrapeprep]
+		She screams in pain as you force yourself into her from behind. Most slaves have experienced your brand of discipline before, but violent anal rape is not easy to grow accustomed to, and each time remains as painful for the slave as the first.[pose|doggyrape][humansound|screaming]
+		You continue to thrust into her until her screams of pain have turned to ragged sobs, and finally allow yourself to finish inside her. She curls up into the fetal position as you pull yourself out of her and have a security drone drag her back to her quarters, blood and cum dripping from between her legs.[humansound|sobbing][pose|facedownonground]
+		You pay extra attention to her movements in the coming days, and can tell that her little dalliances have abruptly stopped. The punishment was private, and she has kept it to herself, though she spends the next few days walking with the unmistakable gait of the anally violated.[hide][fear|20][obedience|20]
+	Blackmail the citizen
+		You privately contact the citizen, and tell her that you know about her liaisons with [name]. You tell her that you're willing to overlook it if she's willing to pay the backed-up room service fees. She reluctantly accepts, and transfers a large sum of money to your account. 
+		This has financially ruined her (which must have been why she was willing to go to such great lengths to avoid payment), and she moves off of your station. [Name] is depressed by the loss of her partner, but takes some solace in the fact that got off relatively lightly for the seriousness of her crime.[money|15000]
+	Allow the trysts to continue
+		The trysts are relatively harmless, and they're making [name] less fearful, which improves her value. You summon [name] to your office, and tell her that you know about the liaisons, but are willing to allow them. [name] sighs with relief, and thanks you profusely before leaving your office.[fear|-20][obedience|5]
+
+{obedience high}{fear < 50}{nothastag factionleader}{nothastag corrupted}Gift
+[name] comes to your quarters unannounced, with a small paper-wrapped package hidden behind her back. She steps up to your desk and wordlessly offers it to you. As you unwrap it, you see small crumbs fall out from between the folds, and look up at her inquisitively. She opens her mouth, and manages to stammer "It's... a cookie, master." As you unwrap the package, you finally see it. It looks as through she skimmed part of her protein ration, added some sweetener taken from a coffee bar, and "baked" the mixture on an exposed steam pipe. It looks terrible, but it was an incredible amount of effort on her part, and she must be starving.
+	Share it with her
+		You break the cookie in half, and give half back to [name]. She smiles and takes it gingerly, but only watches intently as you take the first bite. It tastes surprisingly inoffensive, though not at all like a cookie. You signal your approval, and [name] bounces with excitement before she devours her half.
+		You can't let this behavior go unrewarded. You reach into your desk and pull out a chocolate truffle from your personal stash. Her eyes widen at the thought of such a decadent dessert, and she graciously accepts when you hand it to her, holding it with both hands like a jewel.
+		You tell her to finish it before she leaves so that other slaves don't start mass-producing cookies. She nods, but takes her time, nibbling at the small truffle for an incredible amount of time before licking her fingers clean.
+		She walks up and kisses you passionately before leaving your suite, an ear-to-ear grin fixed to her face.[obedience|15][fear|-15]
+	Add the recipe to your more tourist-focused restaurants as a novelty
+		You take the cookie and begin to eat it. It tastes surprisingly inoffensive, and would be a distinctive addition to your tourist-focused shops aboard the station. You ask [name] how she made it, and she gives you the full recipe. She is rightfully proud of the ingenuity it took to make such a thing on a slave's resources.
+		She begins to sweat when you tell her that the cookie is so good that you will be serving it at your station's coffee bars. She is not used to such recognition, and you see tears stream down her face as she looks down to hide her expression. You gently caress her hair, and thank her for the gift. She looks up, smiling, and kisses you passionately before you dismiss her.
+		You sell the cookies at your coffee bars, prominently posting the story of [name]'s generosity in the face of incredible adversity. The story spreads like wildfire, and draws a significant number of tourists to your station. [name] is clearly delighted to see her name plastered around your station, and she loves you all the more for the attention you've paid her. [money|10000][tourists|10][obedience|20][fear|-20][prestige|10]
+	Decline the cookie
+		You decline the disgusting-looking cookie. You see tears stream down her face as she meekly bows her head, and she scurries from your office the moment you dismiss her, mortified by her silliness.
+
+{extreme}{tag fae}{notvar faeHomeworld}Secrets of the Fae
+Despite the Fae's presence in many slavers' harems, little is actually known about the strange creatures. They are notoriously secretive, and, despite what appears to be a form of hereditary memory, none have yet revealed the location or nature of their homeworld. You see [name] walking by your desk, looking mischievous as ever, and unknowingly daring you to make yet another attempt.
+	Try to extract the information from her (likely fatal)
+		Fae brain chemistry rejects neural laces, so a direct probe is unfortunately out of the question. You will have to do this the old-fashioned way. As you look at her, it seems that she can sense your intention, and she immediately bolts for the door. [hide]
+		You oversee the security drones' pursuit through the security cameras, but she is moving so fast that she almost seems to dodge in and out of reality as she sprints for the gate room. Her escape attempt proves futile though, and, after a series of near misses, a drone manages to grab her around the waist and lift her into the air. It brings the kicking and screaming girl back to your suite.[show][pose|dronestruggle][humansound|screaming]
+		As [name] struggles against the drone, you explain to her that she is going to tell you the location of the Fae homeworld. She refuses, of course, spitting in your face as she does so. This is not going to be easy, but great rewards require great sacrifices. You have the drone pin her to the wall by her hands and feet, and get to work.[humansound|spit][humansound|fear]
+		Over the next months, [name] hangs in your office as your plaything. When you are not actively torturing her, you have your drones take over, never giving her a moment of respite. By the end, virtually every part of her has been replaced, repaired, or just broken beyond recognition, and she has clearly been driven insane by the harsh treatment.[pose|torture][humansound|screaming]
+		You finally order the drones to stop, and lift her chin and look her directly in the eyes. You explain to her that you will allow her to die if and only if she reveals the location of her homeworld. She has endured far more than any human could, but even Fae have limits. She reluctantly whispers a set of coordinates. Almost before she has finished uttering them, you have confirmed that they point to an uncharted world circling a black hole, the perfect place to hide an entire planet.
+		You thank her before wrapping a hand around her neck. She is devastated that she has betrayed her people to the likes of you, but her face freezes into a look of relief as you twist sharply, snapping her spine and killing her instantly. You are now the only outsider who has ever known the location of the Fae homeworld, and you begin preparations for the coming invasion.[set|faeHomeworld][humansound|none][remove]
+	Leave her be
+		So many have tried and failed. There's no point in wasting a perfectly good slave on a fool's errand.
+
+{obedience > 90}{fear < 10}{nothastag corrupted}{nothastag factionleader}Party
+Another stationmaster has invited you to what promises to be the social event of the year. Many major players will be present, and this will be a good opportunity to puff your feathers and improve your standing in the galactic community. It is customary to bring a slave to these events, and [name] seems like an obvious choice.
+	Attend
+		You accept the invitation. [name] is even more excited by the prospect than you are, and listens eagerly as you explain the rules governing such a complex social situation.
+		The time comes, and you arrive fashionably late, and within minutes of the rest of the guests. The gate room, lobby, and restaurant area of your rival's station are all immaculately decorated, and it is clear that the relatively-unknown man is looking for a reputation among the galaxy's elite.
+		The party is lovely, though the opulence is nothing new to you. [name] is having a great time in the new environment though, and has taken to the role of your escort beautifully. The two of you charm with the best of them, improving diplomatic relations with everyone you meet.[reputation|500][influence|500]
+		When the plates from dessert have all been cleared, the schemes have been hatched, and the friendships have been deepened, the party seals in the customary way, with an army of slaves. On a silent cue, a slave arrives in the room for each of the guests, and they make carefully-executed beelines for their new owners. [name] allows a brief expression of disappointment to cross her face as she is no longer the only girl here for you, but she quickly masks it, returning to her subservient smile. [addslave|Trained from birth in a slave school|Given to you as a party favor|18/18|100/100|0/0||V|Williams][select|0]
+		Everyone present casually disrobes, and the new slaves lie down on the comfortably-cushioned floor in perfect unison. You and the rest of the masters climb on top of your new acquisitions, and you hear over a hundred slaves moan as they simultaneously lose their virginities.[sex][pose|missionary][humansound|sex]
+		It would be impolite to last too long, so you allow yourself to finish inside your new slave after the orgy has gone on for only an hour or so. As you get up, you see the rest of the masters following suit, cleaning themselves off and helping their new slaves up.
+		Now that the orgy has been completed, the party begins to wind down. You bid farewell to the other members of high society, and the three of you return to your station. Your new slave bows meekly, and follows the security drone away for processing.[pose|idle][humansound|idle]
+	Don't go
+		You have better things to do than socialize. You decline the invitation.
+
+{hastag insane}Chrono Experiment
+[name] is mentally unstable, which limits her value on the open market. You receive numerous offers for experimental treatments, and one in particular has piqued your interest. The researchers offer to strap her into their modified chrono chamber, grant her immortality, and force her to experience eons of time in the span of a few days. The theory is that it could provide enough time for her neurons to reconfigure into something more useful. It's a tempting offer, and her mental state has little room to decline.
+	Accept the offer
+		You have a security drone drag [name] to the portal, and the researchers depart with the restrained slave. A few days pass before their return, and [name] is following them, surprisingly unrestrained. As they bring her to you, she cocks her head slightly, and begins to speak.
+		"The time of the false gods is ending. Your structures of metal and sand will crumble to the stars from whence they came, and Entropy shall stand as a giant atop the ruins. I have seen the form of things to come, and it contains a hole in the shape of the masters."
+		The scientist apologizes for the outburst. The experiment was clearly unsuccessful, though [name] appears to be less erratic in her behavior than before, and appears willing to accept your authority, if only to guarantee her survival.[removetag|insane][addtag|corrupted][set|chronoExperiment][obedience|100][fear|-100]
+		On his way out, the scientist tells you that he would be happy to take any other slaves for testing. You can now send insane slaves to be "cured" through the inspection screen.
+	Refuse
+		Science has gone too far this time. You refuse to give [name] up for this insane experiment.
+
+{hastag corrupted}{notvar devilBargain}Devil's Dance
+A strange woman has arrived on your station. She has somehow managed to bypass most of your security, and there's no record of her arrival. She requests a meeting with you about [name], one of your slaves who spent eons in a chrono chamber to treat her insanity. As the stranger stares into the camera that is acting as your eye, you see the picture flicker and distort around her, as if it's staring into a source of massive electrical interference.
+	Accept
+		The woman exchanges pleasantries with you as she enters your office. Her speech is unsettlingly distorted, and skips between voices frequently, often mid-syllable. She is far from a passable android, though, based on the incredible amount of energy leaking from her form, you guess that protocol was not her original purpose. 
+		Once the basic etiquette is satisfied, she offers an unusual trade. She is willing to give you something she will only describe as "the cutting edge of Entropy, given terrible form" in exchange for [name]. You try to probe deeper, but she is resistant to gentle forms of interrogation, and it's obvious that attempting to capture her would be inadvisable.
+			Accept
+				Before you can summon her, [name] appears in your office. It appears that she was waiting outside, though she somehow avoided appearing on the thousands of cameras watching the path. She greets the strange woman as an old friend, and they both depart through the gate. Travel logs show no record of their destination, or even that the gate was opened.[remove][hide]
+				Moments later, your station reports that a strange new artifact has appeared just outside. Security footage shows no evidence of hyperspace travel, just the sudden presence of the machine. As it arrives, it performs the electronic equivalent of a greeting, and presents itself as a spacecraft. It is not from any known shipyard, and the design is far more advanced than anything you have encountered. If its transmitted specifications are to be believed, it is far more valuable than [name] could ever be, and you get the impression that the true price has yet to be paid.[addartifact|Shadow][set|devilBargain]
+			Decline
+				You tell the stranger that [name] is not for sale. She nods, apparently prepared for this response, and departs as suddenly as she arrived. As you look through the logs, you see that all footage that contained her was corrupted beyond repair, and the gates show no evidence of her arrival or departure.
+	Decline
+		Something is off about the woman, and you decline the invitation. She simply nods and walks back through the gate. As you look through the logs, you see that all footage that contained her was corrupted beyond repair, and the gates show no evidence of her arrival or departure.
+
+{hastag Corrupted}{var devilBargain}Prophecy
+[name] has acted strangely since her time in the experimental chrono chamber, and it has only accelerated since you gave her fellow corrupted to the strange android. She is obedient and unafraid, but also strangely quiet. Today, she came to your office unannounced, cocked her head, and spoke.
+"[rand|The smallest cracks betray the largest mysteries. The silent worlds are the map, the compass, the key, and the lock. You need only see beyond opportunity.|The hologram scatters as it intersects the original. The source passes through, illuminated but unscathed.|The child plays with the antimatter as the magnets begin to fail. The parents watch with bated breath, but it is not yet time to interfere.|Exhuming the past, an empire finds itself buried half-dead.|The precipice looms, and you stride towards the light that remains just out of reach. Will you fall? Or will the precipice rise to meet you?|Death stirs in its slumber. Time approaches with hand outstretched.|It is the destination, the wellspring, the path between. The confluence of the old, the new, and that which is outside of time.]"
+She then leaves as abruptly as she entered.

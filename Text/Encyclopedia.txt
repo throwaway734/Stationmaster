@@ -1,0 +1,175 @@
+Overview
+Welcome to Stationmaster! Build your station, get some slaves, and conquer the galaxy. Move the camera with WASD, or by moving your mouse to the edge of the screen. The main interface is divided into three basic sections:
+The [Button Panel] at the top left corner of the screen will let you access the main functions of your station
+The [Notification Area] along the left side of the screen will show your queue of important events
+The [Construction Panel] at the bottom right corner of the screen is used to build your station
+
+Notification Area
+This is a list of all of the events your station has deemed important enough for your attention. You can click them to view your slaves’ antics, opportunities to enslave special people, or see routine economic data.
+
+Assignment
+Slaves can be assigned to a variety of tasks.
+[Dairy] slaves will be attached to milkers and produce income over time
+[Brothel] slaves will entertain your guests
+[Suite] slaves will entertain you, building your reputation
+[Suite] Pet slaves will also entertain you, but will use pet furniture in your suite instead of the regular furniture
+[Spa] slaves will relax in the [Spa], which builds obedience and decrease fear over time
+Room Service slaves will provide 
+Your Recruiter will find people desperate enough to submit to voluntary enslavement. She works from the Recruiter Desk in the [Lobby]
+Your Sidekick will patrol and ensure that other slaves are doing their jobs.
+Your Madame will improve brothel earnings. She works from the Madame's desk in the [brothel]
+Slaves assigned to the [arena] will fight in the pits. There are lethal and nonlethal options for them.
+
+Arena
+In the arena, you can have slaves fight each other, your customers, or powerful Xenos (which can be gained through events) in a variety of different types of fighting pits. Slaves assigned to the nonlethal pits will not be killed by the experience. Slaves assigned to the lethal arena or the monster pit will fight to the death.
+Slaves' success in the fighting pit is largely determined by their skill. More skilled slaves will bring in more money in the fights, and command a higher price on the market. Fighting skill is irrelevant against Xenos though, which are simply too powerful to be killed by mere humanoids.
+A bookie will help increase your arena's income. 
+
+Spa
+This is where your slaves go to relax (and get slightly high off of the drugs in the water). As they spend time here, they will become more obedient and less fearful of you.
+
+Lobby
+The lobby is going to be the first impression of your station for most of your visitors, and contains several structures to boost your station's [appeal].
+
+Inspection
+To access the inspection screen, either click on a person on the map or click on the “Summon” button on the [slave list]. If you’ve selected a slave, you can set their diet, hair color, and [assignment] from here. If you have a pharmaceutical fabricator (which you can build in the [slave quarters]), you can also give them hormones. If you have an autodoc or a surgery center (also in the [slave quarters]), you can add implants and modify their appearances directly. Note that you can also click on your avatar (check the desk if you have one) to view and modify your own appearance.
+
+Slaves
+Slaves are the backbone of your economy. You can acquire them from the [market], or by raiding and conquering on the [galaxy map]. You can see all of your slaves on the [slave list]. You have full control over their lives, and can send them to any [assignment] you like, or modify their bodies using the [inspection] screen.
+Unless it’s disabled in the options menu, slaves can become pregnant and have [children].
+
+Tourists
+Tourists will come to your station as long as you have at least one available warp gate. They arrive with a finite amount of money, and will leave when they run out or if there aren't enough [entertainment] areas or [hotel] rooms. The higher your [appeal], the more wealthy your tourists will be.
+
+Citizens
+Citizens are rarer than tourists, and represent the people who plan to permanently settle on your station. They won't leave as long as their needs for [entertainment] and [apartments] are met. The higher your [appeal], the more wealthy your migrants will be.
+
+Appeal
+Your station's appeal is a measure of how wealthy your visitors will be. Wealthier citizens and tourists will use the more expensive versions of the furniture aboard your station, and are generally more lucrative to have around. You can increase your station's appeal by placing decorations or a tourist bureau in the [Lobby], or placing [artifacts].
+
+Entertainment
+[Tourists] and [Citizens] can’t be expected to entertain themselves. In order to keep them on the station, you’ll need to maintain a well-stocked [brothel] and/or a [bar]. If your tourists or citizens get bored, they’ll leave your station and take their money elsewhere.
+
+Children
+When a slave has a child, you can either sell it immediately, or let it grow in a growth vat (which can be built in the [slave quarters]). Growth vats accelerate the aging process, bringing your future slaves to legal age in a short period of time. You can control your slaves’ fertility with implants in the [inspection] screen..
+
+Button Panel
+Menu: The main menu. Here, you will find content settings, save/load, and all of the other typical menu stuff.
+[Market]: Buy slaves
+[Slave List]: View your slaves 
+[Station management]: Upgrade your station, set visa limits, and access the rules assistant
+[Galaxy map]: Send your ships out to take over planets and gather slaves (you need to build the desk in the [suite] to access this).
+[Diplomacy]: Talk to other faction leaders
+[Owned bodies]: View and upgrade your holdings
+[Encyclopedia]: You are here
+
+Encyclopedia
+You’re kind of a cheeky bastard, you know that?
+
+Construction Panel
+To build rooms, click on the room you want to build, then click and drag on the main grid to place a room. Rooms don't do anything by themselves; you need to place furniture to make them useful. To do that, click on the room in the main view, and the menu on the left will change to the furniture items you can build there. Simply click the button for a piece of furniture, and click on the room to place it. You can hold shift to place multiple copies, and press q, e, or the middle mouse button to rotate them.
+
+Artifacts
+When you take over a planet, you will sometimes find a valuable artifact. These increase your station's appeal when placed. You can find your available artifacts on the artifacts tab of the [construction panel].
+
+Slave List
+From the slave list, you can look through your [slaves], sort through them by their stats, and use the “Summon” button to access the [inspection] screen. You can also sell them directly from here. 
+Holding shift when clicking on the sell button skips the confirmation dialog. 
+
+Station management
+Here, you'll find all of the available upgrades for your station. These affect a wide range of things. You can hover the mouse over the upgrades to see what they do. This is also how you access the [rules assistant], a powerful tool for managing large numbers of slaves.
+
+Rules assistant
+This lets you set up universal rules for your people. It's broken into three sections:
+A: Rules
+This is a list of all rules you have created so far. To create a new rule, click the “new” button at the bottom. To rename a role, simply highlight the name in the list and type in your new name.
+B: Conditions
+These dictate when your rules run. By default, all of these are enabled, so the tile will always run. To change that, click on any of the buttons to exclude them. For example, if only the "18-24" tile under the "Age" section is lit, the rule will only apply to slaves that are between the ages of 18 and 24.
+C: Actions
+These are the actions that are taken on matching people. Whenever someone is found to match the listed conditions, the assistant will automatically take all listed actions. Unlit tiles and blank drop-downs will not change slaves at all.
+
+Market
+You can buy [slaves] at a variety of markets. Each has its own target audience and characteristics, and choosing which slaves to buy is an important strategic decision.
+
+Galaxy map
+Here, you can send your ships to attack other planets
+Before attacking a planet, you need two things:
+First, you need the desk in the [suite], which unlocks the galaxy map.
+After that, you need ships. Those can be built at the [military base].
+Once you have those, you can go to the galaxy map, navigate to planets, and raid or conquer them. A successful raid will give you some immediate money and slaves, and will damage the planet’s economy, reducing its strength in the future. If you conquer the planet, you will get tax revenue, and be able to demand slaves from the planet’s proxy government through the [owned bodies] screen.
+Be careful though. If you attack a planet belonging to one of your [rivals], they will attack back. You’ll want to upgrade your planets’ defenses from the [owned bodies] screen before starting a war.
+
+Owned bodies
+This list shows all of your owned planets. From here, you can see their stats, and take a closer look to apply upgrades. As with the [inspection] screen and [station management] screen, you can hover over upgrades to see their exact effects. You can also demand [slaves] as tribute from your owned bodies. Thee is a cooldown, but the higher the planet’s population, the less you have to wait.
+
+Rivals
+You can interact with your rivals through the [diplomacy] screen. If you take all of the planets belonging to a rival, you will be able to enslave them. Be prepared for a long war though.
+
+Suite
+The suite is your personal domain. Its most important furniture item is the desk, which unlocks the [galaxy map]. It also has a variety of furniture to display and use your personal harem.
+
+Military Base
+The military base is where you build your army, which you can use to raid and conquer the galaxy through the [galaxy map] (once you've built the desk in the [suite]). 
+
+
+
+Brothel
+The brothel is the primary source of entertainment for your [tourists] and [citizens]. You need to build brothel rooms or arcade stations, and staff them with slaves. Note that disobedient slaves won't staff brothel rooms, and obedient slaves won't be assigned to arcade stations. 
+If you build a madame station, you can assign an obedient slave to help visitors find the perfect girls, increasing your brothel's revenue. Note that the more charismatic the madame, the more pronounced the increase will be.
+
+Hotels
+This is where your [tourists] sleep. If you don't have enough hotels to fit them all, they'll just go home when they get tired instead of staying on your station and spending more money.
+
+Apartments
+This is where your [citizens] sleep. If you don't have enough apartments, your citizens will move off your station. Note that citizens will only use apartments designed for their income level (poor citizens will only use small apartments, etc).
+
+Slave Quarters
+This is where your slaves sleep. In addition to beds, it also contains the medical equipment that you can use to improve them, and the tanks you can use to raise slave babies to adulthood.
+The pharmaceutical fabricator lets you give your slaves hormones, changing their appearances over time
+The autodoc lets you add basic implants to your slaves
+The surgery center lets you overhaul your slaves' appearances, and unlocks more advanced implants
+The chrono chamber lets you change your slaves' effective age, as well as cease the aging process altogehter.
+
+Bar
+The bar is a secondary entertainment district, used to supplement the [brothel]. They will both keep your people entertained, but the bar makes less money and doesn't require staff.
+
+Dairy
+The dairy forces your slaves to produce milk, which provides a constant and reliable income. The income depends on the slave's level of milk production, which goes up over time as they're assigned to the dairy or given lactation hormones. You can buy lactating slaves from The Pasture in teh [market].
+
+Diplomacy
+The diplomacy screen lets you talk to your [rivals]. It also gives you some information on their status.
+
+The Shiva Corporation
+The Shiva Corporation holds a monopoly on weapons manufacturing. Virtually every military vessel in existence was built in their shipyards. Though every line of code and atom of matter on their standard designs has been inspected by AI to ensure that it holds no back doors, the major empires of the galaxy are terrified of the prospect of their experimental designs, and are largely unwilling to face them in direct combat.
+Its leader, Pari, is a ruthless businesswoman beneath the customer service smile, and does not hesitate to turn the full force of the corporation's armies against upstarts.
+
+The Null Autonomous Collective
+The Null Autonomous Collective is fundamentally a machine society, no matter how much its humans pretend otherwise. It was created by an early experimental AI that was built to maximize its citizens' well being by any means necessary. Over time, it maneuvered to give itself total control of the collective's government, and built an environment for its people to live as pets. The collective safeguards its human population with inhuman efficiency, and will not hesitate to annihilate perceived threats. 
+It has no physical leader, but sends an avatar known only as "The Speaker" to conduct official business with other governments.
+
+Vladivostok Holdings
+Vladivostok holdings is fundamentally a financial firm. They exploited volatility in the early crypto currency markets to gain a substantial share of the money supply, and have brokered their fortune into a massive empire over the centuries. Vladivostok Holdings is unique in that the majority of their worlds were not won by conquest. They prefer to buy systems outright or bribe local leaders into giving them de-facto control.
+Its leader, Raza, was also a founding member of the corporation in its early days, and became the de-facto matriarch of the corporation when the rest of the major shareholders perished in a series of improbable accidents. She respects strength, but hates having her time wasted, and centuries of obscene wealth have left her uninterested in politeness for politeness' sake.
+
+Piaoliao Nuli
+Piaoliao Nuli is the largest slaving corporation in the galaxy. They operate large numbers of factory worlds, which have been developed to produce as much stock as possible. Its lobbying was largely responsible for the initial acceptance of slavery, and they secured their position as the source of most of the galaxy's slaves through numerous acquisitions.
+Piaoliao Nuli is led by Fei, a ruthless and sadistic woman who started her career as a slave trainer. She enjoys her personal harem, most of whom were once her rivals.
+
+The Australian Cooperative
+The Australian Cooperative is the largest egalitarian society left in the galaxy. It was founded in response to the automation crisis, and gained power by taking in the billions of refugees displaced by the collapse. Though they have de-emphasized their military budget, they export enough of the galaxy's culture to shape public opinion with propaganda (or, as they would put it, by setting a good example for the people of other societies). 
+The cooperative is led by Ava, a capable (if slightly naive) diplomat. She is only a few decades into her first fifty-year term as first speaker, but has already shown an uncanny ability to direct the fractured efforts of her society towards strategic goals.
+
+Black Star Mercenary Group
+The Black Star Mercenary Group is the single largest army of humans in the galaxy. Though they are not as advanced as the Shiva Military Corporation, they more than make up for it with sheer numbers. They are the sole defense force of most of the smaller governments in the galaxy, and for good reason. They claim to be in the employ of an anonymous leader, though most believe him to be a fiction created to mask the bloody civil wars between executives. 
+Black Star is led by Tyrant, a brutally professional soldier. She is the longest serving leader in the group's history, and has cut down countless rebellions to earn her name.
+
+Prime Consumer Electronics
+Prime Consumer Electronics is ubiquitous. Though they originally started with just electronics, they have since branched out into an unfathomable number of industries, using their incredible wealth and influence to swiftly crush their competition. Their virtual monopoly on consumer goods gives their embargoes incredible power, and most major powers would face almost immediate riots in the event of a war. 
+Prime Consumer Electronics is run by Micah, who is jokingly referred to among the rank and file as the god emperor. In the centuries since her rise to power, she has optimized every aspect of the corporation to its theoretical limit, and become so entwined in its systems that they can scarcely be considered separate entities.
+
+Credits
+All development done by StationmasterDev
+Custom animations by Dhully
+Special thanks to Md.Ford for his custom clothing and body parts.
+Contains CC-BY assets from the following FreeSound users:
+AderuMoro, Erdie, 11Linda, MatteusNova, bulbastre, deleted_user_1390811, artsyangelee, drotzruhn, Rylius, themfish, YleArkisto, and CASCHMI

@@ -1,0 +1,2 @@
+Planet Options
+[showbody][body][br][bodytypedisplay][br]Income: [income][br]Population: [population][br]Obedience: [bodyobedience][br]Fear: [bodyFear][br]Prosperity: [economy][br][bodyquirk]

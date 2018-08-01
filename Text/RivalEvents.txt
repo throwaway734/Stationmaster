@@ -1,0 +1,57 @@
+{relationship < 10}Prisoner
+[government] sent a small infiltration team to disrupt your station. The attack was easily discovered by your security drones, but one of the spies involved survived her injuries.[addslave|Spy for [government]|You took her after she participated in a failed covert op on your station|25/35|25/35|0/0][clothe]
+	Ransom her back to her government.
+		The spy wrinkles her nose at the prospect of being used as a bargaining chip, but her government agrees to pay for her release.[money|100000][remove]
+	Space her
+		You have your drones lock her in with the rest of the debris from the battle, including her fellow spies. As you're about to press the button, she bites down, and begins to froth at the mouth. She must have used her cyanide capsule rather than die in space. You press the button, and watch her and the rest of her platoon disappear into the void.[remove]
+	Keep her
+		As you enter the spy's cell, you quickly order your drone to force open her mouth. Before she can react, you pluck out the cyanide capsule concealed within. It's a standard feature on operatives these days, and this one is about to find out why. You explain that, for the crime of participating in an attack on your station, she will be enslaved. She screams obscenities at you and struggles violently against the bonds of her chair, but to no avail. You have your security drone drag her away for processing.
+	Let her go as a gesture of goodwill.
+		You have your security drone lock her in an escape pod and send her back to her world. She appears indignant at the lack of respect you've given her as an enemy, but thankful that she will live to fight another day.[remove][relationship|10]
+
+{atwar}Dissidents
+[Government] is funding dissidents aboard your station. They are not a serious threat to your rule yet, but they are converting more and more people to their side, and should be dealt with before they become something more sinister.[set|dissidents]
+	Have them slaughtered
+		Your security drones descend on their next meeting and tear apart every man, woman, and child in the room. You leak the security footage to warn your citizens about the dangers of participating in such nonsense, but the martyrs brought more people to their cause. Their friends and family demand justice, and are committing small acts of terrorism around your station. They have broad but silent support amongst the people.
+			Pay reparations to the family members (Costs $1,000,000)
+				You contact the resistance leader and offer to pay them reparations for the unfortunate deaths of their family members. They take some time to think about it, but eventually accept your offer. The attacks stop, and the organization's members quietly book travel off of your station.[money|-1000000]
+			Slaughter these ones too
+				The members of the new resistance are much more paranoid than the original dissidents, but your drones eventually manage to ferret out the core group. This is not likely to be a permanent solution, but the organized threat is gone.[set|terrorists]
+	Hire agents to destroy their organization from the inside (Costs $100,000)
+		You hire a reputable team of provocateurs to deal with the problem. They infiltrate the organization and turn its attention from marches and civil disobedience to terror plots (which are always foiled at the last minute). They lose the public's sympathies quickly, and you uncontroversially space most of them, keeping a couple of the leaders as trophies.[addslave|Was a leader of a dissident organization funded by [Government]|You enslaved her after your agents discredited her organization|min/25|0/0|40/60][addslave|Was a leader of a dissident organization funded by [Government]|You enslaved her after your agents discredited her organization|min/25|0/0|40/60][money|-100000][unset|dissidents]
+	Ignore them
+		The dissidents have organized into a full resistance against your rule, and will not stop until you are deposed. Their support is significant, and they are beginning to shut down major parts of your station with their protests.
+			Slaughter them
+				Even with the weapons from their foreign benefactors, the dissidents are eventually overwhelmed by your security drones. The ensuing revolution is a bloodbath though, and many of the citizens and tourists aboard your station have been lost.[bloodbath][influence|-1000][reputation|-1000]
+			Create programs to satisfy them (Costs $1,000,000)
+				You broadcast an address to your people, announcing lavish funding for schools, hospitals, and other public services to improve the lives of your citizens. They don't believe you at first, but they quickly see the wave of improvements that come to your station. While they are still unhappy with how unpleasant life had become, they are now at least pacified to the point that they aren't calling for your head on a spike.[money|-1000000][unset|dissidentsignored][unset|dissidents]
+
+{relationship < 10}{atwar}Assassin
+An agent from a [government] has made a foolish attempt on your life, charging at you with an improvised knife while you walked in the courtyard. Before she could touch you, a security drone materialized, pinned her, and extracted her cyanide tooth. The question of what to do with the screaming woman falls to you.[AddSlave|Feels Constant Rage|Your security drones captured her after she tried to assassinate you|22/26|0/0|0/0][clothe]
+	Enslave her
+		As you enter, the would-be assassin flies into an impotent rage, screaming and struggling against her bonds. You try to explain her situation to her through her stream of profanities, but she doesn't seem to comprehend. No matter, she will understand soon enough. You let your drones collar her and lead her to her new home for processing.[Inf|10][humansound|rage]
+	Space her
+		You announce to the station that there has been an assassination attempt, and that the would-be assassin will be executed. The citizens eagerly gather around the airlock for the public execution. A security drone brings the gagged and restrained criminal into the courtyard as you read the sentence. As you say your final words, the machine throws her through the inner seal and closes the door behind her. At your silent command, the outer door opens, ejecting her into the vacuum with an expression of pure rage frozen on her face.[rep|10][inf|30][remove][humansound|scream][playsound|hiss]
+	{extreme}Make an example of her
+		As you enter, the would-be assassin flies into an impotent rage, screaming and struggling against her bonds. You try to explain her situation to her through her stream of profanities, but she doesn't seem to comprehend. You send her to the medical bay, and her eardrums, eyes, and vocal cords are destroyed by the surgical machines. You make an announcement to the station that there's been an attempt on your life, and the perpetrator will be left bound in the courtyard for free use by those who can't afford the brothels. Under the care of your drones, she will likely live for centuries to come, with no sensation other than being endlessly raped by the lowest in your society.[rep|-50][inf|100][strip][remove][humansound|scream][humansound|idle][playsound|drone]
+
+{relationship < 50}Unknown Slave
+You suddenly become aware of a new slave in your systems, but have no record of her arrival. She is obviously a spy, but it's likely that whoever sent her did not expect her to be discovered so quickly. It's important to tread carefully here. It's difficult to know what her intentions are, but she is not here for your benefit.[addslave|She was a spy for [government]|You converted her to a proper slave|18/25|0/0|100/100]
+	Interrogate her
+		[random|You summon her to your office. She comes gracefully, but immediately notices by your expression that she has been found out. [random|She bites down on a concealed cyanide tooth, and immediately collapses on the floor of your suite, dead|The skin in her abdomen begins to glow, and you duck behind your desk as she explodes, splattering gore across the room]. There's no way of knowing who she belonged to now.[remove]|She believes this to be a standard inspection, and is surprised when she is suddenly grabbed by a security drone. Before she can react, it [rand|forces a tentacle into her mouth, extracting a cyanide tooth|forces a tentacle down her throat, and extracts a small explosive device before taking it to an airlock]. She knows that resistance would be pointless at this point, and you don't even need to torture her before she reveals that she was collecting information on behalf of [government]. This calls for retribution.]
+	Space her
+		You wait until she is walking past an airlock, and remotely open both doors. The explosive decompression sweeps her off her feet, and she is immediately flung into space. Seconds later, sensors detect a massive explosion centered on her body. It would appear that she was a saboteur. There is no way of knowing who sent her at this point, but it would be wise to be careful of suspicious activity in the future.[remove][hide]
+
+{relationship < 10}Hacker
+Someone, no doubt with the full resources of a major corporation, has hacked your systems, causing a temporary disruption in service and stealing a not-insignificant amount of money. Whoever it was must have had physical access to your station, as the hack penetrated into your airgapped internal network.
+	Focus on finding the hacker
+		It doesn't matter how much damage is caused, such a crime cannot go unpunished. You devote your station's resources to finding the hacker, writing off the money as lost. Within minutes, you manage to locate the port that she had plugged into, and security footage shows her on her way through a gate. Just before she can enter, you shut down the gate and have a security drone arrest her. She is not used to the prospect of actual physical harm, and gives you the name of her employer immediately. [government] will pay for this sooner or later, but, until then, you can enjoy your new toy. [addslave|Talented Hacker|You enslaved her after she hacked into your systems on behalf of [government].|18/25|50/50|50/100][money|-100000][influence|-25][clothe][pose|dronehanging]
+	Focus on repairing the damage
+		You focus your efforts on stopping the damage. Devoting the full resources of the station to mitigation stops any serious disruption, and most don't even notice that anything went wrong. Unfortunately, the hacker escaped in the confusion.
+
+{atwar}Sabotage
+You feel a tremor, and lose connection with some of your cameras in a remote area of your station's underbelly.
+	Lock down the station
+		You immediately shut down all entrances and exits to stop the terrorist from escaping. With the advanced surveillance systems on your station, it's trivial to catch and apprehend the terrorist. After a few days of torture, she finally reveals that she is in the employ of [government]. Unfortunately, the lockdown scared would-be tourists, and your reputation has been suffered slightly.[addslave|Terrorist previously in the employ of [government]|You enslaved her after she detonated a bomb on your station|18/18|0/0|0/0][pose|dronestruggle][clothe][influence|-100][tourism|-10]
+	Investigate without disrupting service
+		You pass off the shaking as a minor malfunction, and successfully cover up the attack. Unfortunately, the terrorist manages to escape.

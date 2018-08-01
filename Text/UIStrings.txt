@@ -1,0 +1,561 @@
+Tutorial:
+CharBoredTitle|Boredom
+CharBored|[Name] has become bored and is considering leaving the station. Make sure you have enough shops or slave whores to entertain your people.
+CitizenTiredTitle|Citizens Tired
+CitizenTired|[Name] is tired, but has nowhere to sleep. Build more [incomeindicator] apartments to keep your citizens from leaving the station.
+TouristTiredTitle|Tourists Tired
+TouristTired|[Name] is tired, but has nowhere to sleep on your station. Build a hotel or more rooms to let your tourists spend the night.
+SlaveTiredTitle|Slave Collapsed
+SlaveTired|[Name] is too tired to function, but has nowhere to sleep. Consider building more slave beds in the slave quarters.
+SlaveIdleWorkTitle|Slave Idle
+SlaveIdleWork|[Name] is currently idle because there is nowhere for her to complete her duties. You should reassign her or expand your brothel so that she has something to do.
+SlaveIdleTrainTitle|Slave Idle
+SlaveIdleTrain|[Name] is currently idle because there is nowhere for her to complete her duties. You should reassign her or expand your slave training facilities (spa and prison) so that she has something to do.
+InsufficientGateTitle|Insufficient Gates
+InsufficientGate|[showassistant]You have a backlog of tourists and immigrants trying to get aboard your station. It may be wise to build more gates to increase the flow of people in and out.
+BuildRoomTitle|Tutorial
+BuildRoom|[showassistant]Welcome to Stationmaster![br]To build a room, select a type with one of the buttons on the right, and click and drag on the grid to place it.[br][br]Generally, you'll want to start by encouraging tourists to visit. To do that, build a port and a shopping district.[br][br]If you would like more information, press F1 or the "Help" button under the settings menu to view the encyclopedia.
+BuildFurnTitle|Tutorial
+BuildFurn|[showassistant]To build furniture, click on a room, and use the buttons on the right hand side to select an item. Hold shift to build more than one.[br][br]To start, build a gate in your port to allow tourists to visit, and a restaurant in your shopping district to give them something to do while they're here.
+SlaveTutorialTitle|Tutorial
+SlaveTutorial|[showassistant]Shopping districts are entertaining enough, but tourists will give you a lot more money for a brothel.[br][br]To set up your brothel, start by building the room and some private rooms (for obedient slaves) or arcade stations (for disobedient slaves). Once you have those, use the shopping cart icon in the top left of the screen to buy some slaves to fill them.[br][br]Note that slaves with high obedience won't staff arcade stations, and slaves with low obedience won't staff private rooms.
+DemoSlavesTitle|Free Limit
+DemoSlaves|The free version of Stationmaster is limited to 10 purchased slaves. You can always try raiding for them though.
+
+
+General notifications
+VirginityTaken|Virginity Taken
+VirginityTakenText|{0} has paid you an extra $1000 for the pleasure of taking {1}'s virginity in the brothel.
+
+Character Tags:
+Corrupted|Corrupted
+Insane|Insane
+Defiant|Hates Authority
+Easygoing|Easygoing
+Fearless|Brave
+Fearful|Cowardly
+HatesSex|Hates Sex
+LikesSex|Enjoys Sex
+TribalClothes|Primitive Outlook
+Rich|Wealthy Upbringing
+MiddleClass|Middle-Class Upbringing
+Poor|Poor Upbringing
+Lactating|Lactating
+Breast Implants|Has Breast Implants
+Anal Lubrication Implant|Has an Anal Lubrication Implant
+Dental Rubberization Implant|Has a Dental Rubberization Implant
+Vaginal Tightness Implant|Has a Vaginal Tightness Implant
+Reward Center Stimulator|Has a Reward Center Stimulator
+Muscle Limiter Implant|Has a Muscle Limiter Implant
+Electroshock Implant|Has an Electroshock Implant
+Sensory Noise Implant|Has a Sensory Noise Implant
+Surveillance Implant|Has a Surveillance Implant
+Remote Implant|Has a Remote Implant
+Sterilization Implant|Has a sterilization implant
+Embryo Splitter Implant|Has an embryo splitter implant
+Rapid Gestation Implant|Has an implant that reduces gestation time
+Factory Implant|Has an implant that keeps her perpetually pregnant
+Fertility Implant|Has an implant that increases her odds of becoming pregnant
+
+
+
+
+PurpleSkin|Is a member of an extremely rare species of alien
+Kiff|Kiff
+Draug|Draug
+Fae|Fae
+Eoll|Eoll
+HiGrav|High-gravity worlder
+LoGrav|Low-gravity worlder
+Kort|Kort
+Ataran|Ataran
+Eko|Eko
+Chirop|Chirop
+Felis|Felis
+Canis|Canis
+Doll|Doll
+Williams|Trusts her master without question
+Bova|Bova
+
+
+
+Basic UI:
+NextPage|Continue
+
+Inf0|Unknown
+Inf1|Minor Player
+Inf2|Kingpin
+Inf3|Dictator
+Inf4|Regional Power
+Inf5|Superpower
+Inf6|System Lord
+Inf7|Omnipotent
+
+Rep0|Reviled
+Rep1|Hated
+Rep2|Feared
+Rep3|Cruel
+Rep4|Dubious
+Rep5|Neutral
+Rep6|Fair
+Rep7|Good
+Rep8|Great
+Rep9|Loved
+Rep10|Worshiped
+
+Furniture:
+SlaveBedsName|Slave Bed
+SlavePodName|Slave Pod
+BasicQuartersName|Lower-Class Quarters
+MiddleClassQuartersName|Middle-Class Quarters
+UpperClassQuartersName|Upper-Class Quarters
+HotelRoomName|Small Hotel Room
+PodroomName|Economy Room
+DecadentRoomName|Large Hotel Room
+ArcadeStationName|Arcade Station
+PilloryName|Pillory
+AdvancedArcadeStationName|Advanced Arcade Station
+BrothelRoomName|Private Room
+ClassyBrothelRoomName|Luxurious Room
+VendingMachineName|Drink Dispenser
+CafeName|Milk Bar
+RestaurantName|Seating Area
+MallName|Mall
+CellName|Cell
+RackName|Rack
+MindbreakerName|Mindbreaker
+TubName|Tub
+MudBathName|Mud Bath
+RelaxOMatName|Relax-O-Mat
+GateName|Gate
+SecurityOfficeName|Security Control
+SuitePilloryName|Pillory
+SuiteHangerName|Slave Hanger
+TortureHangerName|Torture Hanger
+SuiteBedName|Bed
+RestraintBedName|Restraint Bed
+OrgyBedName|Orgy Bed
+DeskName|Desk
+DancePlatformName|Dance Platform
+AGravPlatformName|Anti-Gravity Dance Platform
+WindowName|Window
+ParkName|Park
+CombatDroneName|Combat Drone
+FighterName|Fighter
+BomberName|Bomber
+FrigateName|Frigate
+CruiserName|Cruiser
+BattleshipName|Battleship
+DreadnoughtName|Dreadnought
+FountainName|Sculpture
+BackName|Back
+MilkingMachineName|Milking Machine
+AdvancedMilkingMachineName|Advanced Milking Machine
+KennelName|Kennel
+DogBedName|Pet Bed
+CatTreeName|Cat Tree
+ShowPlatformName|Show Platform
+AutodocName|Auto-Doc
+SurgeryCenterName|Surgery Center
+ChronoChamberName|Chrono Chamber
+PharmaFabName|Pharmaceutical Fabricator
+GrowthVatName|Growth Vat
+AdvancedGrowthVatName|Advanced Growth Vat
+RecruiterDeskName|Recruiter's Desk
+TouristBureauName|Tourist Bureau
+MadameDeskName|Madame's Desk
+HeadGirlDeskName|Head Girl's Desk
+DairyTapName|Tap
+BreedingStationName|Breeding Station
+
+
+BackDescription|Back to room building menu
+SlaveBedsDesc|Stops your slaves from distractingly collapsing on the job
+SlavePodDesc|Pods with medical systems to reduce the amount of time your slaves need to spend sleeping
+BasicQuartersDesc|Basic quarters for working-class citizens
+MiddleClassQuartersDesc|More refined quarters for citizens too rich to put up with bare metal
+UpperClassQuartersDesc|Luxurious quarters for the wealthiest members of the community
+HotelRoomDesc|Simple hotel room to house working-class tourists
+PodroomDesc|Hotel pods to efficiently house as many tourists as possible       
+DecadentRoomDesc|Decadent rooms to house your wealthiest tourists
+PilloryDesc|Keeps your disobedient slaves steady while your citizens use them
+ArcadeStationDesc|A semi-private booth for customers to use disobedient slaves
+AdvancedArcadeStationDesc|Advanced medical technology means that slaves can continue to serve without need for sleep
+BrothelRoomDesc|A room for obedient slaves to service their customers
+ClassyBrothelRoomDesc|An elegant take on the brothel room, with enhancements that appeal to the rich and depraved
+VendingMachineDesc|As simple as they come. Give your people something to drink beyond protein paste.
+CafeDesc|Sells slave milk. Profits will be higher if you have a dairy of your own.
+RestaurantDesc|Citizens who eat together subjugate slaves together
+MallDesc|Everyone needs a break from sex occasionally, but consumerism is eternal.
+CellDesc|Keeps your disobedient slaves nice and uncomfortable until they submit to you.
+RackDesc|For when the cell is too slow
+MindbreakerDesc|Version 2.0: Now with more tentacles!
+TubDesc|Give your slaves a place to relax
+MudBathDesc|For when the slaves are not relaxed enough
+RelaxOMatDesc|Like getting a massage on a boat while sipping a cocktail, but much cheaper
+GateDesc|The modern method of travel. Tourists and citizens need these to come aboard.
+SecurityOfficeDesc|A place for your terrifying security drones to congregate
+SuitePilloryDesc|Bind your disobedient slaves to use at your whim
+SuiteHangerDesc|Decorative slaves: The on-trend display of opulence for rich slaveholders
+TortureHangerDesc|Firmly establish yourself as a terrifying overlord
+SuiteBedDesc|You may not need sleep, but the floor can be hard on your knees
+RestraintBedDesc|For when you really want a slave to stay down
+OrgyBedDesc|Rated for up to 2000 pounds
+DeskDesc|Access the galaxy map and coordinate invasions. Also has a spot underneath for a trusted slave
+DancePlatformDesc|Put a slave to work
+AGravPlatformDesc|For when a simple dancing slave isn't opulent enough
+WindowDesc|Give your people a view outside
+ParkDesc|Complete with really good fake plants. Fools 9/10 tourists
+FountainDesc|Something to do with all of that loose change
+CombatDroneDesc|Basic combat unit. A few of these can take a small station's defenses with some luck.
+FighterDesc|Great at taking down light defenses, but not much else. Romanticized in fiction.
+BomberDesc|A few of these can show a moon who's boss at 50,000 paces.
+FrigateDesc|Mid-sized craft for the discerning warlord
+CruiserDesc|Not intended for personal use, but the galactic community takes a libertarian stance towards warships
+BattleshipDesc|Mainstay of most planetary armadas. Respond in kind.
+DreadnoughtDesc|For when you really need a planet subjugated
+MilkingMachineDesc|Milk your slaves for everything they have
+AdvancedMilkingMachineDesc|Built-in life support and hormone injectors allow your slaves to remain inside indefinitely, increasing productivity
+KennelDesc|House disobedient pets until they are broken to your will
+DogBedDesc|Give your good pets somewhere to sleep
+CatTreeDesc|Something to keep your obedient pets entertained
+ShowPlatformDesc|Let your pets show off their best features
+AutodocDesc|Implants installed in thirty seconds or your money back
+SurgeryCenterDesc|Cut your slaves open and sew them up in new and interesting ways
+ChronoChamberDesc|Show father time who's boss. Stop, reverse, or accelerate the aging process at your whim.
+PharmaFabDesc|Produces hormones that change your slaves' appearances over time
+GrowthVatDesc|A time-accelerated chamber that lets your future slaves experience 18 years quickly
+AdvancedGrowthVatDesc|A much-improved version of the growth vat. Condenses the first 18 years of a slave's life to mere days.
+RecruiterDeskDesc|Charismatic recruiters can often convince desperate people to submit themselves for enslavement.
+TouristBureauDesc|The first face new people see when they come to your station. A charismatic or prestigious slave here can greatly boost appeal.
+MadameDeskDesc|The madame will boost the earnings of your slave whores (the more charismatic the madame, the bigger the boost).
+HeadGirlDeskDesc|The head girl will direct slave training from here, boosting its efficiency
+DairyTapDesc|Some prefer their milk directly from the source
+BreedingStationDesc|The pinnacle of efficiency. Rent out your dairy slaves while you milk them.
+
+Arena:
+NonlethalPitName|Nonlethal Fighting Pit
+NonlethalPitDesc|Have slaves fight for the amusement of your guests. All in good fun (mostly).
+AudiencePitName|Audience Fighting Pit
+AudiencePitDesc|Let adventurous patrons fight your (heavily drugged) pit fighters.
+LethalPitName|Lethal Fighting Pit
+LethalPitDesc|Two slaves enter, one slave leaves. The audience will enjoy the festivities though.
+MonsterPitName|Xeno Fighting Pit
+MonsterPitDesc|Let xenos slaughter your slaves for entertainment. Requires at least one captured xeno or an arena drone.
+BleachersName|Bleachers
+BleachersDesc|Give your poor citizens somewhere to watch
+BleacherSupportName|Bleacher Corner
+BleacherSupportDesc|Fill in the corners of your bleachers. Satisfy your OCD (cosmetic only).
+PrepStationName|Prep Station
+PrepStationDesc|Where your slaves will live while they're preparing for their time in the pits.
+BoxSeatsName|Box Seats
+BoxSeatsDesc|Luxurious private viewing rooms for your wealthiest patrons
+BookieStationName|Bookie's Station
+BookieStationDesc|Make the inevitable betting official. Improves earnings and exploits addictions.
+DroneCellName|Retired Cyborg
+DroneCellDesc|A easy alternative to a proper alien for the xeno pit. Guaranteed insane, and extremely deadly.
+ArenaName|Arena
+ArenaDesc|Make your slaves fight for your entertainment
+
+Rooms:
+BulldozeName|Bulldoze
+QuartersName|Slave Quarters
+ApartmentsName|Apartments
+HotelsName|Hotels
+BrothelName|Brothel
+ShoppingName|Bar
+PrisonName|Prison
+SpaName|Spa
+BaseName|Military Base
+PortName|Port
+HallwayName|Lobby
+SuiteName|Suite
+DairyName|Dairy
+
+BulldozeDesc|Clean slate
+QuartersDesc|A place for your slaves to rest when they're not working or in training
+ApartmentsDesc|Homes for citizens
+HotelsDesc|Where your tourists sleep
+BrothelDesc|Put your slaves to work
+ShoppingDesc|A little variety never hurt anyone, and your people can't spend their entire days on your slaves
+PrisonDesc|Instill obedience through terror
+SpaDesc|Kill disloyalty with kindness
+BaseDesc|Houses military units for raiding
+PortDesc|Get people on and off your station
+HallwayDesc|First impressions, conveniently consolidated
+SuiteDesc|Your luxurious abode
+DairyDesc|Collect and sell milk from your lactating slaves
+
+Raiding Strings:
+RaidVictory|Your forces landed on [body] and outmaneuvered local security, escaping with money and prisoners. [body]'s economy has taken some damage as businesses are becoming increasingly wary of the risk of operating there.
+EasyRaidVictory|Your forces landed on [body], and the local security forces immediately hid, terrified of the power of your military. Your ships gathered all of the money and slaves they could carry before heading back to your station.
+TakeoverVictory|After a long battle, your forces successfully take [body]. Your connection to their systems allowed you to experience the thrilling battle firsthand, and your timely intervention helped them avoid multiple traps set by the opposing commander. When the notice of unconditional surrender arrives, you personally visit the planet to explain the terms of their subservience, appoint a proxy, and take your spoils from among the leading families.
+Defeat|After a long battle, your forces were eventually defeated by planetary security. You lose connection as the last of your ships is destroyed. [body]'s government lives another day.
+TakeoverVictoryeasy|The defenses of [body] would barely scratch your overwhelming forces in a fight, and the notice of unconditional surrender arrives before your army even gets within bombardment range. You personally warp in to inspect your new acquisition, and the people immediately bow before you nervously. They make no attempt to resist as you appoint a proxy from the more obedient citizens and explain to them the terms of your conquest. You hear a thousand locals quietly sob behind you as you lead the women of its government to your ship to be your spoils of war, never to return.
+EasyDefeat|You knew that it was a long shot going in, but the efficiency with which the defenses of [body] defeated your army was remarkable. You almost immediately lose connection as the last of them is wiped out. [body] will not be yours today.
+RivalVictory|You have successfully conquered [owner]. They were a powerful foe, and your victory over them has instilled respect and fear in the rest of the galaxy. The company's leadership was largely present for the conquest, and you were able to enslave them all. Without their headquarters on [body], their defenses across the galaxy will be significantly weakened.
+RivalHomeworld|You have successfully conquered the headquarters of [owner], but most of their leadership managed to flee to a new world. You managed to pick up a few high-ranking stragglers, but the corporate government is still in place.
+TributeVignette|The government of [body] responds immediately to your demand for tribute, and delivers [name] for your inspection.[clothe]
+
+Body Descriptions:
+TechLevel0|Luddite
+TechLevel1|Backwater
+TechLevel2|Average
+TechLevel3|Above Average
+TechLevel4|High-Tech
+TechLevel5|Godlike
+
+Prosperity0|Abject Poverty
+Prosperity1|Poor
+Prosperity2|Average
+Prosperity3|Above Average
+Prosperity4|Rich
+Prosperity5|Filthy Rich
+
+Defenses0|Pacifist
+Defenses1|Shoddy
+Defenses2|Passable
+Defenses3|Significant
+Defenses4|Outstanding
+Defenses5|Godlike
+
+AssignmentMaster|Your Suite
+AssignmentWork|The Brothel
+AssignmentPrison|The Prison
+AssignmentSpa|The Spa
+AssignmentDairy|The Dairy
+AssignmentPet|Your Pet
+AssignmentZoo|The Zoo
+AssignmentSidekick|Sidekick
+AssignmentMadame|Madame
+AssignmentRecruiter|Recruiter
+AssignmentRoomService|Room Service
+AssignmentReceptionist|Receptionist
+AssignmentArenaLethal|Arena (Lethal)
+AssignmentArenaNonlethal|Arena (Non-Lethal)
+AssignmentArenaMonster|Arena (Xeno)
+AssignmentBookie|Bookie
+
+Obedience0|Ignores all orders
+Obedience1|Ignores almost all orders
+Obedience2|Fairly obedient
+Obedience3|Mostly Obedient
+Obedience4|Obedient
+Obedience5|Completely obedient
+
+Fear0|Unafraid
+Fear1|Anxious
+Fear2|Scared
+Fear3|Terrified
+Fear4|Cripplingly terrified
+Fear5|Almost insane with fear
+
+MoneySlave|None
+MoneyPoor|Poor
+MoneyMid|Middle-class
+MoneyRich|Rich
+
+
+CharacterTypeNone|None
+CharacterTypeTourists|Tourists
+CharacterTypeRichTourists|Rich Tourists
+CharacterTypeMidTourists|Middle-Class Tourists
+CharacterTypePoorTourists|Poor Tourists
+CharacterTypeSlaves|Slaves
+CharacterTypeObedientSlaves|Obedient Slaves
+CharacterTypeDisobedientSlaves|Disobedient Slaves
+CharacterTypeCitizens|Citizens
+CharacterTypeRichCitizens|Rich Citizens
+CharacterTypeMidCitizens|Middle-Class Citizens
+CharacterTypePoorCitizens|Poor Citizens
+CharacterTypePoor|Poor People
+CharacterTypeAtLeastMiddle|Middle-Class and Wealthy People
+CharacterTypeMiddle|Middle-Class People
+CharacterTypeNonRich|Non-Rich People
+CharacterTypeRich|Rich People
+CharacterTypeNonSlaves|Non-Slaves
+
+NeedNone|
+NeedEntertainment|Entertainment
+NeedWork|Whoring
+NeedPrison|Torture
+NeedSpa|Relaxation
+NeedSleep|Sleep
+NeedMaster|Serving Master
+NeedLeave|Leave
+NeedRoomService|Room Service
+NeedPet|Your Pet
+NeedZoo|Display
+NeedSidekick|Sidekick
+NeedMadame|Madame
+NeedRecruiter|Recruiter
+NeedRoomService|Room Service
+NeedReceptionist|Receptionist
+NeedArenaLethal|Arena (Lethal)
+NeedArenaNonlethal|Arena (Non-Lethal)
+NeedArenaMonster|Arena (Xeno)
+NeedBookie|Bookie
+
+
+HintNoShips|No ships available for attack. Either wait for them to be repaired, or build some in the Military Base.
+
+Artifacts:
+AlienName|Feminine Alien in Glass Case
+AlienDesc|Sadly, the creature has no usable holes, but she makes for good decoration.
+RecordName|Golden Record
+RecordDesc|Retrieved from its satellite by a historical society.
+AnthraxName|Vial of Weaponed Anthrax
+AnthraxDesc|Raided from a bioweapons lab. A crude label reads "For deer hunting."
+SwordName|Sword in stone
+SwordDesc|Said to confer invincibility, but stayed inert when you took it from its previous owner
+MarkerName|Alien Artifact
+MarkerDesc|Complex machine of unknown origin and purpose. Likely harmless.
+ElementName|Carved Stones
+ElementDesc|Taken from a hidden temple. They appear to contain concealed machinery, though their purpose is unknown.
+HeadName|Sacred Head
+HeadDesc|Locals of its homeworld worshiped it before you took it as a trophy. 
+D20Name|Critical Failure
+D20Desc|Sculpture by a long-dead artist. Extremely expensive, though its subject matter has long since been lost to time.
+SpiderName|Replicating Machine
+SpiderDesc|A small and inert piece of an unfortunate planet's gray-goo apocalypse.
+GrailName|Holy Grail
+GrailDesc|Said to confer immortality to those who drink from it. A legend rendered obsolete by medical technology.
+LaserSwordName|Laser Sword
+LaserSwordDesc|An elegant weapon for a more civilized age.
+CrystalName|Strange Crystal
+CrystalDesc|Appears to contain a wormhole, and shows an unfamiliar star pattern when looked through. Source unknown.
+TabletName|Stone Tablets
+TabletDesc|Sacred tablets carved in an unknown language.
+BookName|Black Book
+BookDesc|Bound in what appears to be human skin. Cannot be opened without damaging it.
+RockName|Sacred Rock
+RockDesc|Worshiped on its homeworld for countless centuries. Appears to be an ordinary meteor.
+BrainName|Prototype Brain
+BrainDesc|The first version of the technology that would become your mind.
+RifleName|Prototype Laser Rifle
+RifleDesc|The first practical handheld laser weapon ever created.
+TransistorName|Prototype Transistor
+TransistorDesc|The invention that catapulted humanity from the dark ages. Lovingly preserved by historians until you seized it.
+MonaLisaName|The Mona Lisa
+MonaLisaDesc|Found hidden away in a museum. Several curators needed to be shot during its extraction, but it seems overrated.
+DiamondName|Cut Diamond
+DiamondDesc|Taken from an aristocrat when you raided his world. Radioactive impurities make it glow slightly
+ShadowName|Sword of Entropy
+ShadowDesc|An incredibly powerful alien ship that emits a disturbing thrumming noise
+DefilerCellName|Defiler Cell
+DefilerCellDesc|A giant in every way. Nearly extinct, and willing to try reproducing with anything.
+SporemotherCellName|Sporemother Cell
+SporemotherCellDesc|One of the most common causes of disappearing colonies. Infests and enjoys her victims.
+DevourerCellName|Devourer Cell
+DevourerCellDesc|Gluttonous even by monster standards. Eats its victims quickly and efficiently.
+
+Brainstormed but not implemented
+HoleName|Miniature Black Hole
+HoleDesc|Raided from an advanced research facility. Great for disposing of garbage.
+TentacleName|Tentacle
+TentacleDesc|A piece of a long-dead leviathan. Seems to move every so often.
+MiniStarName|Star System
+MiniStarDesc|A miniature star system, with a working fusion reactor in the sun.
+ArtifactWormholeName|Contained Wormhole
+ArtifactWormholeDesc|Taken from an advanced research lab. Objects placed inside fall forever.
+ArtifactThrusterName|Prototype thruster
+ArtifactThrusterDesc|The precursor to modern reactionless thruster technology.
+ArtifactImpaledName|Impaled Woman
+ArtifactImpaledDesc|Preserved through unknown means. Instills terror in nearby slaves.
+ArtifactCryoName|Sealed Cryo Chamber
+ArtifactCryoDesc|The creature inside is long-dead, but it's a conversation starter.
+
+Upgrades
+BasicDefenseGrid|Basic Defense Grid
+AdvancedDefenseGrid|Advanced Defense Grid
+StandbyFleet|Standby Fleet
+StandingArmy|Standing Army
+BusinessInvestment|Business Investment
+SellHuntingLicenses|Sell Hunting Licenses
+ModestProposal|A Modest Proposal
+ThoughtPolice|Thought Police
+DruggedWaterSupply|Drugged Water Supply
+StrictRationing|Strict Rationing
+FitnessPropaganda|Fitness Propaganda
+UniversalHealthcare|Universal Healthcare
+Carousel|Carousel
+SlaveFactory|Slave Factory
+FelisColony|Felis Breeding Colony
+CanisColony|Canis Breeding Colony
+FaeColony|Fae Breeding Colony
+CoralColony|Coral Breeding Colony
+LoGravColony|Planetwide Anti-Gravity Generators
+TuskedColony|Kort Breeding Colony
+AtaranColony|Ataran Breeding Colony
+EkoColony|Eko Breeding Colony
+BovaColony|Bova Breeding Colony
+SalvageDrones|Salvage Drones
+
+BasicDefenseGridDesc|Turrets to stop your people from being completely helpless
+AdvancedDefenseGridDesc|Orbital drones that can take out small fleets
+StandbyFleetDesc|A full fleet of automated ships will keep your colony well-defended
+StandingArmyDesc|Conscript your people to fight. Extremely effective, though your citizens will resent the work.
+BusinessInvestmentDesc|Invest your own money into economic development. Expensive, but will pay for itself over time.
+SellHuntingLicensesDesc|Let rich tourists hunt your citizens for a fee. Citizens HATE this, but it's very profitable.
+ModestProposalDesc|Peasants are a most delicious, nourishing, and wholesome food, whether stewed, roasted, baked, or boiled
+ThoughtPoliceDesc|Keep obedience doubleplusgood
+DruggedWaterSupplyDesc|Keeps the population nice and docile. There are stories of unintended effects though.
+StrictRationingDesc|Save some money on food. Also makes slaves from here nice and thin.
+FitnessPropagandaDesc|Fitness makes you happy. Also makes slaves more attractive.
+UniversalHealthcareDesc|Keep your future slaves healthy and content.
+CarouselDesc|Kill everyone on their 35th birthday. Save millions on dentures.
+SlaveFactoryDesc|Convert the entire planet to a slave production facility. Will automatically send you slaves at intervals.
+FelisColonyDesc|Massacre the population and repopulate with Felis
+CanisColonyDesc|Massacre the population and repopulate with Canis
+FaeColonyDesc|Massacre the population and repopulate with Fae
+CoralColonyDesc|Massacre the population and repopulate with Coral
+LoGravColonyDesc|Makes population long and lanky
+TuskedColonyDesc|Massacre the population and repopulate with Kort
+AtaranColonyDesc|Massacre the population and repopulate with Atarans
+EkoColonyDesc|Massacre the population and repopulate with Eko
+BovaColonyDesc|Massacre the population and repopulate with Bova
+SalvageDronesDesc|Increases the spoils gained by successfully defending this planet
+
+TyrantWill|Tyrant's Will
+MicahTinkering|Micah's Tinkering
+PariOptimization|Pari's Optimization
+AvaDiplomacy|Ava's Diplomacy
+RazaAcumen|Raza's Acumen
+SpeakerFabricators|Speaker's Fabricators
+PariBlackmail|Pari's Blackmail
+FeiWhip|Fei's Whip
+FeiExample|Fei's Example
+MovingServices|Moving Services
+AdvertisingCampaign|Advertising Campaign
+LongRangeSensors|Long-Range Sensors
+SensoryScreening|Sensory Screening
+AdvancedSurveillance|Advanced Surveillance
+PublicRelations|Public Relations
+AdvancedRepairBays|Advanced Repair Bays
+FaeSubjugation|Subjugation of the Fae
+
+TyrantWillDesc|Tyrant's military experience gives your ships a significant advantage on the battlefield
+MicahTinkeringDesc|Micah's engineering skill reduces station construction costs
+PariOptimizationDesc|Pari's inside knowledge of Shiva weapons design decreases their repair time
+AvaDiplomacyDesc|Ava's diplomatic skill slowly brings your planets into line
+RazaAcumenDesc|Raza's business skill increases revenue from all station services
+SpeakerFabricatorsDesc|The Speaker's hidden fabricators reduce costs for planet upgrades
+PariBlackmailDesc|The blackmail extracted from Pari's mind granted you permanent hush money payments
+FeiWhipDesc|Fei's slave-training skills build obedience over time
+FeiExampleDesc|All who see Fei are reminded of her fate, and slaves are terrified into obedience
+MovingServicesDesc|Moving services help to encourage citizens to come to your station
+AdvertisingCampaignDesc|Advertising brings in more tourists
+LongRangeSensorsDesc|Long-range sensors help you pick up more interesting signals, increasing event frequency
+SensoryScreeningDesc|A stationmaster doesn't need to hear every little thing. This software filters out some events
+AdvancedSurveillanceDesc|Cutting-edge surveillance software that shows you more opportunities for slave events
+PublicRelationsDesc|A Public Relations campaign will increase the sale price of your slaves
+AdvancedRepairBaysDesc|Cuts down the time it takes to repair ships
+FaeSubjugationDesc|Your ownership of the Fae homeworld grants you substantial money and prestige
+
+Black Star Mercenary GroupLeader|Tyrant
+Prime Consumer ElectronicsLeader|Miach
+The Null Autonomous CollectiveLeader|The Speaker
+Vladivostok Holdings, Inc.Leader|Raza
+Shiva Military CorporationLeader|Pari
+The Australian CooperativeLeader|Ava
+Piaoliao NuliLeader|Fei

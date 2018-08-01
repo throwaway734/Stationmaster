@@ -1,0 +1,206 @@
+{bodyobedience low}Revolution Attempt
+Citizens on [body] have become discontent with your leadership (or, as some would call it, heartless exploitation), and are beginning to form an organized resistance against your rule. This needs to be stamped out immediately, lest it damage the local economy, or, worse, force you to divert forces from conquest to retaking it.[showbody]
+	Tell law enforcement to deal with the problem
+		The local authorities do what they can, but are unable to crush the revolution (indeed, many members of your militia join with the rebels). The rebellion launched a daring operation, and managed to overthrow your proxy, leaving you with no remaining control. [removebody]
+	Declare a state of emergency and give law enforcement broad powers to enslave revolutionaries
+		Sensing an opportunity to profit from the chaos, you institute a permanent state of martial law, ostensibly to counter the revolutionary threat. The rest of the citizens grumble at this, but most appreciate you for taking a stand against terrorism. With their Orwellian powers, local law enforcement agents are quickly able to root out and destroy the rebellion (at the cost of some economic damage as they raped and pillaged their way through the cities). They send their thanks, along with the leader of the revolution.[prosperity|-20][addslave|Free Thinker|She was the leader of a revolution against your rule on [body], but was captured when you gave local law enforcement unlimited authority.|20/30|0/0|0/0] 
+	{planet}Destroy a city from orbit to show that resistance will not be tolerated
+		You rotate a defensive satellite inwards and use its powerful laser cannon to simply annihilate the city where the rebellion first took root. Hundreds of thousands died in the strike, but the revolution has been literally evaporated, and future attempts are likely to be hunted down by a fearful population.[population|-200][bodyfear|20][bodyobedience|20]
+	Hire more locals and improve quality of life to reduce tensions (costs $1,000,000)
+		You invest in [body]'s infrastructure, hiring locals and generally trying to make life better for the people. The effects are felt within days, and the appetite for revolution dissipates as they see you working in their best interests. Soon, the revolution has been diminished to a mere few, and there's no significant outcry when you have them arrested and enslaved.[money|-1000000][addslave|Free Thinker|She was the leader of a revolution against your rule on [body], but was captured after you discredited her cause.|20/30|0/0|0/0][addslave|Free Thinker|She was a revolutionary against your rule on [body], but was captured after you discredited her cause.|20/30|0/0|0/0][addslave|Free Thinker|She was a revolutionary against your rule on [body], but was captured after you discredited her cause.|20/30|0/0|0/0]
+
+{bodyobedience high}Gift
+Citizens on [body] are offering one of their prominent [rand|actresses|athletes|politicians] to you as a token of their submission. She is well-loved by the people, but they know that it's in their best interests to keep you as happy with them as possible. The message came with a picture of her, staring solemnly at the ground, her expression showing complete resignation to her fate.[addslave|Was once an extremely successful member of society|The government of [body] gifted her to you as a token of their submission.|min/30|100/100|60/80][clothe]
+	Accept the gift
+		You visit the planet in person to accept your gift. A delegation of the local leaders meets you, with the terrified woman collared elegantly and walking between them. As you approach, the governor makes a hasty speech and practically shoves the shaking woman towards you. You thank him, and assure him that the gesture was appreciated, before dragging her back through the gate to your station. 
+	Decline the gift
+		You politely decline the slave. Her relief is palpable, but she makes a show of disappointment.[remove]
+
+Festival in your Honor
+Citizens of [body] have taken a creative approach to currying your favor, and have sent you an invitation to a festival in your honor. The message promises the finest food, drink, and slaves for your enjoyment.[showbody]
+	{bodyobedience > 50}Attend
+		You simply arrive at the appointed time. They have outfitted the room around your warp gate with lavish tapestries celebrating your rule, and a delegation awaits you there, along with a harem of local slaves. They lead you to the party as you admire the amount of effort they put into this pathetic attempt to increase their standing.
+		The delegates lead you to a long table overlooking the old government's main promenade. Looking down, you see thousands of people drinking and dancing. They seem to be legitimately enjoying themselves, and you see that a group in the center has begun a makeshift orgy, apparently embracing the sexually-charged nature of your station. As you sit down, one of the slaves that was brought out to meet you stealthily crawls underneath the table and begins to stroke you gently in the relative privacy afforded by the full tablecloth. It's clear that this was impeccably planned.[Addslave|Was orphaned at a young age and raised by the state after a stint as a street urchin|The leaders of [body] gifted her to you during a festival in your honor|min/min|100/100|0/0|v]
+		The proxy launches into a long speech, but you ignore him, instead enjoying the slave girl's efforts under the table. You politely smile at the right times, and clap when the speech is over. You eat there, enjoying both the parade of local performers and the clearly well-trained slave. When the festival begins to wind down, the slave girl stuffs you back into your pants and zips them for you. Were she not so demanding of your attention, you would not have noticed her slink out from under the table, blushing slightly.
+		As the proxy walks you back to your warp room, you are rejoined by the slave girl. The proxy tells you that she is yours as a token of their appreciation, and she skips over to you to lovingly grab your arm as you leave through the gate. 
+	{bodyobedience < 51}Attend
+		You simply arrive at the appointed time. They have outfitted the room around your warp gate with lavish tapestries celebrating your rule, and a delegation awaits you there, led by the gorgeous proxy, and followed by a veritable harem of local slaves. They lead you to the party as you admire the amount of effort they put into this pathetic attempt to increase their standing.[Addslave|Ambitious to a fault|She was your proxy on [body], but attempted to mislead you about the hold she maintained over the population|20/30|60/80|60/80||nonvirgin||blondehair/lightskin/rich]
+		The delegates lead you to a long table overlooking the old government's main promenade. Looking down, you see thousands of people drinking solemnly. It's clear that nobody particularly wants to be there, but the most prominent members of society wished to put on a show to mislead you into believing in their submission. You hear a distant explosion, and see the proxy visibly tense before attempting to distract you with smalltalk.
+		You decide to show them what you think of their charade. You turn to the proxy, and, without warning, grab her by the throat and lift her into the air. You slam her down onto the table, face down, and the already-quiet crowd goes silent. You explain to them that you see through their deception, and that there will be a need for new leadership. As you do so, you roughly tear down the proxy's pants and ram yourself into her over the table. The crowd is too stunned to react as the proxy screams in pain.[strip]
+		You take your time in her as the crowd continues to watch in silence, and eventually, once her screams have turned to ragged sobs and her humiliation before her populace is complete, you finish in her, drawing out one last ragged gasp. You announce to the assembled citizens that your station's computer will be accepting applications, before grabbing her by the hair and dragging her back through the warp gate. 
+	Don't attend
+		You politely decline the offer. You have better things to do than attend a simpering bureaucrat's party.
+
+Financial Crisis
+[body] is experiencing a minor financial crisis as the latest fashionable derivatives market has inevitably crashed. Their economy is quickly deteriorating, so much so that your future tax revenue could be affected for years to come.[showbody]
+	Bail them out (Costs $10,000,000)
+		You give the banks enough money to keep them solvent. They appreciate the assistance greatly, and even the citizens know that you prevented a truly terrible situation.[money|-10000000][bodyfear|-20][bodyobedience|50]
+	Punish them for their stupidity
+		You buy the debt of the instigating banks and, through some legal trickery, transfer it to the individuals that caused the crisis. The amount of debt accrued is enormous, and easily puts them beyond the threshold for enslavement. You simply have the men executed, and keep the few women in your custody as a warning to others. [body]'s economy crashes completely, but your harsh punishment of the instigators will help to prevent these crashes for as long as you rule.[prosperity|-50][addslave|Not nearly as smart as she thinks she is|You enslaved her as a punishment for damaging the economy of [body]|20/30|50/70|60/80][addslave|White collar criminal|You enslaved her as a punishment for damaging the economy of [body]|20/30|50/70|60/80]
+	Let them wallow in their mistakes
+		You simply ignore them as their economy crashes. The residents blame the bankers for the crisis.[prosperity|-50]
+
+{bodyobedience low}Withholding Tribute
+[body] didn't send their tax revenue last week, in what was apparently an intentional act of defiance assisted by your proxy. They appear to be protesting your rule, and seem to believe that you need their revenue to function.[showbody]
+	Retaliate by executing your proxy
+		You send a security drone through the gate to the planet. It materializes behind the proxy as he gives a speech, and unceremoniously tears him limb from limb as the world watches in horror. Even before you have chosen a new proxy, the citizens have gathered together what money they could and given it to you to prevent further retribution.[money|500000][bodyfear|20]
+	{planet}Retaliate by destroying a city
+		You direct one of your satellites above the planet to launch its laser at a city where the proxy is speaking. The entire planet is watching the speech, but the connection suddenly drops as the city is reduced to ash. Even before you have chosen a new proxy, the citizens have gathered together what money they could and given it to you to prevent further retribution.[money|1000000][population|-100][bodyfear|40]
+	Grant their wish and give them better conditions (costs $1,000,000)
+		You acquiesce to their demands and invest heavily in their development. The people of [body] love you for now, but that could change quickly as the money runs out. It would be wise to keep an eye on them.[money|-1000000][bodyFear|-20][bodyObedience|30]
+
+{bodyobedience low}{bodyfear low}Civil Disobedience
+The citizens of [body] are marching in the streets and holding a general strike to protest your rule.[showbody]
+	Ignore them and let them tire themselves out
+		As the strike wears on, business on [body] is devastated by the sudden lack of workers. The strikers eventually cease, but the economic damage was significant.[prosperity|-20]
+	Have local authorities round up and enslave the ringleaders
+		You decide to remind them that freedom of speech is a privilege under your rule. You have local security forces arrest and jail the ringleaders, taking the leader of the so-called "Free Society Project" into your personal custody. The people of [body] grumble at this, but now realize the extent of your disdain for them.[bodyfear|10][addslave|Passionate about free speech|She was the ringleader of a general strike on [body], but you had local security forces arrest and enslave her for sedition|20/30|0/0|40/50]
+	{planet}Destroy a city to illustrate the seriousness of the situation
+		You direct one of your satellites above the planet to launch its laser at the city housing the headquarters of the Free Society Project, instantly reducing it to ash. The people realize that you are not a dictator to be trifled with, and return to work immediately. They work harder than ever now that they know the consequences of disobedience.[prosperity|10][population|-100][bodyfear|40]
+
+Religious Options
+Conditions on [body] are ripe for a religious resurgence, and your personal influence over the media will allow you control over its exact nature. Religion is a fantastic way of manipulating large groups, and could be used to effectively quell any future resistance to your rule.[showbody]
+	Focus the religion on loyalty
+		You run a massive propaganda campaign connecting devotion to ones' leaders to duty and piety. The people eventually retain the message, and their obedience increases dramatically.[bodyobedience|30]
+	Focus the religion on capitalism
+		You run a massive propaganda campaign connecting the deity's favor to material rewards. The population rushes to conspicuously consume as much as possible, stimulating the economy.[prosperity|30]
+	Focus the religion on fertility
+		You run a massive propaganda campaign to drive home that the only way to expand the faith is to have as many babies as possible. The birth rate skyrockets as the population accepts the message.[population|1.5]
+
+Buyout Offer
+A wealthy citizen of [body] has offered to buy it from you for the princely sum of $5,000,000.[showbody]
+	Accept
+		You make the trade uneventfully. You can always take it back later if you want it.[money|5000000][removebody]
+	Decline
+		You politely decline. Control of [body] will be much more useful to you than a handful of credits.
+
+Useless Underclass
+[body] has a large underclass that was displaced by broad automation long before your takeover. They currently live on basic income, but they are a drain on the local economy, and produce nothing for the amount of money that's spent keeping them alive.[showbody]
+	Treat basic assistance as a loan, and enslave the citizens who take it
+		Almost immediately, the number of people taking basic assistance drops precipitously. Those desperate or mentally-ill enough to have no other option continue, and you sell them off-world without a significant fuss The remaining population either begs for scraps or contributes to society.[prosperity|20][money|200000][population|-0.1]
+	Allow the status quo to continue
+		There's no reason to change things here. You continue to fund the underclass for now.
+
+{bodyobedience low}Sterilization Protest
+Many of the citizens of [body] have decided that they are unwilling to raise children under your rule, and the trend of self-sterilization is gaining popularity at an alarming rate.[showbody]
+	Create a propaganda campaign to counter the movement
+		You have local media reworked to persistently drive home the joy of family life, and portray those who can't have children as less-than-human for their choices. Before long, the trend has reversed itself, and the citizens who had themselves sterilized come in droves to undo the procedure.
+	Make self-sterilization illegal
+		You simply make self-sterilization illegal. There are waves of protests at the violation of what is seen as basic bodily autonomy, but the arrests of barren men and women as well as protesters destroy the movement. [bodyfear|10][bodyobedience|10]
+	Allow the movement to continue
+		The protests continue for a time, but eventually wear themselves down. The population will suffer slightly, but there are no other lasting effects.[population|0.95]
+
+{planet}{technology < 30}Food shortage
+[body] is experiencing a food shortage after some unfortunate weather caused widespread crop loss. [showbody]
+	Import food from another world (Costs $100,000)
+		You personally pay for food to be imported from a nearby world until the crops recover. It wasn’t cheap, but disaster was averted.[bodyobedience|10][bodyfear|-10][money|-100000]
+	Let them starve
+		The widespread food shortages cause apocalyptic devastation in short order. Without your assistance, the population of [body] is quickly reduced to a fraction of what it used to be. The remaining people, having lived through the horrors of starvation, resent you for allowing the disaster.[population|0.5][bodyobedience|-30]
+	Set up a lottery to decide who will be allowed to eat
+		The people of [body] know that it would not require a significant expendature of resources for you to simply feed them, and deeply resent the lottery system. Still, they comply, knowing that the alternative is starvation or worse. Those citizens who are selected are immediately put to death, and the remaining people are able to survive until the next harvest season.[bodyobedience|-10][bodyfear|10][population|0.8]
+
+{technology > 90}Machine takeover
+[body] is facing a minor crisis. An experimental AI (whose primary directive was foolishly set to survival) found out about its project's impending cancellation and murdered the local leadership to prevent its own death. Luckily, the AI recognizes your military superiority, and is continuing to gather your tax revenue by brutally subjugating the population. If you hadn't received a panicked distress call, you may not have known that anything was wrong.[showbody]
+	Allow the AI to maintain control in return for higher taxes
+		Though the AI apparentlylacks the ability to communicate in any recognizable human language, the incoming tax revenue from [body] grows immediately. This may yet be the beginning of a beautiful friendship.[prosperity|1.5][bodyfear|20][bodyobedience|20] 
+	Detonate an EMP to destroy all complex machines on the planet
+		The rogue machine must be strangled in its crib before it gains the power to do any real damage. You carpet bomb the planet with high-yield EMP warheads, reducing any complex electronics to worthless slag, and completely annihilating the rogue AI. The people are grateful for the rescue, though it is tempered somewhat by the devastation of their home.[prosperity|0.1][bodyobedience|40][bodyfear|-40]
+
+Kaiju{Planet}
+[body] was home to many xeno species before human arrival, but the ones on the surface were largely exterminated by the first colonists in the early days. Unfortunately, no proper survey was ever done, and large creatures with centuries-long dormancy phases have awakened beneath the surface. The videos show the massive beasts rampaging through cities with impunity, reducing them to burning rubble. None of the planet's military weapons stand a chance against the awesome beasts, and they have sent you a distress signal urging you to help them before their civilization is lost.[showbody]
+	Exterminate the beasts from orbit (costs $100,000)
+		You send dozens of nuclear missiles at the rampaging beasts, quickly exterminating them. The fallout will be damaging to the ecosystem for centuries to come, but the civilization has been preserved.[population|0.9][prosperity|0.5][money|-100000]
+	Build giant robots to fight the Kaiju, and televise the results. (Costs $1,000,000)
+		You contract construction of a fleet of giant robots out to a large mechanical conglomerate. They deliver at a deep discount, knowing that the publicity will be spectacular, and the mechanical marvels are completed in an incredbly short timeframe. The ensuing battles between the mecha and the kaiju are a sight to behold, and immediately capture the attention of audiences across the galaxy. The people of [body] slightly resent that their lives have been turned into a reality show, but appreciate the amount of investment you have put into their defense. Happily, the combination of the advertising revenue and the cooperation from the engineering firm makes the project come in at a fraction of the budget.[bodyobedience|50][bodyfear|-40][money|-250000]
+	Leave the citizens to their fate
+		The station periodically informs you of the latest popullation numbers from [body], showing their quick descent to utter ruin. They eventually stabilize in their new normal, a life underground, hidden from the rampaging beasts.[prosperity|0.01][population|0.01][bodyobedience|0.1]
+
+Plague
+[body] is experiencing an incredibly-lethal plague. It is a particularly virulent form of another well-known disease, and it would likely be possible (though expensive) to have a cure researched and deployed, saving significant numbers of lives.[showbody]
+	Do it (Costs $1,000,000)
+		You hire a well-regraded lab to develop a cure for the plague. As expected, it is not long before it is finished, and ready for mass deployment. Your miracle arrives in time to save the vast majority of the population, and they thank you profusely for your investment into their well-being.[money|-1000000][population|0.9][bodyobedience|50][bodyfear|-50]
+	Let the disease run its course
+		You simply ignore the panicked messages from the people of [body], and they quickly reduce in frequency. The population is devastated, and the hardy survivors hate you for what you have put them through.[population|0.1][bodyobedience|-30][bodyfear|-10]
+
+Communism
+Citizens of [body] have begun to get the idea that hierarchy is unnecessary, and that they should be free to live as they please, using their advanced technology to free them from work. They're not wrong from a philosophical perspective, but you are much better armed than they are, and they know better than to try a revolution under current conditions. Still, the thought could be dangerous, and could be strangled before it is allowed to spread too widely.[showbody]
+	Make communism illegal
+		You simply ban their ideology, and have the most prominent figures in the movement arrested. While this move has inspired fear, the egalitarian nature of the movement renders it resistant to this sort of brute force appraoach, and it is likely that you have simply driven it underground. [bodyfear|10][bodyobedience|-30] 
+	Improve quality of life to the point that the citizens appreciate your rule (Costs $1,000,000)
+		You spend lavishy on conspicuous quality of life improvements like roads, schools, and a trust to provide basic income to all citizens. Their communist sympathies are almost immediately shifted from talk of revolution to idle discussion among the educated class, and their obedience towards you grows immensely.[money|-1000000][prosperity|1.5][bodyobedience|50][bodyfear|-30]
+	Ideas can't destroy ships. Let them believe what they want to believe.
+		Their nonviolent revolution escallates to civil disobedience. While the movement did not lead to open revolot, it has certainly loosened your grasp.[bodyobedience|-30][bodyfear|-30]
+
+Democracy
+The citizens of [body] believe that they have the right to self-determination, and many are beginning to consider a revolution for democracy.[showbody]
+	{planet}Extinguish thoughts of revolution by annihilating a city
+		You turn a planetary defense cannon towards the city that originated the rebellious movement, and simply turn it to glass, killing its hundreds of thousands of inhabitants. The planet quickly falls into line, its people unwilling to risk your fury once more.[bodyobedience|30][bodyfear|30][population|-300000]
+	Allow them to elect a proxy with no real power
+		You allow the people of [body] to hold elections for a proxy, while subtly altering the legal system to give the bulk of the true power to an unelected administrator. The more politically-savvy among the population recognize the ruse, but the symbolic gesture is enough to fool the majority into thinking that you have compromised with them.
+	Have security forces crack down on revolutionaries
+		You simply have your security forces on [body] arrest and exterminate any revolutionaries, giving them absolute power to surveil the people in search of subversives. The security forces follow your orders with brutality, and you are soon left with a far more docile population.[bodyfear|20][bodyobedience|20]
+	Ignore the issue
+		The revolutionaries manage to gather significant support, and soon hold a legitimate threat to your control over [body]. Your proxy is barricated in his palace, and calls asking you once more for your assistance.
+			Send troops to assist your proxy (Costs $100,000)
+				Your mercenary army makes short work of the rebellion, and brutally supreses further dissent. It was not the most elegant solution, but the people of [body] are now acutely aware of your power over them.[bodyfear|20][bodyobedience|20]
+ 			Do nothing
+				The revolutionaries ultimately overwhlem your security forces on [body], and your station forwards you news footage of the proxy's palace burning, with the proxy and his family dead on its steps. You have lost control of [body][removebody]
+
+Solar flare
+An unfortunately-placed solar flare has destroyed much of the technology on [body], and they are in sudden need of a massive rebuilding effort.[showbody]
+	Leave them to their fate
+		Without access to the advanced technology their society relies on, the solar flare  causes [body] to experience massive food and water shortages, leading to apocalyptic social conditions. It may take decades to recover from this catastrophe. [population|0.1][bodyobedience|-10][techlevel|0.01]
+	Help them (costs $1,000,000)
+		You contract the rebuilding out to a high-end team that specializes in disaster recovery. They almost-immediately rebuild a grid infrastructure to keep businesses running, and manage to shield [body] from the worst of the possible outcomes. The people of [body] are forever in your debt for saving them from an apocalyptic scenario.[bodyobedience|30][bodyfear|-30][money|-1000000]
+
+Infrastructure{planet}
+[body] has had a bridge collapse, marking the third such tragedy in the last month. Businesses are starting to flee due to the deteriorating situation, and the local economy will suffer significantly if it keeps up.[showbody]
+	Pay for an infrastructure overhaul (Costs $1,000,000)
+		You hire an independant construction company to revitalize the local infrastructure. They complete the project on time and on budget (as is expected with the largely-automated firms), and [body] is left with a public transit system that should last for centuries. The people are eccstatic with your efforts on their behalf, and slightly surprised that you would expend the sgnificant resources needed to improve their lives.[money|-1000000][bodyobedience|20][bodyfear|-10][prosperity|15]
+	Let the infrastructure continue to rot
+		The accelerating infrastructure decay costs many lives, and the people resent your government for ignoring the problem. They have no significant recourse though, and come to simply accept the death-defying commutes.[bodyobedience|-5][population|0.99]
+	Cut funding from nonessential services to pay for new infrastructure
+		You order your proxy to institute massive cuts to the education and healthcare budgets to pay for an infrastructure expansion. It was not a popular decision, but its effects on the ruling class (given their use of private schools and healthcare) will be positive. Expensive accidents are down, and investment is up. [bodyfear|10][bodyobedience|-10][prosperity|15]
+
+Nuclear{station}
+{body} has suffered a reactor breach, leaving much of the station irradiated. Its citizens are in danger of serious health effects from the irradiated air, and the reactors' power output has dropped to the point that it can barely sustain life support.[showbody]
+	Pay for cleanup (Costs $100,000)
+		You hire a well-known radiation cleanup team to take care of the issue, and provide regular cancer screenings to the citizens of [body]. They respect your willingness to dedicate your resources to the problem.[bodyobedience|10][bodyfear|-10][money|-100000]
+	Ignore the problem
+		You let the citizens deal with the radiation leaks. They seal off the worst parts of the station, and many of them either leave or purchase lead-lined encounter suits to protect them from the worst effects. They know that you could have helped them, and resent you for ignoring them in their time of need.[bodyobedience|-10]
+	Accelerate the mutation process and sell tickets
+		You acquire a prototype bioweapon and have a securiy drone release it into the air systems of the station. Within days, the population has been transformed into a mindless horde of mutated creatures. With some marketing, you make the station a popular horror attraction, allowing tourists to come and hunt the creatures that were once its citizens. It doesn't take many hunts to reduce the population to nothing, but you made a tidy profit on their extermination.[removebody][money|1000000]
+
+Healthcare
+The citizens of [body] have an extremely short average lifespan compared to the general population, thanks to some mildly toxic atmospheric quirks. They seem to see your rule as an opportunity for change, and constantly beg you to porvide them with the healthcare that they would need to reach normal human lifespans.[showbody]
+	Do as they ask
+		You devote some of their tax money to opening clinics that address the toxic buildup. Your citizens thank you profusely for their improved lives, though the tax revenue has decreased slightly.[prosperity|0.8][bodyobedience|20]
+	Decline
+		The tax revenue you're extracting from [body] is better allocated to your own coffers. You decline their request.[bodyobedience|-10]
+
+{Planet}Fauna
+The fauna of [body] have been afflicted with a mysterious plague, and are beginning to mount attacks on your settlements. While they are not a significant threat to the advanced infrastructure of [body], the constant need to defend against rampaging animals is making it unattractive for business investment.[showbody]
+	Wipe out the aggressive animals
+		Bioweapons are cheap on the black market, and you easily find a suitable one for [body]'s native creatures. It efficiently wipes out the rampaging creatures, though the ecosystem is now in the midst of catistrphic failure. The local government scrambles to repair the damage caused by the loss of so many species at once, but it's still better than having all business leave the world entirely.[bodyobedience|10][bodyfear|-5][prosperity|0.7]
+	Invest in a cure (Costs $100,000)
+		You have samples sent to an ecological lab, and they quickly synthesize and deply a cure. The people of [body] appreciate your graceful handling of the situation.[bodyobedience|10][bodyfear|-10][money|-100000]
+	Invite tourists to hunt the dangerous beasts
+		You market the planet as a theme park for thrill-seeking hunters, and soon sell enough licenses to bring the animal population down to a more manageable size. The pepole of [body] resent the presence of the obnoxious tourists, but the problem is solved to the point that businesses no longer shy away.[money|100000][bodyobedience|-10]
+	Do nothing
+		[Body]'s economy suffers as businesses move elsewhere. The people of [body] lose respect for you as a leader due to your inaction.[bodyobedience|-10][bodyfear|-10][prosperity|0.7]
+
+{Extreme}Festival
+Citizens of [body] have taken a creative approach to currying your favor, and have sent you an invitation to a festival in your honor. The message promises the finest food, drink, and slaves for your enjoyment.[showbody]
+	{bodyobedience > 50}Attend
+		You simply arrive at the appointed time. They have outfitted the room around your warp gate with lavish tapestries celebrating your rule, and a delegation awaits you there, along with a harem of local slaves. They lead you to the party as you admire the amount of effort they put into this pathetic attempt to increase their standing.
+		The delegates lead you to a long table overlooking the old government's main promenade. Looking down, you see thousands of people drinking and dancing. They seem to be legitimately enjoying themselves, and you see that a group in the center has begun a makeshift orgy, apparently embracing the sexual freedome that comes with your leadership.
+		As you sit down, one of the slaves that was brought out to meet you stealthily crawls underneath the table and begins to stroke you gently in the relative privacy afforded by the full tablecloth. It's clear that this was impeccably planned.[Addslave|Was orphaned at a young age and raised by the state|The leaders of [body] gifted her to you during a festival in your honor|min/min|100/100|0/0|v]
+		The proxy launches into a long speech, but you ignore him, instead enjoying the slave girl's efforts under the table. You politely smile at the right times, and clap when the speech is over. You eat there, enjoying both the parade of local performers and the clearly well-trained slave. When the festival begins to wind down, the slave girl stuffs you back into your pants and zips them for you. Were she not so demanding of your attention, you would not have noticed her slink out from under the table, blushing slightly.
+		As the proxy walks you back to your warp room, you are rejoined by the slave girl. The proxy tells you that she is yours as a token of their appreciation, and she skips over to you, enthusiastically grabbing your arm as you leave through the gate. 
+	{bodyobedience < 51}Attend
+		You simply arrive at the appointed time. They have outfitted the room around your warp gate with lavish tapestries celebrating your rule, and a delegation awaits you there, led by the gorgeous proxy, and followed by a veritable harem of local slaves. They lead you to the party as you admire the amount of effort they put into this pathetic attempt to increase their standing.[Addslave|Ambitious to a fault|She was your proxy on [body], but attempted to mislead you about the hold she maintained over the population|20/30|60/80|60/80|nonvirgin||blondehair/lightskin/rich]
+		The delegates lead you to a long table overlooking the old government's main promenade. Looking down, you see thousands of people drinking solemnly. It's clear that nobody particularly wants to be there, but the most prominent members of society wished to put on a show to mislead you into believing in their submission. You hear a distant explosion, and see the proxy visibly tense before attempting to distract you with smalltalk.
+		You decide to show them what you think of their charade. You turn to the proxy, and, without warning, grab her by the throat and lift her into the air. You slam her down over the table, face down, and the already-quiet crowd goes silent. You explain to them that you see through their deception, and that there will be a need for new leadership. As you do so, you roughly tear down the proxy's pants and ram yourself into her over the table. The crowd is too stunned to react as the proxy screams in pain.[strip]
+		You take your time in her as the crowd continues to watch in silence, and eventually, once her screams have turned to ragged sobs and her humiliation before her populace is complete, you finish in her, drawing out one last ragged gasp. You announce to the assembled citizens that your station's computer will be accepting applications, before grabbing her by the hair and dragging her back through the warp gate. 
+	Don't attend
+		You politely decline the offer. You have better things to do than attend a simpering bureaucrat's party.

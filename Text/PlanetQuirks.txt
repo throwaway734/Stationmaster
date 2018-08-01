@@ -1,0 +1,94 @@
+Extremely volcanic, and everything that spends time here begins to smell of sulfur[prefab|volcanic]
+The local culture reveres fire, and burns even toxic offerings with reckless abandon
+The local culture is ecologically-minded, and tries to maintain the natural beauty of the world at all costs
+Has poor roots, and the people make complex structures and machines out of garbage
+Founded by escaped slaves, and detests slavery[slaverylegal|false][money|-20]
+Deeply misandric culture
+Deeply misogynistic culture
+Recovered from a solar flare that destroyed all significant technology on the surface[money|-20]
+Rebuilding after a plague devastated the population[population|-30]
+Consumes an absurd quantity of cheese
+Deeply-ingrained cultural alcoholism[money|-20]
+Distrusts outsiders
+Mostly enslaved population[slavefrequency|20]
+Popular retirement spot[money|20]
+Distrusts technology[technology|-50]
+Kills every third baby because they think it makes fruit grow bigger[technology|-70]
+Holds a yearly festival where laws are suspended to keep population down[population|-40]
+Highly aggressive native fauna
+Highly aggressive native flora
+Citizens frequently disappear and reappear. Unknown if this is cultural or a spacetime anomaly
+Culture sees walking as beneath them, and uses hovering chairs to travel short distances
+Atmospheric anomaly causes devastating heat waves
+High winds
+Contains artifacts of a long-gone planet-wide theme park
+Local biotech company provides cheap augmentations, and most citizens have implants
+Population genetics modified to suit the whims of a long-dead eccentric king
+Population appears to have mild empathic connection while on planet. Unknown if this is mutation or cultural trick
+Population refuses to go outside at night, citing mythical terrors
+Population is remarkably neutral on all things, except that everyone seems to despise cilantro
+Compliant populace[obedience|40/100]
+Society is structured around an inscrutable game, and seems ambivalent about pursuits that are not related to either the game or survival
+Local spores induce mild euphoria in populace, causing ubiquitous addiction[fear|40/100]
+Majestic waterfalls
+Significant seismic activity caused by strange subterranean colossi
+Extremely high rate of insanity and cult activity
+Emits unusual amounts of radiation that is harmful to expats, but not to the adapted populace
+Strange noises can be heard emanating from below, but locals don't perceive them
+Populace universally worships a specific mountain, but will discuss religion with outsiders, even under duress[quirk|Psychologically unable to discuss strange religion/Distressed at having to leave her god, though she will not say why]
+Reveres machines[quirk|Mechanically-inclined/Capable engineer/Hates people, prefers machines/Secretly prays to the station itself]
+Crime virtually nonexistent due to universal death penalty and ubiquitous surveillance
+Descended from penal colony[obedience|40/100]
+Has remnants of a variety of ancient creatures, but was rendered lifeless by a meteor before humans arrived
+Core appears to be hollow, but expeditions have failed for unknown reasons
+Breathtaking geode caves
+Exhausted mining colony
+Vegetarian populace[quirk|Vegetarian/Vegan/Unusual love of animals/Disgusted by the very idea of eating meat]
+Generates power from an unknown anomaly that causes gravitational spikes[money|20]
+Worships the fossil of an alien crustacean that is said to answer questions for the worthy[quirk|Behaves almost randomly/Seems to take direction from a chaotic inner monologue/Twitches subtly when distressed]
+Scientifically-literate populace[quirk|Biologist/Physicist/Polymath/Genius/Read scientific papers for fun]
+Homes have no windows, but the source of the tradition is lost
+Beheads bearded men in a harvest ritual
+Views sex casually[tag|likessex]
+Populace extremely slow and lethargic[quirk|Slow/Lethargic/Annoyingly slow to react/Shiftless/Lazy]
+Populace prone to irrational rage due to local parasite, and considers it to be part of the culture
+Endemic parasite causes serious stomach issues for untreated outsiders, but appears to have no effect on adapted locals
+Wealthy populace[tag|rich]
+Popular retirement destination for wealthy people[tag|rich]
+Rejects technology entirely, preferring to live simply off the land[technology|-100]
+Eerily waifish inhabitants[tag|fae]
+Local flora form a planet-wide neural network, and send waves of shivering motion when disturbed
+Atmosphere toxic due to a terraforming accident, but the culture has adapted to the reduced lifespan rather than solve the issue[quirk|Obviously distressed at the long lifespan of those aboard your station/Baffled by medical technology that prolongs one’s life/Hates doctors/Believes that people should die of natural causes without medical intervention, and considers her frequent checkups a violation]
+Rains acid, and population spends most of its time indoors
+Reveres chaos, and people gamble for everything
+Sole producer of a mysterious drug, and jealously guards its methods[money|50]
+Aggressive Luddite tribes on the surface frequently attack settlements, but rarely do real damage
+Popular destination for ecotourism
+Volcanic hellscape that hosts a reality show about survival on its surface[prefab|volcanic]
+Scammed out of terraforming funds, the populace lives in domes on the surface[prefab|thunderstorm]
+Expansive wastelands caused by a long-forgotten war[prefab|desert]
+Aggressive fauna make travel dangerous, and every reinforced home has a warp gate
+Population refuses to travel by gate unless forced, and believes that one's soul can become stuck between worlds
+Suggestible population[obedience|50/100]
+Population often stares idly into the sky, but does not remember when questioned
+Throws offerings into the water to reduce food oversupply
+Buries dead by throwing them into volcanoes
+Population wears encounter suits for cultural reasons[quirk|Had not left her encounter suit for an extended period until now, and is unused to the sight of her own body/Hates being naked/Hates being seen by people][tag|hatessex]
+Contains mountains of solid diamond, and draws significant tourism[money|20]
+Cities float atop a layer of thick gas that covers the surface
+Resonates infrasonically because of a unique magnetic field, causing hallucinations and nausea for the uninitiated
+Naturally-occurring hallucinogenic spores cover the planet, and locals have accepted the persistent effect
+Locals see faces as vulgar, and wear veils most of the time[quip|Hates being without her veil/Obsessed with the vulgarity of your station for allowing faces to be on full display/Hates that she can no longer wear a veil to cover her face]
+Dwellers obsessively collect water with low-tech methods, and store it in an immense pool for a future terraforming project.
+Low gravity allows local flora and fauna to grow to immense size, and the atmosphere is maintained through unknown means
+Universally brawny as a result of a genetic experiment in antiquity[tag|ripped]
+Inhabitants’ eyes glow faint blue in low light
+Residents can often be seen bobbing their heads to an imperceptible shared rhythm, though they are not consciously aware of the motion.
+Breeding colony for Felis[tag|Felis]
+Breeding colony for Canis[tag|Canis]
+Breeding colony for Bova[tag|Bova]
+Breeding colony for Kort[tag|Tusked]
+Used to be a Coral world, and was maintained as a breeding colony after humans took over[tag|Coral]
+Inhabitants tall and lanky due to generations of low gravity[tag|LoGrav]
+Used to be a Ataran world, and was maintained as a breeding colony after humans took over[tag|Ataran]
+Used to be an Eko world, and was maintained as a breeding colony after humans took over[tag|Eko]

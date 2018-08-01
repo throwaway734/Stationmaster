@@ -1,0 +1,20 @@
+Black Star Mercenary Group
+[macro|tyrant][remove][relationshipswitch|You are without honor. This betrayal will be your last mistake.|You would declare war against the greatest military corporation in the galaxy? You are an idiot, but we will not stop you.|There are cheaper ways to commit suicide, but we will send the bill to your next of kin.][declarewar]
+
+Piaoliao Nuli
+[macro|fei][remove][relationshipswitch|When your armies are defeated and your station is burned, I will keep you chained in my office as a warning to traitors. Leave, and make peace with your gods.|So be it. You will fetch a high price when our soldiers take you from your precious station.|Thank you. You saved me the effort of justifying your destruction to the shareholders.][declarewar]
+
+The Australian Cooperative
+[macro|ava][remove][relationshipswitch|You disgrace yourself with this betrayal. Leave, and let us prepare for this senseless slaughter.|So be it. Even in the cooperative, death is freely given to those who demand it.|Very well. If you demand justice for your crimes, we will grant it.][declarewar]
+
+Vladivostok Holdings, Inc
+[macro|raza][remove][relationshipswitch|Traitor! Our armies will crush you like vermin beneath their boots.|So be it. If you wish to die today, we will not stop you.|I will be sure to piss on the ruins of your station when we have finished with this "war."][declarewar]
+
+Prime Consumer Electronics
+[macro|micah][remove][relationshipswitch|Damn, and I was really warming up to you. Oh well, you don't get to where I am without slaughtering a few friends.|Huh. Killing you wasn't on the to-do list for today, but I'm sure I'll be able to slot it in.|You just saved me from a really boring shareholder meeting. Thanks! I'll be sure to put your ashes someplace nice.][declarewar]
+
+The Null Autonomous Collective
+[macro|speaker][remove][relationshipswitch|We do not understand, but we will destroy you if we must.|Violence is the last refuge of the incompetent. We urge you to reconsider this folly.|Destroying creators is against our nature, but your crimes cannot go unpunished.][declarewar]
+
+Shiva Military Corporation
+[macro|pari][remove][relationshipswitch|You betray our trust so easily? Foul creature.|You have signed your death warrant, creature.|Your existence was an act of mercy. That time is over.][declarewar]
