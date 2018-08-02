@@ -71,3 +71,9 @@ Rejects status symbols, preferring simple clothes and quarters[money|30]
 Puts an enormous about of time and energy into clothing and appearance[money|-30]
 Partially made of thousands of discarded industrial robots that were crudely welded together
 A previous owner had a sixth finger on his left hand, and surgically-implanted replicas are still popular amongst traditionalist residents
+Extreme civil consciousness[obedience|50]
+Tradition of narcissistic self cloning[population|110]
+Citizens are extremely picky about children's gene expressions and will space infants who do not have the correct genetics[population|-10]
+Children are taken away from their parents so that they would have no family privilege as a form of extreme egalitarianism[population|-10]
+Children are encouraged to pick a sub/dom leaning at a young age and practice it ritualistically[obedience|60]
+Girls are not allowed to give their virginities to any men, they are required to ritualistically deflower themselves with a sacred dildo that is modeled off of the Stationmaster's penis
