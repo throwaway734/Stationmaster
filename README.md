@@ -10,4 +10,4 @@ Any new text documents added to the folders under the main "Text" folder will be
 
 Legal Stuff:
 
-The text in this repository is presented for demonstration purposes. StationmasterDev retains copyright over first-party content, and it is not to be used in whole or in part within other work without express written permission. By comitting to this repository, you grant a non-exclusive license to StationmasterDev to use the uploaded content within this or any future games, or in any associated materials (such as screenshots, press releases, and other media).
+The text in this repository is presented for demonstration purposes. StationmasterDev retains copyright over first-party content, and it is not to be used in whole or in part within other work without express written permission. By submitting a pull request to this repository, you grant a non-exclusive license to StationmasterDev to use the uploaded content within this or any future games, or in any associated materials (such as screenshots, press releases, and other media).
