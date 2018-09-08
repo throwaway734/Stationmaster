@@ -98,7 +98,7 @@ backgroundloop
   Sets the background soundtrack. Available options available in examples.
 humansound
   Starts the provided human sound. Options are:
-  	crying
+    crying
     weeping
     painfulsex
     sex
@@ -122,7 +122,7 @@ humansound
     screams
 pose
   Sets the visible character's pose. Options are
-  	cowering
+    cowering
     dance
     facedownonground
     keepback
@@ -147,11 +147,42 @@ pose
     missionaryrapeprep
     torture
 playsound
-  Plays a one-time sound. Options available in event samples
+  Plays a one-time sound. Current options are:
+Gun
+Drone
+Hiss
+Struggle
+Tearing
+Takeoff
+Land
+Doorbell
+Payment
+DoorOpen
+DoorClose
+Explosion
+Laser
+Unzip
+Shackle
+Struggle
+TornApart
+Shock
+Sneeze
+Slam
+Injection
+ChronoChamber
+Baby
+Spank
+  
 endhumansound
   Shuts off all human sounds
 environment
-  Loads an environment into the notification
+  Loads an environment into the notification. These are currently experimental, but are:
+  Bedroom
+  Suite
+  Sublevel
+  TribalHut
+  Wasteland
+ 
 strip
   Removes all clothes from the selected character
 clothe
