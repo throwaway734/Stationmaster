@@ -1,6 +1,0 @@
-New slave from [body]
-The slave factory on [body] had produced a gift for you.[addslave|Had never left the slave factory before she arrived on your station|She was produced by the slave factory on [body]|18/18|100/100|0/0][br][macro|slavestats]
-	Keep her
-		[close]
-	Sell her immediately
-		[money|[value]|Slave Sale]You quickly find a buyer and send her on her way.

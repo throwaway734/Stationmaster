@@ -1,8 +1,0 @@
-Slave Broken
-You've noticed that [name] has changed recently. She's been terrified for a long time, and seems to have finally snapped. She no longer reacts to anything at all, and what was left of her personality seems to have completely disappeared.
-	Play with her
-		You call [name] into your office. She enters silently, and marches into position in front of your desk. You start by telling her to touch her nose, and she does so without thinking, as if her body were reacting directly to your words.
-		You escallate the demands, telling her to flop on the floor like a fish, jump up and down, and generally make a fool of herself. Her reaction remains the same. She appears to have no capacity for independant thought remaining.
-		You dismiss the mindless husk, and she silently returns to her assignment.
-	Ignore her
-		There's nothing else to be said. [name] is now mindbroken. Anything that made her herself is gone, and she is, for all intents and purposes, a mindless husk of a person.

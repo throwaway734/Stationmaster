@@ -1,8 +1,0 @@
-Hard Limit
-[name] has been in the sex trainer for a while, but she is still a virgin, and can only learn so much without being deflowered.
-	Take her virginity
-		You summon [name] to your office. She [fearswitch|likely knows why you've summoned her, and looks nervous, but excited|nervously fidgets with her hands as she stands in front of you|is shaking violently as she approaches the culmination of her training so far].
-		[h] After you finish with her, you return her to her training. [fearswitch|You see her gingerly wiping between her legs as she leaves the room|You see her trembling noticeably as she leaves the room|She cries softly as she leaves the room[humansound|sobbing]].
-		Her training will no longer need to preserve her hymen, and will progres much faster now.
-	Ignore her
-		[name] continues to do the exercises, but no longer shows any significant improvement.

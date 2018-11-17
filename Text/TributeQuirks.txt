@@ -1,29 +1,29 @@
 Profoundly unlucky
-Committed a minor crime against a leading community member[addtag|kleptomaniac]
+Committed a minor crime against a leading community member
 Lazy
-Hates people[charisma|-50]
+Hates people
 Volunteered as your tribute to save her sister
 Volunteered as your tribute to save her lover
 Volunteered in a depressed fit after losing her daughter
 Was recently arrested for trespassing on government property
-Attempted to assassinate the proxy[addtag|friends]
+Attempted to assassinate the proxy
 Was chosen to be tribute by lottery
 Was politically inconvenient for the government
-Was imprisoned for reasons unknown, and records have since been destroyed[addtag|mindbroken][addtag|zombie]
+Was imprisoned for reasons unknown, and records have since been destroyed
 Beat the proxy in a shooting contest
 Owned land in the path of the proxy's palace extension
 Had an affair with the proxy's wife
-Likes animals more than people[charisma|-50]
+Likes animals better than people
 Hates living in space
 Has always wanted to retire to an aquatic planet
-Has untreated mental issues[addtag|insane]
-In constant pain from a rare medical condition
+Has untreated mental issues
+In constant pain from a treatable medical condition
 Pacifist
-Believes that she will take down your station from the inside[addtag|friends]
+Believes that she will take down your station from the inside
 Was proud of her substantial assets before she was enslaved
-Volunteered as your tribute to protect a friend[addtag|friends]
+Volunteered as your tribute to protect a friend
 Reported harassment by the proxy
-Depressed since losing friends to slavers[addtag|depersonalizer]
+Depressed since losing friends to slavers
 Has attempted suicide several times
 Was born male
 Was a great athlete in school, and has acomplished nothing significant since
