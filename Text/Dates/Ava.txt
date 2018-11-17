@@ -1,0 +1,80 @@
+Ava
+
+Charitable Endeavors
+I thought you might like a tour of our little slice of paradise. Would you like to visit me in the cooperative? I promise, we won't bite.
+Ava is at the gate to greet you as you arrive. She smiles warmly at you.
+"Welcome! I'm so glad you could make it."
+She takes you by the arm and guides you out into the palace's opulent grounds. Men and women of all classes walk freely through the beautiful garden.
+"Most of us weren't born in the cooperative, you know. Our society holds the populations of thousands of worlds, and new ones join every year. We don't believe in conquest or coercion, but a good cause like abolition draws more followers than any war."
+At this, she looks at you pointedly, but it's an obvious trap, and you say nothing.
+She continues, undeterred. "I would say at least half of our population is made up of former slaves, either escaped or liberated. We like to make things difficult for the masters by being a beacon of hope for the downtrodden."
+You come to a large oak door, which opens at a mental command from Ava. Inside is a large and opulent office, with a bed situated prominently in the center.
+"Abolition isn't all bad for the masters either, you know. You'd be surprised at the opportunities we have in the cooperative. I'm sure you have fun with your slaves, but a willing partner is..."
+She trails off and looks you up and down suggestively. It's common knowledge that sex is not treated with much seriousness in the cooperative, and even small diplomatic matters here are often sealed with intercourse.
+	Accept her offer
+		The oak door closes at another mental command, 
+		[h]
+
+	Decline
+		You politely change the subject, and Ava, sensing your reluctance, immediately reverts to a more professional demeanor.
+		"I'm sure you have other matters to attend to, and I wouldn't want to keep you. It was lovely to speak to you. I hope we can do it again sometime."
+		She walks you back through the gardens to the gate room, and you are soon back on your station. Sexual entanglements would add too much complexity to an already-tense diplomatic relationship.
+
+Special Circumstances
+I'm going to be spending the day working with refugees. Want to join me for a day out?
+
+I was born on a world a lot like this, you know. No technology, no space, no masters. People who grew up out there always look down on the agrarian lifestyle, but people where I'm from were happy. Fulfilled.
+
+Raiders eventually noticed us though. That was our first interaction with anything from outside our planet. We didn't stand a chance. You have to understand, we had spears. Rocks. Nothing that could even touch them.
+
+After that, I spent a lot of time getting to know the galactic community. I was traded from master to master like a piece of jewelery. I must have attempted suicide a thousand times, and I wept when I learned that they had made me immortal. Such a great gift, used for such horrible reasons.
+
+Eventually, I got sold to a master with less sense than most. He tried a surprise attack on the cooperative, and found himself in the middle of a slave revolt. We got some anonymous shipments of weapons, and it wasn't long before we got our revenge. I don't usually take joy in inflicting pain, but for him... Well, let's just say it was a cathartic experience. By the time we were done, there was little left to dispose of.
+
+What goes around comes around. Today, you are a master. Tomorrow? Who can say.
+
+
+Deus Vult
+You receive an unsolicited transmission from Ava.
+"I'm ashamed to say this, but I could use a helping hand."
+"A group of hardliners calling themselves the "Crusaders" has been stirring up trouble recently. Frankly, they're a cult. They dedicate themselves to some goddess of freedom or another, and are trying to drum up support for an all-out war against the masters. "
+"I appreciate the sentiment, but what they're planning would be suicide for the entire cooperative. Ordinarily, I would ignore such a small sect, but my models show that, were she to get enough attention, she could convert enough of the population to shape policy."
+"Is there any chance you could... take care of them? I can't pay you, of course; if this were ever traced back to me, things would get out of hand quickly. I'm sure you'd be able to find something of value though."
+She can't bring herself to say what the prize will be outright, of course, but she doesn't have to.
+	I'd be happy to help
+		"Thank you. You have no idea what this means to me. I owe you one."[relationship|20]
+		Ava closes the connection, and you order the assault on the floatilla. The coordinates Ava gave to you are in deep space, and it's likely that they were relying on secrecy for protection from raiders.[remove][hide]
+		It only takes a few ships to destroy the fleet's escort, and you soon find yourself in posession of a few choice political prisoners.[addslave|18/25|0/0|0/0|She was the leader of the Crusaders, an organization dedicated to abolishing slavery|You captured her as a favor to Ava][addslave|18/25|0/0|0/0|She was the personal bodyguard to [name], the leader of the Crusaders|You captured her order as a favor to Ava]
+	I don't want to get involved
+		"You're right. I shouldn't have asked. I'm sure it will turn out fine."
+
+
+Who Stares at Madness
+
+
+The Second edge
+
+
+"I was just reading a fascinating work from one of Fei's oligarchs who has a penchant for philosophizing. It's easily the most impressive sequence of mental gymnastics I've ever seen. I suppose you need such things when you're trying to justify her particular brand of sadism, but the results were... unsettling."
+"The thesis of the book is that 'servitors' are genetically predisposed against leadership, and that they are better off as pawns and toys to the wealthy. They truly believe that the people below them aren't human. They always stop just short of saying it outright, of course, but they make a mountain of their studies on divergent evolution in lesser creatures."                          
+"I'd love to see a meeting between him and Tyrant. She was born a slave, you know. I can't imagine her reading a book on philosophy, of course, but it's a great mental image (though a bit... graphic)."
+"Still, he's right in one respect. You and the rest of them have managed to so brainwash your people that they truly believe that they are doing well for themselves. Even your slaves see you as more merciful than the alternatives."
+"Treat your people well or not, but know that they will remember every horror you've inflicted. When opportunity strikes, they will return the favor. With interest."
+She gestures to an obviously-pulverized human testicle preserved in a block of acrylic on her desk. The label reads "07-67-22-38 - 'Master'"
+"I do enjoy our little talks. Could you please see yourself out? I have a lot of work to do."
+
+
+
+
+
+
+I don't think you understand. This little message in a bottle has put me in a precarious political position. If it's even suspected that I'm still speaking to you… Well, you might find yourself dealing with a new president. One who won't be so reasonable.
+With this out in the open, my people have no choice but to begin hostilities. We may be able to reexamine in a few years, but let's be honest with ourselves, your little empire will be long gone by then. If you leave your station now, you might find a nice place on the rim to retire in exile. Otherwise, I'll do my best to make sure you are captured and tried instead of killed in the fighting. In any case, this will be our last communication. It's been good knowing you.
+
+
+
+
+
+This… this needs to stop. All of the good that I've done… the lives saved… the slaves liberated… was it really all for this? Billions dead, and for what? I… I can't let this go on...
+What could possibly be worth… this? All this suffering… all this destruction...
+I surrender. Just… please leave my people be. They didn't deserve this war. They didn't deserve any of this. 

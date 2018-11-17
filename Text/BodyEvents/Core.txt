@@ -183,7 +183,7 @@ The fauna of [body] have been afflicted with a mysterious plague, and are beginn
 	Wipe out the aggressive animals
 		Bioweapons are cheap on the black market, and you easily find a suitable one for [body]'s native creatures. It efficiently wipes out the rampaging creatures, though the ecosystem is now in the midst of catistrphic failure. The local government scrambles to repair the damage caused by the loss of so many species at once, but it's still better than having all business leave the world entirely.[bodyobedience|10][bodyfear|-5][prosperity|0.7]
 	Invest in a cure (Costs $100,000)
-		You have samples sent to an ecological lab, and they quickly synthesize and deply a cure. The people of [body] appreciate your graceful handling of the situation.[bodyobedience|10][bodyfear|-10][money|-100000]
+		You have samples sent to an ecological lab, and they quickly synthesize and deploy a cure. The people of [body] appreciate your graceful handling of the situation.[bodyobedience|10][bodyfear|-10][money|-100000]
 	Invite tourists to hunt the dangerous beasts
 		You market the planet as a theme park for thrill-seeking hunters, and soon sell enough licenses to bring the animal population down to a more manageable size. The pepole of [body] resent the presence of the obnoxious tourists, but the problem is solved to the point that businesses no longer shy away.[money|100000][bodyobedience|-10]
 	Do nothing

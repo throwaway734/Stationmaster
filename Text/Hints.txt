@@ -8,10 +8,10 @@ In this age of rampant sexual slavery, post-coital reflection has been known to 
 Like virtually all spectacularly wealthy people in this day and age, you are effectively immortal, and have no need for sleep. Days blur together like minutes in your eyes.
 Your artificial muscles make you easily capable of overpowering un-augmented humans, a trait that you have made use of many times in the past.
 Your custom-built mind is not only capable of storing centuries of memories, but can feel and control your stations' systems (including its drones) as if they were natural appendages.
-The Black Star Mercenary Group is the main source of military forces for smaller governments. Its leader is anonymous, and widely speculated to be a sentient machine.
+The Black Star Mercenary Group is the main source of military forces for smaller governments. Its leader, Tyrant, is said to be able to cut through armies with her bare fists.
 Prime Consumer Electronics is one of the oldest corporations in the galaxy, predating space colonization. Centuries of carefully-leveraged holdings have made them essentially permanent.
 The Null Autonomous Collective is governed by machines, but provides for its human citizens. Some call their lives pointless, but they claim to be happy. The robotic overlords guard their planets carefully, tending their humans like a garden.
-Vladivostok Holdings was an early investor in cryptocurrency, and cleverly capitalized around its early volatility to gain enormous sums of money. Its investments have taken it to the status of a major galactic power.
+Vladivostok Holdings was a venture capital corporation that looted nations for enormous sums of money. Its investments have taken it to the status of a major galactic power.
 Shiva Military Corporation has an effective monopoly on advanced weapon designs, and every manufacturer and mercenary corporation must pay exorbitant license fees for the latest designs.
 The Australian Cooperative was created in response to the first automation crisis, and persists due to its rapid development of energy technology. Its citizens are universally wealthy and educated.
 In the early days of galactic slavery, Piaoliao Nuli managed to leverage local overpopulation to corner the market on cheap slaves. Its success since then can be attributed to entire worlds dedicated to producing carefully-engineered stock.
@@ -27,7 +27,7 @@ Citizens won't rent quarters that are too expensive or too cheap for their incom
 Pod Rooms are an excellent way of packing a lot of tourists into a small space, but clients won't boost your reputation by raving about their accommodations.
 Rich tourists will pay extra to stay in lavish quarters. It's a great opportunity to fleece them for everything they have.
 Obedient slaves will station themselves in private rooms within your brothel, and you can charge more money for their time.
-The Cafe is an excellent place to relax during refractory periods. So you hear.
+The Bar is an excellent place to relax during refractory periods. So you hear.
 The restaurants on your station, while visually spartan, have excellent food. The variety is a great boon to the mental health of your citizens and tourists alike.
 Hanging slaves in your suite is a great way of driving fear into the minds of your property.
 You have no need for sleep, but suite beds let your slaves serve you even when they're unconscious.
@@ -42,7 +42,6 @@ The surgery center gives you complete control of your slaves' bodies.
 The chrono chamber allows you to roll back the clock on your favorite slaves, or make them grow prematurely old.
 The Australia cooperative's detractors often call its system of government "gay space communism." Its members have embraced the description, and used it to draw billions of migrants.
 The Felis and Canis were the results of an ambitious breeding and genetic engineering program. They are bred to be docile, and surgically altered before sale.
-The Draug were once a spacefaring race and a legitimate rival to humanity. Though they naturally lay clutches of eggs, breeders modify their genitals to be more human-like before sale.
 The Fae lived in hiding on several worlds until well after humans arrived, and were only recently found due to their natural evasiveness. Some theorize that came with humans from Earth due to their resemblance to old legends.
 The Eoll were once a proud aquatic empire spanning hundreds of systems, but they were ultimately defeated by human forces and modified for use as a slave race.
 Colonies of humans occasionally gain distorted proportions after generations in low-gravity. These tall and thin denizens are prized by some, and aggressively bred wherever they are found.
@@ -51,7 +50,10 @@ The Atarnas once observed the human race from afar (occasionally abducting peopl
 The Eko lived peacefully on their homeworld, and had no drive for expansion. They were easily conquered by the first corporate military to notice them, and subsequently enslaved.
 Dolls were created by an abolitionist organization as a humane alternative to slavery. In a cruel twist of fate, the company was taken over by a slave recycling plant, who used the dolls to give new life to slaves whose bodies were broken beyond repair.
 Hold shift when selling slaves to skip the confirmation dialog.
-Hold shift when building structures to build more than one of the same thing
+Hold shift when building structures to build more than one of the same thing.
+Press Q, E, or the middle mouse button to rotate structures.
+Press Q, E, or the middle mouse button to rotate structures.
+Press Q, E, or the middle mouse button to rotate structures.
 Slaves from prestigious schools are worth a fortune on their 18th birthday, but quickly depreciate. They are often given as symbolic gifts to dignitaries, and entire diplomatic summits have been shifted to line up with particularly elegant graduates.
 Hunting free-range slaves has become a major business. Allowing it on your planets incurs a massive morale cost, but tourists will pay top dollar for the opportunity to catch their own slaves in a safe environment.
 The prevalence of low-tech civilizations of humans has long been a puzzle for the scientists of the galaxy. Events that cut civilizations from the galactic community while maintaining the population are quite rare, but there are many thousands of worlds in which they have apparently occurred.

@@ -1,0 +1,9 @@
+Sacrifice
+As you sit at your desk, you hear a deafening crack from the space in front of you. When you look up, you see electricity arcing through the air, and a strange woman standing in the center of the anomaly.[macro|avatar][remove]
+"Do not be afraid. Destroying you would be counterproductive."
+Her speech is unsettlingly distorted, skipping between voices and accents frequently. She is obviously some kind of android, but not one designed with protocol in mind.
+"Your people have a saying. Kill one, and you're a murderer. Kill a million, and you're a conqueror. Kill them all, and you're a god."
+The android pauses for a moment, and you see her look in the direction of your station's data banks.
+"Sacrifice ten billion souls in our name, and we will show you the truth behind those words."
+As soon as she finishes speaking, the android snaps out of existence, leaving nothing but the crackle of static electricity in the air.[hide]
+You see plans for a "Genocide Stone" planet upgrade appear in your systems. The design is beyond anything you could realistically analyze, but the name makes its purpose clear.[set|genocidestone]
