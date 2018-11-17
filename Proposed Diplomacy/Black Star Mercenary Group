@@ -1,0 +1,21 @@
+Black Star Mercenary Group
+[macro|tyrant][remove][relationshipswitch|Love|mediocre|hate]
+  Tribute
+    Give Gift ($100,000)
+		  [relationshipswitch|][relationship|5][money|-100000]
+			   Leave
+				    [close]
+			   Back
+				   [return]
+	{AtPeace}Declare War
+		[relationshipswitch|][declarewar]
+	{AtWar}Make Peace
+		[peaceSwitch|[makepeace][relationshipswitch|]|[relationshipswitch|][relationship|-5]]
+	{AtPeace}Demand Tribute
+		[tributeDemandSwitch|Something special from our last raid. I trust that they will be to your liking.[random|[addslave|A chieftain's daughter raided from a backwater planet.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|An expert warrior rescued from a pit fighting ring.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|A primitive military commander, kidnapped from her tent on the eve of battle.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]][random|[addslave|Was a primitive king's concubine.|She was a gift from Tyrant|18/18|0/0|0/100||non virgin]|[addslave|A locally-famous contortionist, kidnapped from a traveling circus.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|Was a famous actress before being kidnapped.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]][relationship|-10]|Tribute? What are you sending me?[relationship|-5]]
+			Leave
+				[close]
+			Back
+				[return]
+	Leave
+		[close]

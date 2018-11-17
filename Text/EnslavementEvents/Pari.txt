@@ -1,0 +1,185 @@
+{notvar pari1}{ownedbodies > 5}{notatwar shiva}Opera
+You receive a message from Pari.[macro|pari][environment|shiva][pose|parisit][remove]
+"It looks like you're actually holding territory. We should celebrate your victories. Perhaps an opera?"
+	Accept
+		You arrive at the venue. It is in neutral territory, though in a Shiva-friendly sector of space. Pari arrives punctually in a small but advanced fighter. It's not a design that's available on the open market, and appears to have been custom made for her.[set|pari1]
+		She smiles warmly as she descends the steps to the ground, and takes you by the arm as she guides you into the main hall.
+		"On behalf of Shiva Corporation, I would like to welcome you to the galactic community. I think you'll go far here."
+		Her eyes meticulously scan your face as she speaks, and she immediately notices your displeasure at the obvious attempt at flattery. Within moments, you see her demeanor change to accommodate your attitude. She sighs, adjusting her expression in a slightly more cynical direction.
+		"For what it's worth, this dance bores me as well. What do you say we go somewhere a bit more entertaining?"
+		You nod, and she guides you back through the doors of the opera house, and into the parking area.
+		"Forgive the deception. Clients often respond well to... base flattery."
+		She guides you a restaurant near the opera house and holds the door for you as you enter. She continues to study your reactions, and her personality continues to adjust.
+		"Little lords are so predictable. They play god on their little planets, and lose all perspective on what they really are. As soon as I frame warfare as a contest of masculinity, I couldn't stop them from attacking their neighbors if I wanted to."
+		You both order your food.
+		"You though. There's something different about you. I've seen the ledgers. You don't buy nearly enough ships for what you've accomplished. Careful timing will only take you so far, you know."
+		The food arrives almost instantly, carried by a legion of tiny drones. You look down and see the Shiva Corporation logo featured in the small print of the menu.
+		"Sooner or later, you're going to need more brute force. When you do, you know where to find me."
+		You eat and talk for a while longer before heading your separate ways. 
+		Pari seems to believe that your ascension has been a matter of luck, and it may be wise to encourage that for as long as possible.
+	Decline
+		Ah well. Perhaps another time.
+
+{var pari1}{notvar pari2}{notatwar shiva}{ownedbodies > 20}At the End of the Universe
+You receive a message from Pari.[macro|pari][environment|shiva][pose|parisit][remove]
+"It's been a while, and I just found the most interesting little restaurant. Would you like to come by?"
+	Accept
+		You arrive at the portal indicated in the note, and find yourself aboard a strange spacecraft. It is a transparent sphere, sitting in the midst of a colossal debris cloud. There is a single table in the middle, where Pari beckons you to sit.[set|pari2]
+		"Welcome! I'm so glad you could come. I thought we could meet somewhere a bit more intimate. Usually, you need to make reservations for this place decades in advance, but..."
+		You sit at the table, and a service drone fills a glass of wine at your place setting.
+		"This is one of my ships, you know. Well, it was. This little strip of space has been the site of many battles."
+		She is not wrong. The starship graveyard surrounding you is immense, easily containing the remains of hundreds of thousands of ships.
+		"There are wars on the outlying colonies that have been raging for centuries without a single death, driven by economies that produce nothing but nebulae of scrap metal. Discounts here and there keep them evenly matched, as long as they keep paying."
+		You direct your station to analyze some of the scraps, and find that every one began its life as part of a Shiva Corporation vessel.
+		"The people sacrifice all hope of advancement to pay for the ships, and the sunk cost means that they will keep paying, forever. After all, the first one to stop would be overrun."
+		The food arrives. You didn't place any order, but the makeshift station has constructed a clever remix of one of your favorite dishes. Pari has done her homework. You thank her, but she is deep in thought, and doesn't seem to hear it.
+		"Have you seen a planet razed after three hundred years of warfare? Heads on spikes, valuables looted, and, of course, billions of citizens up for grabs. Biblical stuff. It makes great marketing material though."
+		She takes a bite from her dish, a fish curry you can't identify.
+		"I like you, so I'll give you some advice: Don't start a fight you can't finish quickly. As soon as you're trading ships in open space, the only winner is me."
+		You chat aimlessly for a while, enjoying the meal and the sight the drifting debris field. When the plates are empty and the conversation is over, you return to your station.
+	Decline
+		Ah well. Perhaps another time.
+
+{var pari2}{notvar pari3}{notatwar shiva}{ownedbodies > 40}Dinner
+You receive a message from Pari.[macro|pari][environment|shiva][pose|parisit][remove]
+"I was going to have a local lord over for dinner, but he had to cancel to attend his execution. Nasty stuff. Are you free for a meal?"[macro|pari]
+	Accept
+		You arrive at Pari's estate, and are greeted by the smell of a fantastic meal. Pari is waiting for you at the gate.[set|pari3]
+		"I'm so glad you could make it. Eating alone is so... unproductive."
+		The first course, an array of decadent pastries, appears through purpose-built holes in the table. Pari speaks between bites. 
+		"Have you met Tyrant yet? Most of the major leaders out here don't have the stomach for a proper war, but her little operations are responsible for a third of my revenue. I'd give her a referral fee if Shiva had any real competition."
+		The remains of the pastries vanish back into the table, and are immediately replaced by a cauldron of slightly-glowing soup.
+		"We have a bit of an agreement: I don't make military androids, and we don't have to go to war over market share. It's mutually beneficial."
+		"Most of the galaxy would be converted to lifeless glass before that war ended, and neither of us would benefit from that."
+		The soup disappears back into the table, and is replaced by the main course, a curry of some kind.
+		"The important thing to recognize is that every leader has a role. Step outside of that, and you might not like how the rest of us react."
+		She takes a bite, and the conversation turns to less pointed matters. Eventually, the meal is finished, and you return to your station.[remove][hide]
+	Decline
+		Ah well. Perhaps another time.[remove]
+
+{notvar pari4}{var pari3}{notatwar shiva}{ownedbodies > 100}Third Date
+You receive a message from Pari.[macro|pari][environment|shiva][pose|parisit][remove]
+"Your use of my weapons has been inspiring. What do you say to a little celebration at my place?"
+	Accept
+		When you arrive at Pari's headquarters, she greets you in the nude.
+		"I thought we could try something a little less... formal. Just this once. What do you say?"[macro|pari][strip]
+			Accept
+				Pari smiles and lunges at you, pulling you to the ground on top of her while she kisses you passionately.[pose|missionaryprep]
+				She undoes your pants with her heels, sliding them down your legs before guiding you into her with her thighs.[pose|sex]
+				Even during sex, she almost acts as though she is in a diplomatic meeting. Her carefully-constructed smile never wavers except to give way for a carefully-considered intake of breath at the right moment.
+				The moment she notices the quickness that signals your incoming orgasm, she begins to quiver, and you feel her tighten with her own orgasm at the same moment that you have yours. It is impossible to say whether it was genuine, but it was at least convincing.
+				Pari kisses you passionately until you pull yourself out of her and return to your feet.[pose|idle]
+				"Mmm... I've been wanting to do that for a long time."
+				She looks almost unguarded for a moment before she returns to her normal charm.
+				"Now, how do you feel about some dinner?"
+				Pari leads you through a door into an ornate dining room that's covered in an incredible number of rose petals.
+				"I've been busy."
+				She gestures towards a chair at the table, and you both sit down. At her mental command, several panels at the table open, and a dozen dishes, all known for their aphrodisiac properties, rise from the surface.[pose|boundseated][remove] 
+				You are both augmented to the point that such chemical assistance is pointless, but the dishes are often served symbolically. Pari winks before beginning to eat.
+				Between bites, Pari begins to speak again.
+				"I wanted to ask... How do you do it?"
+					Do what?
+						"Take so much territory. I looked over the sales records today, and you don't have nearly enough ships."
+						"I used to think you were just lucky, but this goes way beyond that. How do you do it? Is it sabotage? Spies? I'm dying to know."
+							Tell her about Entropy
+								Pari laughs.
+								"If you didn't want to tell me, you could have just said so, you know. You don't need to be an ass about it."
+								You and Pari enjoy the delicious meal together before you head back to your station.
+							Deflect
+								Pari frowns slightly.
+								"That's fine. Keep your secrets. I'll be watching you though."
+							You and Pari enjoy the delicious  meal together before you head back to your station.
+					Let's just enjoy the night.
+						"You won't get away from me that easily. Seriously, how are you taking so much territory with so few ships?"
+						"I used to think you were just lucky, but this goes way beyond that. Is it sabotage? Spies? I'm dying to know."
+							Tell her about Entropy
+								Pari laughs.
+								"If you didn't want to tell me, you could have just said so, you know. You don't need to be an ass about it."
+								You and Pari enjoy the delicious meal together before you head back to your station.
+							Deflect
+								Pari frowns slightly.
+								"That's fine. Keep your secrets. I'll be watching you though."
+								You and Pari enjoy the delicious meal together before you head back to your station.
+			Decline
+				Pari seems to have prepared for this, but still looks embarrassed. She hastily pulls her clothes back on.
+				"I'm sorry, I presumed... That was extremely inappropriate. I'm so sorry."
+				You comfort her and she seems to relax slightly before taking you by the hand.
+				"Er... After that, I planned... Well..."
+				You enter the next room and see a dining room with a colossal number of rose petals covering the floor. She hastily sweeps them aside and pulls you a chair.
+				"I... really thought that was going to go a different way."
+				She covers her face before pushing a button, and a dozen dishes, all made with foods known to be aphrodisiacs, emerge from the surface of the table. [pose|boundseated][remove]
+				"Well... dig in!"
+				She sits at the chair across from you, and begins to eat. You assure her that the food is delicious, which seems to calm the look of humiliation on her face. Changing the subject, she begins to speak again.
+				"A... Anyway. I wanted to ask... How do you do it?"
+					Do what?
+						"Take so much territory. I looked over the sales records today, and you don't have nearly enough ships."
+						"I used to think you were just lucky, but this goes way beyond that. How do you do it? Is it sabotage? Spies? I'm dying to know."
+							Tell her about Entropy
+								Pari laughs.
+								"If you didn't want to tell me, you could have just said so, you know. You don't need to be an ass about it."
+								You and Pari enjoy the delicious (if slightly inappropriate) meal together before you head back to your station. This is a story you will be able to tell for centuries.
+							Deflect
+								Pari frowns slightly.
+								"That's fine. Keep your secrets. I'll be watching you though."
+							You and Pari enjoy the delicious (if slightly inappropriate) meal together before you head back to your station. This is a story you will be able to tell for centuries.
+					Let's just enjoy the night.
+						"Yes... Of course... You're right."
+						You and Pari enjoy the delicious (if slightly inappropriate) meal together before you head back to your station. This is a story you will be able to tell for centuries.
+	Decline
+		Ah well. Perhaps another time.
+
+{ownedbodies > 200}{var pari4}Incoming Message
+Pari appears on screen, looking furious.[macro|pari][environment|shiva][pose|parisit][remove]
+"I'm going to get right to the point. You have been lying to us. Your ships may look like Shiva designs, but my engineers took a peek at some wreckage we found. You're hiding something."
+"Shiva operates under one guiding principle: we sell to both sides. If we lose that, our profits will drop staggeringly."
+"I don't know how you did it, but it looks like you've made improvements. If the word gets out that Shiva no longer has the best... Well, we cannot allow that to happen."
+"For what it's worth, I'm sorry it has to end this way. It would have been much better if you had stuck to your pimping and left the military technology to me. Now I have to kill you."
+"If you scuttle your station now, we can all pretend you died in an accident. Otherwise... I think you know the rest."[declarewarpermanent]
+
+{var pariexiled}The Party
+Ever since Pari's self-imposed exile, you have been keeping watch for any corporations with a sudden jump in value. She may have a new name and face, but she will never stop being a talented businesswoman, and her fingerprints are inevitable.
+You soon find a lead. A husband and wife pair that established a monopoly on food production across several worlds in the span of months. The husband is a well-to-do man with plenty of history. The wife, however, seems to have appeared out of nowhere days after Pari’s disappearance. They frequently entertain large groups of guests, and it wouldn't be difficult to crash one of their parties.[unset|pariexiled]
+	Crash the next party
+		You find their next party and invite yourself to the venue. Your reputation opens almost any door, and no guard dares to question you as you walk into the building.
+		You spend a few minutes examining the crowd before your eyes land on the hostess. She had changed her face, but her subtle mannerisms and political deftness are unmistakable. You are certain that she is Pari.[addslave]
+		You sidle up to her and gently tap her on the shoulder. She turns to you with an automatic smile, but it vanishes as soon as the see your face. She turns to her husband and nervously excuses herself before talking you by the arm and firmly guiding you onto the less-crowded patio.
+		"What are you doing here? This wasn't the deal. You aren't even supposed to know where I am."
+		You explain that you're just stopping by to see an old friend. She relaxes slightly, but doesn't trust your intentions enough to accept the explanation. She takes a glass of wine from the nearest server's tray and drinks it in a single gulp.
+		"I hated you, you know. Well, it isn't the right word. There isn't one. You took everything I had. An empire that took centuries to cultivate. I loved Shiva Corporation more than… more than anything. And you burned it to ashes in front of me."
+		"But the truth is, I wasn't any better than you. I thought I was. I'd earned my fortune, after all. But I bet I've killed more than you have. All of those wars, all of that suffering… and for what? I temporarily held a few more worlds than I would have."
+		"This is better. I'm bringing food to the masses. I'm not making as much money as I could, but I'm not getting any more blood on my hands either. Even saving lives, now and then. I don't know if there's enough time left in the universe to make up for everything I've done, but… maybe. Just maybe."
+		"I'm even happy now. I wasn’t before. Not really. Always looking over my shoulder, going to Fei’s psychopathic parties, listening to Ava drone on about justice. I hated so much about my old life, but no amount of power was going to fix it."
+		"Now? Things are simple. Just a couple planets, a couple hundred thousand employees. I have time for a husband. Might even have a kid or two. Play it by ear."
+		"But you didn't come all this way to ask about my family life. What do you want?"
+			I want my trophy
+				Dawning comprehension crosses Pari's face. She cries out, and the music from within the house stops abruptly as all heads turn to look at you.[humansound|scream][backgroundloop|none]
+				At your mental command, your ship appears from above, escorted by a pair of security drones. They grab Pari and force her into the cargo hold as you jump into the cockpit.[pose|dronestruggle]
+				Local police scramble fighters, but you are gone with your sobbing prize before they make it off the ground. You stop at a surgery center to restore her old appearance before heading back to your station.[remove][macro|pari]
+			I'm just here to reminisce
+				Pari looks relieved at this, though still confused.
+				"Fine. You've said hello. Lorded your victory over me one last time. Do I need to change my identity once again? Or is this... meager enough?"
+				You shake your head. She is thoroughly tied down to her new role as a minor industrialist, and will never be a threat to you again.
+				You exchange stories about the good old days until the party winds down, then you head back to your station.[remove]
+	Ignore them
+		As long as she sticks to a small food corporation, you have nothing to worry about. You close the notification.
+
+{selectslavebytag Pari}{tag factionleader}Readiness
+Though Pari is no longer the CEO of Shiva Corporation, she has many business connections spread across the galaxy, and there is a vast library of competitive intelligence stored in her mind. Such influence could be useful, but she has so far been unwilling to share her information with you.[pose|dronehanging][humansound|fear]
+	{extreme}Tear it from her mind (Costs $100,000)
+		[money|-100000]Like virtually all wealthy people, Pari is equipped with a neural lace. They are critical for the large-scale communications that CEO's require, but they have one fatal flaw. Given proximity, time, and a willingness to inflict pain, they can be hacked. You spend the necessary money to acquire such a spike from the black market, and approach her with it in hand.[pose|dronestruggle]
+		Thanks to an information suppression campaign by a cabal of biotech giants, even the existence of the neural spike is not common knowledge, and Pari obviously has no idea what it is. She bucks her hips to try to pull herself away from what she thinks is a sexual implement, and looks confused when you continue walking and position yourself behind her head.
+		Her face freezes in a look of shock as you jam the probe deep into her skull, perfectly striking the core of her neural lace. She is immediately paralyzed by the virus, and her struggling ceases completely.[pose|dronehanging]
+		The spike begins to do its work, downloading the information on her contacts to your station's computer. Between the insider knowledge of Shiva Corporation technologies and the hundreds of useful pieces of blackmail on her friends and allies, the information you have gathered is worth millions.[humansound|idle]
+		When you are satisfied that all of the useful information has been extracted, you remove the probe. Pari finally manages to scream in pain as blood leaks from the small hole in her skull.
+		The drone drops Pari's body to the ground, and she breaks down sobbing on the floor. The invasive hack has left Pari's mind permanently destroyed, but you manage to turn the blackmail you have gathered into a new income stream.[humansound|sobbing][pose|facedownonground][upgrade|PariBlackmail][removetag|factionleader][addtag|insane][fear|100]
+	Strike a bargain for better treatment
+		You order the drone to release Pari, and she looks at you with confusion. You explain to her that there is no way out for her, and that the only way she can improve her situation is by obeying your orders. She opens her mouth as if to protest, but closes it, thinking better of the outburst. [pose|idle]
+		After a moment of thought, she wordlessly kneels before you.[pose|kneel][humansound|fear]
+			Accept her submission
+				At your gesture, Pari stands up. She has submitted to you, and will use her insider knowledge of Shiva's technologies to speed repairs on your fleet.[upgrade|PariOptimization][removetag|factionleader][pose|idle][obedience|50]
+			Celebrate by using her
+				You nod and approach her. She knows what you are about to do, and sobs quietly as you position yourself behind her and begin to press yourself against her. [humansound|sobbing][pose|doggyprep][strip]
+				She cries out involuntarily as you force yourself into her, but makes no attempt to escape as you use her for your pleasure. [pose|doggy][humansound|painfulsex]
+				She gasps as she feels you finish inside her, and maintains her kneeling pose as you pull out of her and return to your desk. Pari is broken now, and will use her insider knowledge of Shiva's technologies to speed repairs on your fleet.[upgrade|PariOptimization][removetag|factionleader][pose|kneel][humansound|fear][fear|20][obedience|50]
+	Deal with the issue later
+		She will come around in time. You leave her to the standard training methods for now.

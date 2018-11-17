@@ -56,30 +56,3 @@ You have developed a slightly annoying problem. A laboratory on a relatively pri
 		You're in no mood for this. You simply send an antimatter bomb back through the portal next time they send one of their criminals. You hear brief sounds of panic from the other end before you close the portal, and can be assured that there will be no more interlopers.
 	Allow the annoyance to continue
 		What's a little harmless extermination? You continue to slaughter their convicts, and some citizens even camp out in front of the gate to watch the spectacle. After a few dozen, the researchers on the other end appear to be satisfied that they won't learn anything, and the experiments cease.
-
-Distress Signal
-Your station is picking up a distress signal from a cargo hauler. It's difficult to make out the issue through all of the screaming, but the sound of rending flesh is unmistakable. Whatever did this could be valuable, if slightly dangerous.
-	Investigate the signal
-		You send a small team of security drones to investigate the signal. Through its eyes, you see the drifting hauler. It doesn't appear to be damaged on the exterior, but there is only one life sign aboard.
-		As it enters the airlock, your security drone is greeted by a massive alien creature standing in a pool of the former crew. It barely takes notice of the robotic interlopers, preferring to gnaw on what is barely recognizable as a human torso.
-		The creature matches vague records of something called a "Devourer," a rare Xeno known for its near-infinite hunger. It likely escaped during transport to a wealthy collector, but their loss is your gain. The combined efforts of the security drones are enough to contain the creature, and you manage to place it into a cell.
-		You can now place the Devourer Cell artifact to use the creature in the Xeno Arena.[addartifact|DevourerCell] 
-	Destroy the hauler
-		You fire a missile at the signal, and it immediately vanishes as the ship is reduced to a fine dust. Something killed the crew, and investigation is not worth the risk.
-
-Dark Colony
-A mining colony on a nearby asteroid has just gone dark. It is not uncommon for slavers to raid small colonies like this, but the asteroid still has significant life signs (if anything, more than before, though your sensors are unable to determine the specific number). 
-	Investigate the colony
-		You send a small team of security drones to investigate the asteroid. On their approach, they see the entire rock coated in strange spores that have adhered to the surface.
-		Upon entering, they immediately come face to face with an almost-sapient mass of the strange fungus. This creature matches vague records of the Sporemother Xeno, a rare creature that emits virulent and deadly fungus when not properly contained. It attacks the movement, but the drones are able to contain the beast and place it into a cell.
-		You can now place the Sporemother Cell artifact to use the creature in the Xeno arena.[addartifact|SporemotherCell]
-	Vaporize the asteroid from afar
-		This is a textbook Xeno event, and you're not about to release whatever did this on the galaxy at large. You send a set of antimatter missiles at the asteroid, reducing it to inert dust.
-
-Nature Preserve
-A local environmental collective runs nature preserves to keep thousands of rare species from extinction. They always have budget problems, and are trying to keep the lights on by selling one of their rarest specimens. The creature is among the last of the rapacious Defilers, who terrorized local colonists before being all but eradicated.
-	Buy the creature (costs $100,000)
-		You send a message to the ecologists with the offer, and they quickly accept. Within hours, a ship has arrived at your station with the Defiler in a specially-built cell.
-		You can now place the Defiler Cell artifact, which will give you access to the creature in the Xeno arena.[addArtifact|DefilerCell][money|-100000]
-	Pass up the offer
-		You simply close the notification. You're not in the market for animals.

@@ -1,0 +1,153 @@
+{notvar raza1}{notatwar vladivostok}Auction
+You receive a message from Raza.[macro|raza][environment|vladivostok][pose|razasit][remove]
+"You know, we haven't gotten much of a chance to spend time together since your ascension. There's an invitation-only auction happening at my palace tonight. There will be a lot of rare items up for sale. Would you like to attend as my guest?"
+	Accept
+		You arrive at the palace, and see that it's been lavishly decorated for the auction.[set|raza1]
+		"Welcome! I'm so glad you could come. There are a lot of special items on the floor tonight."
+		She gestures at the empty seat next to her own.
+		"Please, sit. We're about to get started."
+		The auctioneer stands in front of the crowd and begins the sales pitch for a painting on display at the front of the room. Raza ignores him, turning her attention to you.
+		"So, tell me. You arrived on the scene pretty suddenly. Do you want some advice from someone who has been doing this for a while? Or would you rather fall on your face a couple times first?"
+			Accept the advice
+				Raza smiles.
+				"Excellent. You may be inexperienced, but you're eager to learn. That'll take you far."
+				"Now here's my advice: Most people are not like us. It's not their fault, you understand. They're born serfs, they live as serfs, and they die as serfs. They don't understand the game like we do, and wouldn't build empires even if they had the means."
+				"They see themselves as somehow better than the slaves, but it's a distinction without a difference. I know that if I want to use a pretty little thing around my palace, I don't bother to find out if I own her or not."
+				"People will debate on the nature of the classes until the end of time, but there are really only two groups worth mentioning. Us, and them. Never let them forget that, and they won't bring you into their insignificant problems."
+				She turns to the auctioneer.
+				"One hundred million."
+				The room goes silent for a moment, but the auctioneer quickly collects himself.
+				"Going once... Going twice.. Sold! To Raza, for one hundred million credits."
+				You take a closer look at the painting. It depicts a woman with a half-smiling expression. Your station tells you that it's extremely valuable, but not worth half of what Raza paid for it.
+				"For you. Consider it a late housewarming present. And a reminder."
+				You continue to sit in on the auction and make small talk with Raza for a while before returning to your station. Your station's computer reports that the painting has been added to your artifact storage.[addartifact|monalisa]
+			Decline the advice
+				Raza laughs.
+				"Oh, you're in for a rough time. But you're feisty, I'll give you that. Unafraid to speak your mind. That'll take you far."
+				She turns to the auctioneer.
+				"One hundred million"
+				The room goes silent for a moment, but the auctioneer quickly collects himself.
+				"Going once... Going twice.. Sold! To Raza, for one hundred million credits!"
+				You take a closer look at the painting. It depicts a woman with a half-smiling expression. Your station tells you that it's extremely valuable, but not worth half of what Raza paid for it.
+				"For you. Consider it a late housewarming present. And if you ever want some advice, you know where to find me."
+				You continue to sit in on the auction and make small talk with Raza for a while before returning to your station. Your station's computer reports that the painting has been added to your artifact storage.[addartifact|monalisa]
+	Decline
+		"Very well. Perhaps another time."
+
+{var raza1}{notvar raza2}{notatwar vladivostok}Ancestors' Wisdom
+You receive a message from Raza.[macro|raza][environment|vladivostok][pose|razasit][remove]
+"You've been making an impact recently. I have some advice, if you're interested to hear it."
+	Accept
+		Raza smiles as you arrive, and gestures to one of the chairs in her office.[set|raza2]
+		"So glad you could make it. I hope it's not too much of an imposition."
+		She gestures to a pot of tea on her desk, and you politely take a mug.
+		"I've been around for a long time. Longer than anyone else, as far as I know. One of the first test subjects of immortality. Things were a lot simpler back then, in a way. More complex in others. Slavery wasn't legal, of course. Commoners had some power back then, and they never would have allowed that."
+		"You see, back then, the commoners would elevate a couple representatives to positions of power. Speakers for the masses. Self-righteous pricks. All of them."
+		"When I was a little girl, my parents used to take me along when they went to speak to them. At the time, I thought it was because they wanted me to learn the family business. It was a long while before I realized that I was a humanizing prop."
+		"Still, I learned a lot about the nature of government in those meetings. My family was... infamous. Where they walked, protesters followed. Their factories had to be under heavy guard because the commoners would sabotage them. We had to travel between meetings in bulletproof vehicles."
+		"Despite that, they always managed to get what they wanted. A well-placed word, a suitcase full of money, or an incriminating video would always keep the politicians in check."
+		"When the governments fell, I was surprised by how little it changed. Sure, the "bribery" line-item vanished, but it had little impact on our bottom line."
+		"Some lament the new way of things, but they fail to recognize that it's humanity's natural state. Power has a way of consolidating. One day there will only be one major corporation, and I intend to be at its head."
+		"And now for the advice: Every one of us is the same. Some people fall for Ava's generosity or Tyrant's whole 'old soldier' act, but don't think for a second that they wouldn't kill you given half a chance. They're just not sure if it will be profitable yet."
+		"Anyway, thank you for indulging the ramblings of an old woman. I trust you can see yourself out?"
+		You thank Raza for her advice and make your way back to the gate.
+	Decline
+		"Perhaps another time."
+
+{var raza2}{notvar raza3}{notatwar vladivostok}History Lesson
+You receive a message from Raza.[macro|raza][environment|vladivostok][pose|razasit][remove]
+History has much to teach us, and I think you're in a position to benefit from its lessons. Care to indulge the ramblings of an old woman?
+	Accept
+		Raza smiles as you arrive, and gestures to one of the chairs in her office.[set|raza3]
+		"So glad you could make it. I promise there's a point to all of this."
+		"A couple of us had the foresight to see the collapse of the homeworld, and built up cities away from government control. It was the closest to paradise we could muster. We were like gods in our cities, and the major powers had too many internal problems to really worry about us."
+		"I remember my first. It was a tower that reached high into the clouds, bristling with weapons. Back then, a masterpiece of engineering. Primitive by today's standards, of course, but sometimes I wish I could see it again."
+		"Those were the days. I have no idea how many of the towers existed. It must have been thousands. I think the biggest draw was the ability to experiment with new styles of government. You had democracies, autocracies, communes. Everything."
+		"Most of them didn't last though. They'd get conquered, they'd get bombed by the old governments, or they'd just succumb to internal strife. Only the best of them survived long enough to make it out here."
+		"Major governments of the time needed something to distract the people from their incompetence, and they made it happen. The wealthier governments and towers could afford shields. The rest... couldn't."
+		"It was the first open war between nuclear powers. Some people said a billion people died in the first hour, and I believe it, though there's really no way to know for sure."
+		"My parents saw it coming, of course. I got to watch from orbit when the bombs fell. It was beautiful, in a strange way."
+		"There's a trite lesson about preparation here, of course, but the real message is that you should never trust someone who claims to be acting in the public interest."
+		"The public is fickle. One good propaganda campaign and they will believe anything. That's why the old world governments are gone, and I'm still here."
+		"Anyway, thank you for once again indulging the ramblings of an old woman. I trust you can see yourself out?"
+		You thank Raza for her advice and make your way back to the gate.
+	Decline
+		Ah well. Perhaps another time.
+
+{var raza3}{notvar raza4}{notatwar vladivostok}In Business
+You receive a message from Raza[macro|raza][environment|vladivostok][pose|razasit][remove]
+"Want to come by for a chat? I would love to talk to someone who isn't trying to wheedle something out of me."
+	Accept
+		Raza greets you as you arrive at her palace. As she leads you to her office, you see a man crucified to the wall across from her door. She ignores him and beckons you inside before gesturing to an open seat.[set|raza4]
+		"I hate them. The simpering aristocrats, the useless suitors, the conspiring slaves. Hundreds of people live in the palace, and they all express their love for me daily. Yet any one of them would throw me out an airlock for my position, and sleep well that night."
+		She offers you a glass of a faintly glowing liquor. When you take it, she gently taps the side of your glass with hers before drinking her entire glass in a single gulp.
+		"When I was a girl, I found this sort of attention flattering. I thought it meant that I was loved, that I was somehow special. It took me a long time to see why my parents kept everyone outside the family at arms' length."
+		"Of course, they shouldn't have had a child. That was back when you had to age, you understand, and they wanted me to inherit their little empire when they became too old and feeble to keep it from collapsing. When the first immortality drugs hit the market... Let's just say that I moved first. They shouldn't have hesitated to do the same to me."
+		"Just like that man out there. My old second in command. I treated him like a son. Until I found a bomb under my desk this morning. Now I need to promote someone new."
+		"That's how it works here. There's only so much room at the top. For one to rise, another must fall."
+		Raza begins to refill her glass, then puts it down and takes a long swig from the bottle.
+		"Sometimes I envy the primitives. For all of its disadvantages, mortality keeps things churning. Stops people from trying to pull this kind of shit so often."
+		She looks down for a moment and collects herself.
+		"In any case, thank you for coming by. It's nice to talk to someone who wouldn't immediately ascend in the hierarchy by murdering me. A tall order, I know."
+		You continue to talk for a while before heading back to your station. As you leave, you notice that Raza seems genuinely sad to see you go.
+	Decline
+		Ah well. Perhaps another time.
+
+{money > 100000000}{var raza4}{notatwar Vladivostok}Incoming Message
+You receive a message from Raza.[macro|raza][environment|vladivostok][pose|razasit][remove]
+"That station of yours has become quite lucrative. A good investment. You've been through this process before, so I'll be blunt: sell it to me for a hundred thousand credits, or I’ll cut it to pieces and take what's left."
+"It's nothing personal. You're just starting to become a potential threat. I don't like potential threats. Better to strangle them in the crib. I've had fun with you though. Maybe you can join my court after this little unpleasantness is done with."[declarewarpermanent]
+
+{var razaexiled}New Face
+Ever since Raza's self-imposed exile, you've been keeping an eye out for any strange figures matching her description. She has been extremely careful, but had to purchase a new face from her old accounts before she could start her new life. After a substantial amount of research, your station has found the identity of the machinist responsible for her update.[unset|razaexiled]
+	Interrogate the machinist
+		You pay the machinist a visit. Your reputation precedes you, and the terrified man hands you a picture of Raza's new face almost before you can ask. He may have a reputation for confidentiality, but there are few who would risk being tortured to death for a client.
+		Armed with your new picture, you begin to scan personnel records. After some time, you find a match. She was recently hired as a bartender on a small farming world.[addslave]
+			Pay her a visit
+				You travel to her adopted town. It was an excellent choice of retirement destination. It's picturesque and quaint, if slightly boring.
+				You walk into the bar and immediately see Raza filing a pair of beers for her patrons. She glances in your direction, but manages to maintain her expression. You sit down, and she soon starts her break and sits across from you.
+				"That little bastard ratted me out, didn't he. I was hoping to save up for a new identity before you tracked him down, but it was a gamble."
+				"I knew you wouldn't hold up your end of the bargain. Why would you? I have nothing left to threaten you with. No more schemes."
+				"Before you take me away though... You should know that I'm finally happy here. For the first time in my life, there's no company to worry about. No grand schemes. No pretenders waiting to stab me as soon as I turn my back."
+				"I always wanted to retire somewhere like this. Somewhere warm. Somewhere simple."
+				"Can you really do it? Can you really take this last small thing away from me?"
+					Take her by the arm
+						Raza twirls in your grasp, pulling herself against you before detonating a concealed charge in her abdomen. [hide][remove]
+						You are temporarily blinded by the blast. When your sight returns, you see that the bar is destroyed, and the rest of the patrons have been obliterated by the powerful explosion. A small metal plate is all that's left of the decoy's body, inscribed with the words "Better luck next time."
+						You return to your ship with the plate from the ruined drone. The search for Raza continues.[set|razaexploded]
+					Leave her to her retirement
+						You get up and walk away. Raza smiles and blows a kiss at you. She will likely be off this world soon, and, without access to her accounts, you will likely never see her again.
+			Ignore her
+				She will never pose a threat to you as long as she's there. It's best to leave her be.
+	Ignore the trail
+		This trail has likely going cold. There's no use pursuing her anymore. The Raza that posed a threat to you is long gone.
+
+{var razaexploded}{var micahcaputerd}Another New Face
+Since you found Raza's explosive decoy, you have been on the hunt for her true body. She is a master of manipulation, and has built out hundreds of false but encouraging leads, many of them starting centuries before her exile. This sort of flight has likely been a part of her plan for a long time.
+Still, your conquest of Prime Consumer Electronics has left you with options. With Micah's cooperation, you have devised a virus that will let you know when any user of a prosthetic mind recalls the conversation you had with Raza before her disappearance.
+It's not long before you receive a ping from the virus. It comes from a remote (and allegedly uninhabited) asteroid deep in uncharted space.[unset|razaexploded]
+	Find Raza
+		You take a small ship to the asteroid, disguised as a trading craft en route to a nearby populated world. As soon as you're within range of the body, you scan for any augmentation, and find that there is a concealed docking bay hidden in a subtle crevice deep within the rock.
+		The rock doesn't have any apparent point defense systems, so you simply land in the concealed bay.
+		The interior of the concealed room is deceptively well-furnished. A few rare paintings hang on the walls, and the home itself is furnished with a cutting-edge aesthetic that nearly matches Raza's office layout.
+		Raza is waiting for you as you disembark your ship. She is unchanged, but looks surprised to see you.[macro|raza]
+		"You... you found me? How? There was no trace. No possible path leading here..."
+		You explain the nature of the virus, and see the dawning realization cross her face.
+		"So... Prime has fallen. I really did underestimate you."
+		"I lost contact with my first decoy ages ago, so I suppose that means that mercy is out of the question. For what it's worth, I was honoring the terms of my surrender."
+			You can stay here
+				Raza appears conflicted. Her new home may have been designed with comfort in mind, but it is a prison nonetheless. While it would be possible for her to remain self-sufficient for thousands of years, you imagine that boredom would take her sanity long before then.
+				She returns to the living room, where you see a large viewscreen playing recordings of an ancient sitcom. You return to your ship and fly away, content that she will never be a threat again.[remove]
+			It's time you took your place on my station.
+				You take her by the arm and guide her to your ship. She barely resists the pull. She knows that she's been beaten.
+	Ignore the ping
+		Raza poses no threat to you while she is in hiding. You ignore the ping.
+
+{selectslavebytag Raza}{tag factionleader}Arrogance
+Though Raza is now a slave, her business skills remain almost supernaturally sharp. In the short time since her capture, she has managed to convince some of your slaves that she still has a link to her former accounts, and that she will provide for their families in exchange for services. While most recognize the silliness of her claims, she has managed to exchange favors from her followers for significant influence among the rest of your harem.
+	Blackmail her
+		You call Raza into your office. She is not obedient, but knows that there is no point in resisting you. She enters willingly, scowling. 
+		She starts when you tell her that you are aware of her little games, but relaxes when you tell her that you will keep her secret in exchange for her business skills.
+		She kneels before you without hesitation. She may hate you, but she knows a mutually beneficial arrangement when she sees one. Raza will now use her business skills to increase the amount of money you can extract from tourists and citizens alike.[pose|kneel][upgrade|RazaAcumen][removetag|factionleader][obedience|50]
+	Do nothing for now
+		You let Raza continue her little game. The more influence you allow her to gain, the more useful it will be as blackmail later.

@@ -1,0 +1,5 @@
+Ascension
+The moment the nanites of the genocide stones consume their ten billionth victim, you hear a familiar crack from the air in front of your desk, and see the return of the mysterious android.[macro|avatar][remove]
+"Godhood becomes you. The Eye of Entropy is yours."
+The woman vanishes once again, and your sensors detect a massive device hovering near your station. After a brief handshake, your computer recognizes it as a weapon.[hide]
+The device appears to contain a wormhole emitter of some kind, but most of the technology is far beyond your understanding. It would be wise to test it on something that won't be missed.[set|eyeofentropy]

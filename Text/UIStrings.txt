@@ -14,11 +14,11 @@ SlaveIdleTrain|[Name] is currently idle because there is nowhere for her to comp
 InsufficientGateTitle|Insufficient Gates
 InsufficientGate|[showassistant]You have a backlog of tourists and immigrants trying to get aboard your station. It may be wise to build more gates to increase the flow of people in and out.
 BuildRoomTitle|Tutorial
-BuildRoom|[showassistant]Welcome to Stationmaster![br]To build a room, select a type with one of the buttons on the right, and click and drag on the grid to place it.[br][br]Generally, you'll want to start by encouraging tourists to visit. To do that, build a port and a shopping district.[br][br]If you would like more information, press F1 or the "Help" button under the settings menu to view the encyclopedia.
+BuildRoom|[showassistant]Welcome to Stationmaster![br]To build a room, select a type with one of the buttons on the right, and click and drag on the grid to place it.[br][br]Generally, you'll want to start by encouraging tourists to visit. To do that, build a port and a bar.[br][br]If you would like more information, press F1 or the "Help" button under the settings menu to view the encyclopedia.
 BuildFurnTitle|Tutorial
-BuildFurn|[showassistant]To build furniture, click on a room, and use the buttons on the right hand side to select an item. Hold shift to build more than one.[br][br]To start, build a gate in your port to allow tourists to visit, and a restaurant in your shopping district to give them something to do while they're here.
+BuildFurn|[showassistant]To build furniture, click on a room, and use the buttons on the right hand side to select an item. Hold shift to build more than one.[br][br]To start, build a gate in your port to allow tourists to visit, and a restaurant in your bar to give them something to do while they're here.
 SlaveTutorialTitle|Tutorial
-SlaveTutorial|[showassistant]Shopping districts are entertaining enough, but tourists will give you a lot more money for a brothel.[br][br]To set up your brothel, start by building the room and some private rooms (for obedient slaves) or arcade stations (for disobedient slaves). Once you have those, use the shopping cart icon in the top left of the screen to buy some slaves to fill them.[br][br]Note that slaves with high obedience won't staff arcade stations, and slaves with low obedience won't staff private rooms.
+SlaveTutorial|[showassistant]Bars are entertaining enough, but tourists will give you a lot more money for a brothel.[br][br]To set up your brothel, start by building the room and some private rooms (for obedient slaves) or arcade stations (for disobedient slaves). Once you have those, use the shopping cart icon in the top left of the screen to buy some slaves to fill them.[br][br]Note that slaves with high obedience won't staff arcade stations, and slaves with low obedience won't staff private rooms.
 DemoSlavesTitle|Free Limit
 DemoSlaves|The free version of Stationmaster is limited to 10 purchased slaves. You can always try raiding for them though.
 
@@ -56,6 +56,28 @@ Embryo Splitter Implant|Has an embryo splitter implant
 Rapid Gestation Implant|Has an implant that reduces gestation time
 Factory Implant|Has an implant that keeps her perpetually pregnant
 Fertility Implant|Has an implant that increases her odds of becoming pregnant
+Blindness Implant|Has an implant that blocks her from seeing
+Groundhog Implant|Has an implant that prevents her from forming new memories
+Orgasm Blocker Implant|Has an implant that prevents her from reaching orgasm without permission from her partner
+Lobotomization Implant|Has remnants of the implant that lobotomized her
+Mindwiped|Brainwashed by the Heart of Entropy
+
+
+Character tags from Stats update:
+Silver|Argyria
+Albino|Albino
+Insomnia|Insomniac
+TrueCow|Boanthropy
+PainInsensitive|Pain-Insensitive
+Anxiety|Hyperekplexia
+Depersonalizer|Depersonalizer
+Anorexic|Anorexic
+Overeater|Overeater
+Kleptomaniac|Kleptomaniac
+Obsessed|Obsessive
+Blind|Blind
+Ambitious|Ambitious
+Friends|Believes that she will be rescued
 
 
 
@@ -113,6 +135,7 @@ HotelRoomName|Small Hotel Room
 PodroomName|Economy Room
 DecadentRoomName|Large Hotel Room
 ArcadeStationName|Arcade Station
+FuckdollHarnessName|Fuckdoll Harness
 PilloryName|Pillory
 AdvancedArcadeStationName|Advanced Arcade Station
 BrothelRoomName|Private Room
@@ -167,7 +190,17 @@ MadameDeskName|Madame's Desk
 HeadGirlDeskName|Head Girl's Desk
 DairyTapName|Tap
 BreedingStationName|Breeding Station
-
+BedroomSetName|Bedroom Set
+DungeonSetName|Dungeon Set
+OutdoorSetName|Outdoor Set
+OssifiedName|Ossified Slave
+SchoolDeskName|School Desk
+WeightliftingStationName|Weights
+TreadmillName|Treadmill
+SexTrainerName|Sex Machine
+BoundSexTrainerName|Bound Sex Machine
+YogaMatName|Yoga Mat
+RacetrackName|Racetrack
 
 BackDescription|Back to room building menu
 SlaveBedsDesc|Stops your slaves from distractingly collapsing on the job
@@ -232,6 +265,18 @@ MadameDeskDesc|The madame will boost the earnings of your slave whores (the more
 HeadGirlDeskDesc|The head girl will direct slave training from here, boosting its efficiency
 DairyTapDesc|Some prefer their milk directly from the source
 BreedingStationDesc|The pinnacle of efficiency. Rent out your dairy slaves while you milk them.
+BedroomSetDesc|For all of the traditionalists out there
+DungeonSetDesc|Good clean BDSM
+OutdoorSetDesc|One with nature. On a space station.
+OssifiedDesc|A slave that you have encased in solid bone. Still alive, for some definition of alive.
+SchoolDeskDesc|Some people like to have conversations with slaves, and proper education makes that better for everyone.
+WeightliftingStationDesc|Useful for the fighting pit and the more athletic sex positions.
+TreadmillDesc|Train your sprinters so they don't make fools of themselves on the field.
+SexTrainerDesc|Builds important life skills.
+BoundSexTrainerDesc|Improves sexual skills and induces terror. A win win.
+YogaMatDesc|Relaxing and flexibility-enhancing. A rare situation where both your slaves and your customers will thank you.
+RacetrackDesc|A kinder, gentler competition.
+FuckdollHarnessDesc|A space-efficient harness for menial fuckdolls.
 
 Arena:
 NonlethalPitName|Nonlethal Fighting Pit
@@ -271,6 +316,8 @@ PortName|Port
 HallwayName|Lobby
 SuiteName|Suite
 DairyName|Dairy
+PornStudioName|Porn Studio
+TrainingRoomName|Training Room
 
 BulldozeDesc|Clean slate
 QuartersDesc|A place for your slaves to rest when they're not working or in training
@@ -285,14 +332,19 @@ PortDesc|Get people on and off your station
 HallwayDesc|First impressions, conveniently consolidated
 SuiteDesc|Your luxurious abode
 DairyDesc|Collect and sell milk from your lactating slaves
+PornStudioDesc|Oblige the voyeurs who prefer ones and zeroes to flesh and blood
+TrainingRoomDesc|Improve the value of your slaves by making them fitter, smarter, and better at sex
 
 Raiding Strings:
 RaidVictory|Your forces landed on [body] and outmaneuvered local security, escaping with money and prisoners. [body]'s economy has taken some damage as businesses are becoming increasingly wary of the risk of operating there.
 EasyRaidVictory|Your forces landed on [body], and the local security forces immediately hid, terrified of the power of your military. Your ships gathered all of the money and slaves they could carry before heading back to your station.
-TakeoverVictory|After a long battle, your forces successfully take [body]. Your connection to their systems allowed you to experience the thrilling battle firsthand, and your timely intervention helped them avoid multiple traps set by the opposing commander. When the notice of unconditional surrender arrives, you personally visit the planet to explain the terms of their subservience, appoint a proxy, and take your spoils from among the leading families.
+TakeoverVictory|After a long battle, your forces managed to break through [body]'s defenses and conquer the world.
 Defeat|After a long battle, your forces were eventually defeated by planetary security. You lose connection as the last of your ships is destroyed. [body]'s government lives another day.
-TakeoverVictoryeasy|The defenses of [body] would barely scratch your overwhelming forces in a fight, and the notice of unconditional surrender arrives before your army even gets within bombardment range. You personally warp in to inspect your new acquisition, and the people immediately bow before you nervously. They make no attempt to resist as you appoint a proxy from the more obedient citizens and explain to them the terms of your conquest. You hear a thousand locals quietly sob behind you as you lead the women of its government to your ship to be your spoils of war, never to return.
+TakeoverVictoryeasy|The defenses of [body] would barely scratch your overwhelming forces in a fight, and the notice of unconditional surrender arrives before your army even gets within bombardment range.
 EasyDefeat|You knew that it was a long shot going in, but the efficiency with which the defenses of [body] defeated your army was remarkable. You almost immediately lose connection as the last of them is wiped out. [body] will not be yours today.
+MultiAttack|You review the spoils of your battles.
+
+
 RivalVictory|You have successfully conquered [owner]. They were a powerful foe, and your victory over them has instilled respect and fear in the rest of the galaxy. The company's leadership was largely present for the conquest, and you were able to enslave them all. Without their headquarters on [body], their defenses across the galaxy will be significantly weakened.
 RivalHomeworld|You have successfully conquered the headquarters of [owner], but most of their leadership managed to flee to a new world. You managed to pick up a few high-ranking stragglers, but the corporate government is still in place.
 TributeVignette|The government of [body] responds immediately to your demand for tribute, and delivers [name] for your inspection.[clothe]
@@ -335,6 +387,7 @@ AssignmentArenaLethal|Arena (Lethal)
 AssignmentArenaNonlethal|Arena (Non-Lethal)
 AssignmentArenaMonster|Arena (Xeno)
 AssignmentBookie|Bookie
+AssignmentPorn|Porn Studio
 
 Obedience0|Ignores all orders
 Obedience1|Ignores almost all orders
@@ -389,7 +442,6 @@ NeedZoo|Display
 NeedSidekick|Sidekick
 NeedMadame|Madame
 NeedRecruiter|Recruiter
-NeedRoomService|Room Service
 NeedReceptionist|Receptionist
 NeedArenaLethal|Arena (Lethal)
 NeedArenaNonlethal|Arena (Non-Lethal)
@@ -436,8 +488,6 @@ RifleName|Prototype Laser Rifle
 RifleDesc|The first practical handheld laser weapon ever created.
 TransistorName|Prototype Transistor
 TransistorDesc|The invention that catapulted humanity from the dark ages. Lovingly preserved by historians until you seized it.
-MonaLisaName|The Mona Lisa
-MonaLisaDesc|Found hidden away in a museum. Several curators needed to be shot during its extraction, but it seems overrated.
 DiamondName|Cut Diamond
 DiamondDesc|Taken from an aristocrat when you raided his world. Radioactive impurities make it glow slightly
 ShadowName|Sword of Entropy
@@ -448,6 +498,8 @@ SporemotherCellName|Sporemother Cell
 SporemotherCellDesc|One of the most common causes of disappearing colonies. Infests and enjoys her victims.
 DevourerCellName|Devourer Cell
 DevourerCellDesc|Gluttonous even by monster standards. Eats its victims quickly and efficiently.
+MonaLisaName|Mona Lisa
+MonaLisaDesc|The real deal. A gift from Raza.
 
 Brainstormed but not implemented
 HoleName|Miniature Black Hole
@@ -483,13 +535,32 @@ SlaveFactory|Slave Factory
 FelisColony|Felis Breeding Colony
 CanisColony|Canis Breeding Colony
 FaeColony|Fae Breeding Colony
-CoralColony|Coral Breeding Colony
+CoralColony|Eoll Breeding Colony
 LoGravColony|Planetwide Anti-Gravity Generators
 TuskedColony|Kort Breeding Colony
 AtaranColony|Ataran Breeding Colony
 EkoColony|Eko Breeding Colony
 BovaColony|Bova Breeding Colony
 SalvageDrones|Salvage Drones
+FreeUse|Breeding Ground
+TerraformLava|Burn
+TerraformSand|Desertify
+TerraformTerrestrial|Terraform
+TerraformOceanic|Drown
+TerraformThunderstorm|Choke
+TerraformIce|Freeze
+BlackHairEugenics|Alteration: Black Hair
+BlondeEugenics|Alteration: Blonde Hair
+BrunetteEugenics|Alteration: Brunette Hair
+RedheadEugenics|Alteration: Red Hair
+DarkSkinEugenics|Alteration: Dark Skin
+MidSkinEugenics|Alteration: Olive Skin
+LightSkinEugenics|Alteration: Light Skin
+LargeBreastsEugenics|Alteration: Large Breasts
+MidBreastsEugenics|Alteration: Average Breasts
+SmallBreastsEugenics|Alteration: Small Breasts
+Shipyard|Shipyard
+GenocideStone|Genocide Stone
 
 BasicDefenseGridDesc|Turrets to stop your people from being completely helpless
 AdvancedDefenseGridDesc|Orbital drones that can take out small fleets
@@ -508,13 +579,32 @@ SlaveFactoryDesc|Convert the entire planet to a slave production facility. Will 
 FelisColonyDesc|Massacre the population and repopulate with Felis
 CanisColonyDesc|Massacre the population and repopulate with Canis
 FaeColonyDesc|Massacre the population and repopulate with Fae
-CoralColonyDesc|Massacre the population and repopulate with Coral
+CoralColonyDesc|Massacre the population and repopulate with Eoll
 LoGravColonyDesc|Makes population long and lanky
 TuskedColonyDesc|Massacre the population and repopulate with Kort
 AtaranColonyDesc|Massacre the population and repopulate with Atarans
 EkoColonyDesc|Massacre the population and repopulate with Eko
 BovaColonyDesc|Massacre the population and repopulate with Bova
 SalvageDronesDesc|Increases the spoils gained by successfully defending this planet
+FreeUseDesc|Declare women to be public property and ban all forms of birth control.
+TerraformLavaDesc|Burn the planet, leaving only a thin layer of crust over the lava core.
+TerraformSandDesc|Extract the water from the planet, leaving only desert.
+TerraformTerrestrialDesc|Terraform the planet, making it more hospitable to life.
+TerraformOceanicDesc|Drown the planet in an ocean.
+TerraformThunderstormDesc|Increase the atmospheric density, leaving the planet shrouded in a toxic thunderstorm.
+TerraformIceDesc|Apply geoengineering to coat the planet in a thick layer of ice.
+BlackHairEugenicsDesc|Apply genetic engineering to give the population black hair
+BlondeEugenicsDesc|Apply genetic engineering to give the population blonde hair
+BrunetteEugenicsDesc|Apply genetic engineering to give the population brunette hair
+RedheadEugenicsDesc|Apply genetic engineering to give the population red hair
+DarkSkinEugenicsDesc|Apply genetic engineering to give the population dark skin
+MidSkinEugenicsDesc|Apply genetic engineering to give the population olive skin
+LightSkinEugenicsDesc|Apply genetic engineering to give the population light skin
+LargeBreastsEugenicsDesc|Apply genetic engineering to give the population large breasts
+MidBreastsEugenicsDesc|Apply genetic engineering to give the population average breasts
+SmallBreastsEugenicsDesc|Apply genetic engineering to give the population small breasts
+ShipyardDesc|Speeds up repairs to defensive upgrades
+GenocideStoneDesc|Slaughters the inhabitants of the world in the name of Entropy
 
 TyrantWill|Tyrant's Will
 MicahTinkering|Micah's Tinkering
@@ -559,3 +649,64 @@ Vladivostok Holdings, Inc.Leader|Raza
 Shiva Military CorporationLeader|Pari
 The Australian CooperativeLeader|Ava
 Piaoliao NuliLeader|Fei
+
+
+ChronoYoung|The chrono chamber makes a strange noise and displays a red screen that reads: "Error: Minimum age reached. Please contact Tocatchacorp support with your name and location for further assistance."
+ChronoOld|The chrono chamber makes a strange noise and displays a red screen that reads: "Error: Further upward age adjustment unsupported. For details, please consult the maintenance guide (p332, 'Disposing of Liquefied Remains')."
+SensoryNoise|[name] wakes up and immediately screams as she sees the terrifying hallucinations created by the sensory noise implant. She will likely never adjust to her new normal, and has been driven completely insane by the process. You have reduced her to a gibbering mess, and the rest of your slaves react as if you had killed her.[globalobedience|5][globalfear|5]
+LobotomyText|[name] wakes up and looks out with a blank expression, any remnant of her personality erased by the surgery. She will never be a functioning human, and the rest of your slaves react as if you had killed her.[globalobedience|5][globalfear|5]
+
+
+Planet Upgrade Vignettes:
+BasicDefenseGridVignette|You send a large number of drones into orbit around [body]. They won't stop a serious attack, but should be enough to deter skirmishers.
+AdvancedDefenseGridVignette|You send a grid of missile batteries into orbit around [body]. They should deter most attacks, but won't be enough to repel a major assault.
+StandbyFleetVignette|You order several warships and place them in orbit around [body]. Between them and the defense grid, it will now be difficult to seize from your control. 
+StandingArmyVignette|Surveillance systems pick up long lines as every able-bodied citizen is forced to register for the draft. Invaders will now have to slaughter most of the population to take the world.
+BusinessInvestmentVignette|You carefully invest money in the best-run business on [body]. The investment doesn't pay for itself, but the effect on the economy is significant.
+SellHuntingLicensesVignette|It's not long before you are flooded with wealthy tourists who are eager to hunt the citizens of [body]. There are mass protests, but it won't be too long before the citizens recognize their new predation as a fact of life.
+ModestProposalVignette|The people of [body] are obviously horrified at the new policy (and initially resist the meat quotas), but people are adaptable, and it soon becomes an ordinary part of life.
+ThoughtPoliceVignette|Your AI-assisted thought police are as effective as they are brutal. They arrest and "disappear" thousands of dissidents in the first months of the policy, but it drops off quickly as your people learn the dangers of independent thought.
+DruggedWaterSupplyVignette|The drugs are effective, and crime statistics show that sedition and violence are both substantially reduced. A few holdouts find their own ways of acquiring water, but not enough to have an impact on the statistics.
+StrictRationingVignette|The morale effects of the rationing are significant, but people soon learn to tighten their belts and accept the borderline malnutrition you have inflicted on them.
+FitnessPropagandaVignette|Daily mandatory workouts soon get the people of [body] into great shape. The relatively low cost of compliance limits resistance, and the population quickly becomes athletic.
+UniversalHealthcareVignette|Universal immortality is excellent for most economic indicators (except for class mobility, of course, but a permanent underclass is useful in its own way).
+CarouselVignette|You are forced to deploy legions of drones and massive subterfuge to enforce the first rounds of the Carousel, but it ultimately takes hold, and the people begin to accept the necessity. 
+SlaveFactoryVignette|The slave factory is not something that can be built overnight, but your people begin the construction of their prison.
+FreeUseVignette|There are riots when you announce the new laws around sexual consent, but many among the population welcome the change, and it isn't long before the culture has adapted to the new norms of a free use society.
+SalvageDronesVignette|The new salvage drones rapidly orbit the planet, searching for any and all wreckage. With these in place, war may actually be profitable.
+FelisColonyVignette|You deploy an expensive bioweapon, extinguishing all human life on [body]. After that, it's a simple matter to seed the planet with a few hundred breeding pairs. They should produce a steady supply of Felis for the foreseeable future.
+CanisColonyVignette|You deploy an expensive bioweapon, extinguishing all human life on [body]. After that, it's a simple matter to seed the planet with a few hundred breeding pairs. They should produce a steady supply of Canis for the foreseeable future.
+FaeColonyVignette|You deploy an expensive bioweapon, extinguishing all human life on [body]. After that, it's a simple matter to seed the planet with a few hundred breeding pairs. They should produce a steady supply of Fae for the foreseeable future.
+CoralColonyVignette|You deploy an expensive bioweapon, extinguishing all human life on [body]. After that, it's a simple matter to seed the planet with a few hundred breeding pairs. They should produce a steady supply of Eoll for the foreseeable future.
+LoGravColonyVignette|You deploy an gravity canceling device to the planet, and babies born immediately begin to show the signs of low-gravity gestation. The population should be converted shortly.
+TuskedColonyVignette|You deploy an expensive bioweapon, extinguishing all human life on [body]. After that, it's a simple matter to seed the planet with a few hundred breeding pairs. They should produce a steady supply of Tusked for the foreseeable future.
+AtaranColonyVignette|You deploy an expensive bioweapon, extinguishing all human life on [body]. After that, it's a simple matter to seed the planet with a few hundred breeding pairs. They should produce a steady supply of Atarans for the foreseeable future.
+EkoColonyVignette|You deploy an expensive bioweapon, extinguishing all human life on [body]. After that, it's a simple matter to seed the planet with a few hundred breeding pairs. They should produce a steady supply of Eko for the foreseeable future.
+BovaColonyVignette|You deploy an expensive bioweapon, extinguishing all human life on [body]. After that, it's a simple matter to seed the planet with a few hundred breeding pairs. They should produce a steady supply of Bova for the foreseeable future.
+TerraformLavaVignette|Thousands of rented lasers pour thermal energy into the core of [body]. Within hours, the crust begins to crack and lava from the core begins to erupt planet-wide. 
+TerraformSandVignette|Thousands of industrial desiccators make short work of the water on [body]. It isn't long before the surface of the world is purged of liquid.
+TerraformTerrestrialVignette|It's a long and expensive process, but you manage to seed [body] with life and all of the conditions to keep it. The people thank you profusely for the investment.
+TerraformOceanicVignette|You direct several icy comets to the surface of [body], quickly submerging it in a thick ocean. The remaining population is forced to live in floating cities.
+TerraformThunderstormVignette|You import colossal amounts of material from neighboring gas giants, increasing the density of the atmosphere enough to make it opaque. The citizens who remain are forced to live in cities floating high in the toxic gas cloud.
+TerraformIceVignette|You disperse a large amount of high-albedo particulate matter into the atmosphere. In a matter of months, the lack of sunlight freezes the planet over.
+BlackHairEugenicsVignette|You apply the genetic modifications to the population of [body]. The existing population is cheaply modified, and any new citizens will have black hair.
+BlondeEugenicsVignette|You apply the genetic modifications to the population of [body]. The existing population is cheaply modified, and any new citizens will have blonde hair.
+BrunetteEugenicsVignette|You apply the genetic modifications to the population of [body]. The existing population is cheaply modified, and any new citizens will have brunette hair.
+RedheadEugenicsVignette|You apply the genetic modifications to the population of [body]. The existing population is cheaply modified, and any new citizens will have red hair.
+DarkSkinEugenicsVignette|You apply the genetic modifications to the population of [body]. The existing population is cheaply modified, and any new citizens will have dark skin.
+MidSkinEugenicsVignette|You apply the genetic modifications to the population of [body]. The existing population is cheaply modified, and any new citizens will have olive skin.
+LightSkinEugenicsVignette|You apply the genetic modifications to the population of [body]. The existing population is cheaply modified, and any new citizens will have light skin.
+LargeBreastsEugenicsVignette|You apply the genetic modifications to the population of [body]. The existing population is cheaply modified, and any new citizens will have large breasts.
+MidBreastsEugenicsVignette|You apply the genetic modifications to the population of [body]. The existing population is cheaply modified, and any new citizens will have average breasts.
+SmallBreastsEugenicsVignette|You apply the genetic modifications to the population of [body]. The existing population is cheaply modified, and any new citizens will have small breasts.
+ShipyardVignette|After a few weeks of construction, the automated systems of the shipyard take over, assembling the rest in a matter of days. It will conduct maintenance and repairs for the rest of the military, drastically increasing the speed at which it will recover from attack.
+GenocideStoneVignette|As soon as the last piece is placed onto the device, it dissolves into a cloud of nanites. They crash outward like a tidal wave, indiscriminately shredding the panicked citizens, dissolving them into a thick red sludge. Once the population has been reduced to exactly a thousand, the swarm retreats and returns to the form of the Genocide Stone.
+ProxyRecall|{0} arrives back at your station almsot immediately. She seems happy to be home, though disappointed that she failed you.
+ProxyReplace|You recall {0} and send {1} to take her place. {1} is slightly distraught at the prospect of leaving your side, but is determined not to fail in her new role.
+ProxyAssign|{0} is slightly distraught at the prospect of leaving your side, but is determined not to fail in her new role. She heads off to her new post filled with pride at the trust you've placed in her.
+
+
+Eye of Entropy
+EyeOfEntropyPlanet|The Eye of Entropy crackles for a few moments before emitting a blast of radiation. Moments later, your probes near [body] report that a miniature black hole materialized from empty space and cut through it at relativistic speeds. The planet was reduced to a torus as the projectile consumed the center, and the remains shattered into an asteroid belt as the impact propagated. The planet has been destroyed.
+EyeOfEntropyStation|The Eye of Entropy crackles for a few moments before emitting a blast of radiation. Moments later, your probes near [body] report that a miniature black hole materialized from empty space and swallowed it completely. No trace of the station remains.
+EyeOfEntropyStar|The Eye of Entropy crackles for several seconds before emitting a colossal blast of radiation. Moments later, your probes near [star] report that a mid-sized black hole materialized from empty space and slammed into the star at relativistic speeds. The resulting explosion reduced all orbiting bodies to dust before scattering them to the void, leaving only the singularity where the system once stood.

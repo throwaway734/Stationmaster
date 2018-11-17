@@ -1,0 +1,173 @@
+{notvar fei1}{notatwar Piaoliao}Nuli Festival
+You receive an unsolicited message from Fei.[macro|fei][pose|feisit][environment|piaoliao][remove]
+"I've heard that you have excellent taste in slaves. Would you care to attend the Nuli festival as my personal guest?"
+	Accept
+		As you exit the portal, your senses are assaulted by the powerful smells of alcohol and death. There are thousands of people in the gate room though, and you can see little of the event.[set|fei1]
+		You see a ripple in the crowd as a security drone clears a path, and Fei greets you by taking your hand. You quickly travel through the channel, and Fei begins to speak once you've cleared the throng.[macro|fei]
+		"I'm so glad you could make it. The entrance is always a bit busy, but things will clear up shortly."
+		She leads you up a set of heavily-guarded stairs to her personal box seats. From there, you have a better opportunity to process the enormous scope of the festival.
+		The crowd goes on for miles, punctuated by a wide variety of events. There are fighting pits with constant streams of combatants, auctions selling lots of hundreds, and thousands of private stalls for purchasers to examine their new property.
+		"We take our slaves seriously here, and this is the party of the season. Nearly every citizen of Piaoliao comes here at least once in their lives."
+		"What do you think?"
+			It's beautiful
+				Fei smiles.
+				"I thought you might say that. In the spirit of our newfound friendship, a gift."
+				At her mental command, a security drone opens the door, and a slave girl enters the room.
+				"May this small token bring our empires closer together."
+				The slave girl walks in front of you and kneels daintily.[remove][AddSlave|Trained in one of Piaoliao Nuli's finest slave schools|Fei gave her to you as a gift during the Nuli Festival.|min/min|100/100|0/0||devoted][pose|kneeling]
+				You thank Fei for the gift, and discuss galactic politics for a while.
+			It's barbaric
+				Fei bristles, but maintains her composure.
+				"It's funny. Based on your reputation, I would have expected this to be exactly the sort of thing you would enjoy."
+				"I suppose nothing is for everyone though. Perhaps next time we can travel somewhere a bit more... intimate."
+				You continue to talk for a while, but it's clear that your insult has colored Fei's opinion of you substantially. 
+				You eventually find a natural break in the conversation and say our goodbyes before returning to your station.[remove]
+	Decline
+		Ah well. Maybe another time.[remove]
+
+{notvar fei2}{var fei1}{notatwar Piaoliao}{extreme}Night in
+You receive a message from Fei. [macro|fei][pose|feisit][environment|piaoliao]
+"In my eyes, there's no better way to bond than while engaging in some sadistic fun. What do you say?"
+	Accept
+		You arrive at Fei's headquarters to see her waiting at the portal for you. She takes your hand and guides you into her office.
+		"Welcome! I'm so glad you could come."[set|fei2]
+		At Fei's mental command, a security drone arrives with a slave in tow.
+		"This one was the ringleader of a little slave rebellion."
+		You look at the bound girl. She is struggling against the bonds, but it's clear that much of her strength has left her.
+		"Normally, I would have just put her head on a spike, but I thought we could have some fun with it."
+		She produces a large knife from the folds of her dress and offers it to you. The slave begins to scream as she sees the glint of the blade.[humansound|screaming]
+			That sounds fun
+				Fei smiles.
+				"Please, feel free to make the first cut. You are my guest, after all."
+				You look over at the slave. She is struggling violently against the drone's hold, but is not augmented, and doesn't stand a chance.[addslave][select|1][pose|dronestruggle]
+				You make the first incision, a small but expertly delivered cut into her neck, severing her vocal cords, but leaving her arteries intact. The screaming stops abruptly.[humansound|none]
+				You hand the knife back to Fei, who looks suitably impressed.
+				"And here I thought you were an amateur. I stand corrected."
+				She takes the knife and begins a more traditional cut, removing an ear before handing it back to you.
+				Over the next hours, you take turns cutting into the bound slave until she eventually expires from the blood loss. The drone drops her lifeless body to the ground.[remove][select|0]
+				Fei's face flushes slightly with arousal as she looks over the bloodied corpse.
+				"I'm so glad you could come. It's not often that I get to have fun with such an enthusiastic partner."
+				She wipes the blade off on her dress before returning it to its concealed sheath.
+				"Feel free to come by any time."
+				She guides you back to the gate room and you return to your station.[remove]
+			No thank you
+				Fei frowns.
+				"Well, what are you still doing here then? I have work to do."
+				A second drone appears and leads you to the exit. You hear screams from behind you as you enter the portal.[remove]
+	Decline
+		Oh well. Maybe another time.[remove]
+
+{notvar fei3}{var fei2}{notatwar Piaoliao}{extreme}Sculpture
+You receive a message from Fei.[macro|fei][pose|feisit][environment|piaoliao]
+"I've been working on a little project. If you're anything like me, it will be worth your time. Would you like to come see?"
+	Accept
+		As soon as you arrive on Fei's station, you're greeted by a stench so powerful that you shut off your olfactory system completely.
+		"Oh good! You're here! Welcome! Follow me."[set|fei3][macro|fei]
+		Fei leads you through the halls of her headquarters, towards a nondescript door. You still haven't seen anyone else, which is unusual given Fei's love of human furniture.
+		Fei opens the door with a mental command. The room behind is dark, and you hear what sounds like many voices moaning softly.
+		As your eyes adjust, you still aren't sure what you're seeing. The room appears to be filled with an amorphous mass of flesh. Upon closer inspection, you see dozens of writhing limbs and faces protruding from the blob. Fei watches you, gaging your reaction.
+		"I got fed up with all of my slaves begging for food, so I had them sewed together! Now they just have the one tube."
+		She taps on a metal pipe that ends inside the mass, and it quivers with pain as the vibration travels into it body.
+		"What do you think?"
+			It's beautiful
+				"I'm so glad you think so. I wish other people understood me as well as you do."
+				"Just for that, I'm going to give you a special treat."
+				Fei gestures towards a spot on the mass, and you see a pair of spread legs with a relatively intact vagina between them.
+					Use the abomination
+						The abomination certainly promises to be an interesting toy. You pull down your pants, and Fei bites her lip as she watches you slide into it.
+						The mass of flesh tenses slightly as it feels you enter it, but the constituent minds appear to be in too much pain to react beyond that.
+						Fei didn't put much care into the creation of her little project, and you feel yourself stab into an organ of some kind with every thrust. Blood spurts out of the hole at intervals, and you see Fei gleefully touching herself through her skirt.
+						You eventually finish inside the creature, and Fei hands you a piece of cloth to wipe yourself with before you pull your pants back on.
+						"I'm so glad you liked it. You're such a good friend."
+						She leads you back to the portal and you return to your station. Fei is insane by any standard, but her ability to instill terror in her enemies is worthy of respect.[remove][hide]
+					Politely decline
+						Fei shrugs. "More for me, I guess."
+						She daintily hops on top of the creature, where you see an erect penis protruding. She reaches under her skirt to pull her panties aside, and slides it inside her.[pose|cowgirl]
+						She bounces gleefully on top of the abomination, and you see stitches on the sides rupture as she strains her creation's limits.
+						Eventually, you see her tense in orgasm, and she hops off, apparently satisfied.[pose|cowgirlprep]
+						"I'm so glad you liked it. You're such a good friend."[pose|idle]
+						She kisses you before leading you back to the portal. Fei is insane by any standard, but her ability to instill terror in her enemies is worthy of respect.[remove][hide]
+			It's horrible
+				Fei sneers.
+				"So judgmental. What's wrong with having a little fun?"
+				"You know what? Get out. I don't want you here anymore."
+				A security drone appears to escort you away from the premises. As you leave, you hear muffled screaming coming from the room.[remove][hide]
+	Decline
+		"Your loss. I'll be sure to send you a picture."
+		True to her word, she does, though you can't quite tell what it depicts. Whatever it is, it appears to be made of flesh, and it invokes a dull horror as you look upon it. Declining the invitation likely did wonders for your sanity in the long term. [remove][hide]
+
+{notvar fei4}{var fei3}{notatwar Piaoliao}{extreme}Hatred
+You receive a message from Fei.[macro|fei][pose|feisit][environment|piaoliao][remove]
+"I've had a rough day, and I need to kill something. Luckily, there's a small world of primitives I've been saving for just such an occasion. Would you like to join me?"
+	Accept
+		You receive the location of a gate. When you arrive, you find yourself on a spacecraft with Fei at the helm. The craft is oddly cramped, and its walls shift almost organically as it moves through the sky.[set|fei4][environment|default]
+		"Hey! I'm so glad you could make it. You're in for a treat. Primitives go crazy when I land in this."
+		Viewscreens within the cockpit show that you are approaching the target world. Beneath you, there is a small village, and the residents are desperately running for cover within their houses.
+		A mental command leaves the ship in autopilot and opens a hatch in the back. The spacecraft lands on the ground, allowing you and Fei to step out before it takes off towards the village's border. Fei looks pleased.
+		"Not many people have seen that ship and lived. You should take a closer look."
+		As you see the ship from the outside, the interior design suddenly makes perfect sense. Its massive ornamental wings flap slowly and purposefully as it lifts off, breathing fire to form a solid wall of flame around the village. Fei smirks at your apparent amazement, but is eager to get to the point.
+		"I'm sure we've both done this sort of thing many times, so let's make it interesting. Let's collect... left ears. First one to a hundred wins the prize."
+		You accept her challenge, and you both sprint towards the nearest huts.
+		The people inside scream as you barge through the door, but you waste no time beginning your collection. As you both work on the screaming peasants, Fei begins to speak nonchalantly.
+		"Do you like this body? I got it a couple years ago, and I'm still getting used to it. My last one was a bit taller."
+		Fei grabs a woman trying to flee and tackles her to the ground. You notice a trickle of blood running down her arm where she was grazed by debris.
+		"I love getting new bodies. They develop all sorts of little aches and pains over time, and a fresh start is like waking up from a long nap."
+		She takes out her knife and cuts the woman's throat before dragging it up and taking her ear, panting slightly.
+		"The slaves don't like it, of course, but that's half the fun. That look they give you when they realize what their upcoming surgery is for? Delicious."
+		Despite her lack of bodily augmentations, Fei has had far more practice at this game, and she proves a worthy opponent for you. You both work your way through the houses, taking ear after ear. 
+		Soon after you've collected 98, Fei triumphantly raises your hand and screams "One hundred!"
+		It's an impossible number, and, when you look at her bag, you see many right ears tucked in among the bloody mess.
+			Call her out
+				Fei is furious.
+				"You're the fucking worst, you know that? Accusing me of cheating! How dare you!"
+				She storms away.
+				"You can get your own ride back. I'm done with you."
+				The dragon ship picks Fei up before taking off into the sky. You send a mental command to your station, and it sends a taxi craft from a nearby developed world to pick you up and return you to the nearest public gate. [money|-1000|Taxi Fare]
+			Accept her victory
+				Fei smiles broadly.
+				"Don't feel too bad. I do this all the time."
+				You make small talk as the dragon ship descends and sweeps you into its open cargo bay doors.
+				"That was fun. We should do this stuff more often."
+				The portal opens at Fei's mental command, and you return to your station to clean up.
+	Decline
+		Fei scowls slightly.
+		"Fine. It will be more fun by myself anyway. No wet blankets to drag me down."
+
+{ownedslaves > 1000}{var fei4}{notatwar piaoliao}Incoming Message
+You receive an incoming message from Fei.[macro|fei][pose|feisit][environment|piaoliao][remove]
+"I like you. Really, I do. Unfortunately, you're in my way. Conquering worlds like it's going out of style. Don't get me wrong, it's fun to watch you dominate all of those little lords, but the balance of power can only take so much upheaval. Instability is bad for business, and your little market floods are starting to cut into my margins."
+"I think we both knew this was coming, sooner or later. If you're smart, you'll jump out the airlock as soon as possible. If you don't, you will regret it for a long time."[declarewarpermanent]
+
+{var feiexiled}{notvar feicaptured}Vengeful Spirit
+Ever since Fei's self-imposed exile, you have been looking out for people fitting her general description. You eventually find a lead: there's a legend of a vengeful spirit on a relatively impoverished planet. It's said to possess people in the night, commit terrible and sadistic crimes using their bodies, and then disappear into a new host.
+It could just be a legend, but the murder rate has climbed substantially, and local police seem to be at a loss.
+	Investigate the occurrences
+		You land in the small mining town that has been the epicenter of the latest reports of the spirit, and head to the bar. The locals are distrustful of outsiders and provide no information, but you notice that one of the miners does a double take when she sees you, and quietly slips out the door. You give no indication that you noticed her, but send a micro drone to follow her home.
+		You watch her through the micro drone's eyes as she enters her house, kisses her "husband," and takes a final look over her shoulder before shutting the door behind her.[addslave][set|feicaptured]
+			Kidnap her
+				You continue to watch the house from above as you casually walk over, but Fei gives no indication that she's attempting to escape. She likely thought you were a figment of her imagination.
+				You deliver a powerful blow to the wooden door of her quarters, propelling it off its hinges and through the back wall. You come upon Fei and her host's husband sitting at the dinner table.
+				They immediately begin to scream at the surprise of your intrusion, and the man, thinking quickly, grabs a gun from a nearby rack and points it at you.
+				You pick up a nearby stone knickknack and hurl it at the man's head. Both shatter on impact, and the shock pulls the trigger of the rifle, sending the bullet harmlessly into the ceiling.
+				Fei understands your capabilities well enough to know that attacking you would be pointless, and uses the distraction to sprint towards the fresh hole in the back wall. 
+				Unfortunately for her, she is not yet used to her new host, and stumbles as she tries to run away. You grab her by the wrist and pull her back into the room.
+				"Wait! Wait. This wasn't the deal. You were supposed to leave me alone!"
+				Fei's personality is stored in her prosthetic brain, and her current host body is of no use to you. You see a subtle scar around circumference of her scalp, and wrap your hands around opposite sides of the seam.
+				Fei screams as you twist the joint, removing the top half of her skull and revealing the artificial brain underneath. 
+				The noise stops as you yank the device out, and her body collapses to the floor, lifeless.[remove][hide]
+				At your mental command, your ship descends trough the roof of the ruined hovel, and you board with Fei's brain safely in your hand.
+				On your way back to your station, you commission a mechanical body that matches Fei's appearance from before she was defeated. It is waiting for you when you arrive, and you place Fei's brain inside. At long last, Fei is yours.[macro|fei]
+			Leave her alone
+				As long as she's just playing serial killer on a tiny rock, she will be no threat to you. You leave her alone.
+	Ignore them
+		It has all of the hallmarks of superstitions nonsense. Mythology is not your concern.
+
+{selectslavebytag Fei}{tag factionleader}{nothastag corrupted}Helper
+Though Fei is a slave now, her instincts from her previous life often come out at unexpected times, and she sometimes seems to forget that she is no longer a free woman. The other slaves hate her, but they are being noticeably better-behaved since she was brought on board.
+	Encourage the help
+		You summon her to your office. She does not come willingly, and has to be dragged in by a security drone. You have the drone drop her on the floor, and she looks at the door as if to run, but is too curious about your intentions to do so.
+		You produce a small wooden box from under your desk, and hand it to her. She takes it in her hands, and carefully inspects it before opening it. Inside, she sees her whip, salvaged from her office after you took her homeworld.
+		You explain to her that, while she must continue her duties as a sex slave, she will also be allowed to continue disciplining other slaves.
+		She takes the whip and smiles slightly before kneeling before you. She may hate you, but she will be able to take some comfort in continuing her sadistic practice on your slaves. Fei is now accepting of your leadership, and will build your slaves' obedience over time.[upgrade|FeiWhip][pose|kneel]
+	Ignore her for now
+		You let her be for now. These distractions can wait.

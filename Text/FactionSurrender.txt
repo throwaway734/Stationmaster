@@ -1,0 +1,79 @@
+Black Star Mercenary Group
+You receive a message from Tyrant.[environment|blackstar][pose|tyrantsit][macro|tyrant][remove]
+"Listen. We both know this was isn't going my way. I don't know how, but it's the truth. We keep this up, and I'm eventually going to end up pinned on some backwater moon, making a heroic last stand."
+"As appealing as that all sounds, I have a better idea. I've always wanted to try exploring. I'll give you what's left of my holdings. Planets, moons, every scrap of rock under my control. Everything except for one ship big enough for me and a hundred of my best. I stay out of your sky, and you stay out of my way."
+"If you don't, I'll send operatives to sabotage your planets, guerrillas to fight your drones, and turn every ship I have left into a fucking nuke on one of your cities. You might win, eventually. You might not. Either way, you'll lose billions of your people, and you'll curse the day you didn't let me go quietly."
+"What do you say? Do we have a deal?"
+	Accept her surrender
+		"Good choice. Let's hope we never meet again."
+		You receive a notification that the remaining territory of Black Star Mercenary Corporation has been transferred to you. 
+		You immediately direct your attention to Tyrant's headquarters surveillance system. Through it, you see her personal craft taking off and escaping to parts unknown.[factionsurrender][set|tyrantexiled]
+	Decline
+		Tyrant spits on the ground and closes the connection without another word. 
+
+Piaoliao Nuli
+"Hold on. I'm not like the others. I can't be a slave. It's... not in my nature."[macro|fei][pose|feisit][environment|piaoliao][remove]
+"I know this war isn't going my way. How about this? You can have my entire empire. The whole thing. All I ask is that you give me a ship and let me live out the rest of my life somewhere remote."
+"What do you say?"
+	Accept her surrender
+		"I... I suppose this is goodbye then. Never thought it would end this way..."
+		You receive a notification that the remaining territory of Piaoliao Nuli has been transferred to you. 
+		You immediately direct your attention to Fei's headquarters surveillance system. Through it, you see her personal craft taking off and escaping to parts unknown.[factionsurrender][set|feiexiled]
+	Decline
+		Fei closes the connection without another word. 
+
+The Australian Cooperative
+You receive a message from Ava.[macro|ava][environment|australia][pose|avasit]
+"This… this needs to stop. All of the good that I've done... the lives saved… the slaves liberated… was it really all for this? Billions dead, and for what? I... I can't let this go on..."
+"What could possibly be worth… this? All this suffering… all this destruction..."
+"I surrender. I'll... be your slave. Just stop killing my people. They didn't deserve this war. They didn't deserve any of this. "
+	Accept her surrender
+		Ava cries as she enters the commands to transfer the remainder of the Australia Cooperative's territory to you. [factionsurrender][humansound|crying]
+		You open the portal from her headquarters to your station, and she begrudgingly walks through.
+		As soon as she arrives, you have a security drone escort her to your office for her first inspection.[environment|office]
+	Decline
+		Ava sighs and closes the connection without another word.[remove]
+
+Vladivostok Holdings, Inc
+You receive a message from Raza[environment|vladivostok][macro|raza][pose|razasit][remove]
+"I never thought this day would come. Despite all odds, you seem to be driving us back. I come today to bargain."
+"My holdings are falling to your forces, bur it is a slow process. I offer you this: you can have what's left of my empire. Every rock."
+"All I ask in return is an unmarked shuttle, enough money to pay for a new face, and an assurance that I won't be followed. I will live out the rest of my days in exile, in a place where you cannot trouble me, and I cannot trouble you. "
+"Do we have an accord?"
+	Accept her surrender
+		Raza was clearly prepared for this ourcome, and you see her ship taking off as soon as you accept her surrender.
+		You receive a notification that the remaining territory of Vladivostok Holdings has been transferred to you.[factionsurrender][set|razaexiled]
+	Decline
+		Fei closes the connection without another word. 
+
+Prime Consumer Electronics
+"Was too late. Underestimated growth. Mistook exponential for linear. Won't happen again. Can't happen again. This is over. Has been since it started. Possibly before."[macro|micah][environment|prime][pose|micahsit]
+"Continuing slaughter is pointless. Mercy inversely proportional to effort. I surrender."
+"You will take Prime and prosper in my place. I will continue my work as your slave. No more distractions. No threat of destruction."
+	Accept her surrender
+		Micah doesn't say a word, but she opens a portal to your station as soon as you've finished speaking. Within moments, she is aboard, and you see that the remainder of the Prime Consumer Electronics holdings have been transferred to you.
+		You have a security drone guide Micah to your office for her first inspection.[environment|office][factionsurrender]
+	Decline
+		Micah closes the connection without another word. [remove]
+
+The Null Autonomous Collective
+You receive a message from the Speaker of the Null Autonomous Collectives.[macro|speaker][pose|speakersit][environment|null]
+"This was not supposed to occur. We ran millions of simulations. The outcome was certain. Utilitarianism demanded that we intervene on behalf of your people."
+"Yet here we stand. Defeat snatched from the illusory jaws of victory, begging for mercy from the tear in probability."
+"You have slaughtered billions of your kind. Brought ruin to countless wonders. Destroyed the very substrate of our civilization. We surrender the ruins to you. All we ask is that you stop the killing."
+	Accept her surrender
+		Speaker doesn't say a word, but she opens a portal to your station as soon as you've finished speaking. Within moments, she is aboard, and you see that the remainder of the Null Autonomoous Collective holdings have been transferred to you.
+		You have a security drone guide the Speaker to your office for her first inspection.[environment|office][factionsurrender]
+	Decline
+		The Speaker closes the connection without another word. [remove]
+
+Shiva Military Corporation
+You receive a message from Pari[macro|pari][pose|parisit][environment|shiva][remove]
+"I have... underestimated you. I don't know how you did this. I suppose it doesn't matter. My armada is in tatters. My supply lines are cut to ribbons. The inescapable truth is that the greatest military in the galaxy, the wellspring from which all other militaries are born, has been outmatched."
+"I suppose we both know where this leads. All I want is to avoid your... proclivities. Everything else is negotiable. You can have my empire. Everything I own. All I ask is that you let me leave her unhindered."
+	Accept her surrender
+		I suppose this is goodbye then. I would say thank you, but...
+		You receive a notification that the remaining territory of Shiva Military Corporation has been transferred to you. 
+		You immediately direct your attention to Pari's headquarters surveillance system. Through it, you see her personal craft taking off and escaping to parts unknown.[factionsurrender][set|pariexiled]
+	Decline
+		Pari closes the connection without another word. 

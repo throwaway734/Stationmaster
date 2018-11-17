@@ -1,0 +1,109 @@
+{ownedbodies > 5}{notvar ava1}{NotAtWar Australia}Incoming Message
+I thought you might like a tour of our little slice of paradise. Would you like to visit me in the cooperative? I promise, we don't bite.[macro|ava][environment|australia][pose|avasit][remove]
+	Accept
+		Ava is at the gate to greet you as you arrive. She smiles warmly at you.[set|ava1]
+		"Welcome! I'm so glad you could make it."
+		She takes you by the arm and guides you out into the palace's opulent grounds. Men and women of all classes walk freely through the beautiful garden.
+		"Most of us weren't born in the cooperative, you know. Our society holds the populations of thousands of worlds, and new ones join every year. We don't believe in conquest or coercion, but a good cause like abolition draws more followers than any war."
+		At this, she looks at you pointedly, but it's an obvious trap, and you say nothing.
+		She continues, undeterred. "I would say at least half of our population is made up of former slaves, either escaped or liberated. We like to make things difficult for the masters by being a beacon of hope for the downtrodden."
+		You come to a large oak door, which opens at her mental command. Inside is a large and cozy office, with a bed situated prominently in the center.
+		"Abolition isn't all bad for the masters either, you know. You'd be surprised at the opportunities we have in the cooperative. I'm sure you have fun with your slaves, but a willing partner is..."
+		She trails off and looks you up and down suggestively. It's common knowledge that sex is not treated with much seriousness in the cooperative, and even small diplomatic matters here are often sealed with intercourse.
+			Accept her offer
+				The oak door closes at another mental command, and her clothes fall away as the magnetic clasps release.[strip]
+				She walks up to you casually and undoes your clothing as well. She is extremely comfortable with sex, and it shows in her every motion.
+				Almost before you can react, she pushes you down to the bed and straddles you. [pose|cowgirlprep]
+				Within moments, you find yourself inside of her. She is an eager lover, much more so than the average slave.[pose|sex]
+				She smiles broadly as she expertly grinds her hips against you. She is extremely experienced, and knows just how to move to maximize pleasure for both of you.
+				After some time, you flip her onto her back. She smiles as you take charge, but continues to thrust against you, making sure that you can see the difference that an enthusiastic partner will make.[pose|missionary]
+				You finish together, and she holds you in her arms for a few moments before you both get up and dress.[pose|missionaryprep]
+				"I think this may be the start of a wonderful friendship. I'll be seeing you!"[clothe][pose|idle]
+				She winks at you and you head back to your station.
+			Decline
+				You politely change the subject, and Ava, sensing your reluctance, immediately reverts to a more traditionally professional demeanor.
+				"I'm sure you have other matters to attend to, and I wouldn't want to keep you. It was lovely to speak to you. I hope we can do it again sometime."
+				She walks you back through the gardens to the gate room, and you are soon back on your station. Sexual entanglements would add too much complexity to an already-tense diplomatic relationship.
+	Decline
+		"Oh well. Perhaps another time."
+
+{ownedbodies > 20}{notvar ava2}{var ava1}{NotAtWar Australia}Special Circumstances
+I'm going to be spending the day working with refugees. Want to join me for a day out?[macro|ava][environment|australia][pose|avasit][remove]
+	Accept
+		You arrive at the gate coordinates included in the message, and find yourself in a makeshift camp. With the exception of the Cooperative emissaries, the people here are wearing primitive clothes, and appear to have a pre-industrial society.[set|ava2][environment|default]
+		Ava sits in the midst of the chaos, distributing soup from a large basin. She beckons you over and hands you a ladle. You exchange pleasantries  as you both serve the food to the grateful locals.[macro|ava][remove]
+		"I was born on a world a lot like this, you know. No technology, no space, no masters. People who grew up out there always look down on the agrarian lifestyle, but we were happy. Fulfilled, even."
+		The queue seems endless, but Ava is undeterred. You notice that the bowls are made of materials available to the local population, and remember that the Australians generally try not to leave high-tech materials on undeveloped worlds.
+		"Raiders eventually noticed us though. That was our first interaction with anything from outside our planet. We didn't stand a chance. You have to understand, we had spears. Rocks. Nothing that could even touch them."
+		You look closer at the surrounding region, and see metal fragments scattering the camp and countryside. A group of maintenance drones is picking through the dirt, collecting the scraps and carrying them out of sight.
+		Ava hands her ladle to one of the many emissaries surrounding the camp, and beckons you to come with her before walking up a nearby hill.
+		"My introduction to the galactic community was... brutal. Nobody should have to go through that. It's inhuman."
+		As you crest the hill, you see an enormous pile of burning ships in the canyon below. A legion of drones is collecting the metal and corpses from the surrounding forest and unceremoniously dumping them into the fire.
+		"We patrol more worlds than you would think, and we shoot raiders on sight. This group was trying to load the entire town into their holds."
+		A drone emerges from the woods, dragging a pair of screaming and crying raiders by the ankles. The noise abruptly stops as it unceremoniously throws them into the inferno.
+		"Maybe if we do this enough, it will make them think twice. Regardless, we'll have brought some much-needed justice to rapists and slavers. Don't you agree?"
+		Her expression darkens almost imperceptibly before she returns to her trademark smile and guides you back to the camp.
+		Your conversation turns to less pointed matters as you continue to feed the refugees together. Once the sun begins to set, you say your goodbyes before heading back through the portal to your station.
+	Decline
+		"Oh well. Perhaps another time."
+
+{notvar ava3}{var ava2}{ownedbodies > 30}{NotAtWar Australia}Deus Vult
+You receive an unsolicited transmission from Ava.[macro|ava][environment|australia][pose|avasit][remove]
+"I'm ashamed to say this, but I could use a helping hand."
+You raise an eyebrow. Ava has made no secret of her judgment towards you, and this is an unexpected turn of events.
+"A group of hardliners calling themselves the "Crusaders" has been stirring up trouble recently. Frankly, they're a cult. They dedicate themselves to some goddess of freedom or another, and are trying to drum up support for an all-out war against the masters."
+"I appreciate the sentiment, but what they're planning would be suicide for the entire cooperative. Ordinarily, I would ignore such a small sect, but my models show that, were she to get enough attention, she could convert enough of the population to shape policy."
+"Is there any chance you could... take care of them? I can't pay you, of course; if this were ever traced back to me, things would get out of hand quickly."
+She can't bring herself to say what the prize will be outright, of course, but she doesn't have to.[set|ava3]
+	I'd be happy to help
+		"Thank you. You have no idea what this means to me. I owe you one."[relationship|20]
+		Ava closes the connection, and you order the assault on the flotilla. The coordinates Ava gave to you are in deep space, and it's likely that they were relying on secrecy for protection from raiders.[hide][environment|default]
+		It only takes a few ships to destroy the fleet's escort, and you soon find yourself in possession of a few choice political prisoners.[addslave|18/25|0/0|0/0|She was the leader of the Crusaders, an organization dedicated to abolishing slavery|You captured her as a favor to Ava][addslave|18/25|0/0|0/0|She was the personal bodyguard to [name], the leader of the Crusaders|You captured her order as a favor to Ava]
+	I don't want to get involved
+		"You're right. I shouldn't have asked. I'm sure it will turn out fine."
+
+{notvar ava4}{var ava3}{NotAtWar Australia}Who Stares at Madness
+You receive another invitation from Ava.[macro|ava][environment|australia][pose|avasit][remove]
+"It's been a while. Would you like to come over for a chat?"
+	Accept
+		Ava is waiting for you as you arrive at her palace's gate, and takes you by the arm, guiding you to her office.[set|ava4]
+		"I was just reading a fascinating work from one of Raza's oligarchs who has a penchant for philosophizing. It's easily the most impressive sequence of mental gymnastics I've ever seen. I suppose you need such things when you're trying to justify her particular brand of sadism, but the results were... unsettling."
+		She leads you through the gardens to her private office.
+		"The thesis of the book is that 'servitors' are genetically predisposed against leadership, and that they are better off as pawns and toys to the wealthy. They truly believe that the people below them aren't human. They always stop just short of saying it outright, of course, but they make a mountain of their studies on divergent evolution in lesser creatures."
+		"I'd love to see a meeting between him and Tyrant. She was born a slave, you know. I can't imagine her reading a book on philosophy, of course, but it's a great mental image (though a bit... graphic)."
+		She chuckles slightly and offers you a glass of wine.
+		"Still, he's right in one respect. You and the rest of them have managed to so brainwash your people that they truly believe that they are doing well for themselves. Even your slaves see you as more merciful than the alternatives."
+		"Treat your people well or not, but know that they will remember every horror you've inflicted. When opportunity strikes, they will return the favor. With interest."
+		She gestures to a pulverized human testicle preserved in a block of acrylic on her desk. The label reads "07-67-22-38 - 'Master'"
+		"I do enjoy our little talks. Could you please see yourself out? I have a lot of work to do."
+	Decline
+		"Ah well. Perhaps another time."
+
+{var outgoingtransmission}{NotAtWar Australia}{selectfaction australia}Incoming Transmission
+"Our news stations got an anonymous broadcast from your station the other day. I can't say I'm surprised, but... well, it's become a bit of a rallying cry."[macro|ava][environment|australia][pose|avasit][remove]
+"My people want blood, and I have to listen. If it's even suspected that I'm still speaking to you… Well, you might find yourself dealing with a new president."
+"With this out in the open, I have no choice but to begin hostilities. We may be able to reexamine in a few years, but let's be honest with ourselves, your little empire will be long gone by then."
+"If you leave your station now, you might find a nice place on the rim to retire in exile. Otherwise, I'll do my best to make sure you are captured and tried instead of killed in the fighting."
+"In any case, this will be our last communication. It's been good knowing you."[unset|outgoingtransmission][declarewarpermanent]
+
+{selectslavebytag Ava}{tag factionleader}Optimist
+Ava takes every chance she gets to stare out of the windows of your station. She seems to be under the impression that one of her numerous former allies will risk your wrath and come to rescue her. The delusion is adorable, but she is impossible to train while she still has so much hope in her friends.[humansound|fear]
+	{extreme}Show her how little her allies care about her
+		You summon Ava to your office. She does not come willingly, and has to be dragged in by a security drone. You set up a small floating camera to record what is about to happen, and tell her that the video will be sent to her allies when you're done with her.[humansound|fear][pose|dronemissionaryprep][strip]
+		You face the camera, and explain that this is Ava, the former ruler of the proud Australian Cooperative. You have it pan across her body, spending extra time highlighting her struggling hips to foreshadow the torture you are about to inflict.
+		You direct the camera's attention to her face, and get a close-up of her contorted scream as you slowly force your way inside her. Her struggling gains new vigor, but there's nothing she can do to prevent the assault. As you brutally rape her, you explain that no matter what happens, nobody would risk your ire by coming to her rescue.[pose|dronemissionary][humansound|screaming]
+		You take your time, and use her for your pleasure as the camera watches. She screams out plea after plea for help as you rape her, begging for one of her former allies to come to her rescue. You calmly continue, ensuring that the camera captures every word.
+		After a few hours, you allow yourself to finish inside her, and make sure the camera is watching as you pull yourself out, dragging a trail of blood and cum behind you. You turn to the camera once again, and explain that this is what happens to those who cross you, before turning it off.[pose|dronehanging][humansound|crying]
+		You force her to watch as you widely distribute the video. Some might be moved by her begging and screaming, but nobody would dare risk your ire over a former leader. You have the drone drag her crying form back to her quarters.
+		A few days later, it's clear that no rescue is coming. You summon her to your office, and she comes willingly this time. She cries, but kneels before you, her submission complete. Ava is now broken, and will use her diplomatic skill on your behalf to improve the obedience of your planets. [upgrade|AvaDiplomacy][removetag|factionleader][pose|kneel][humansound|fear][fear|70][obedience|50][set|avarescue]
+	Offer her a new alliance
+		You continue sitting, and Ava looks at you with confusion. You explain to her that if someone were coming to rescue her, they would have done so already, and that the only way she can improve her situation and the lives of others is by obeying your orders. She opens her mouth as if to protest, but closes it, thinking better of the outburst. [pose|idle]
+		After a moment of thought, she wordlessly kneels before you.[pose|kneel][humansound|fear]
+			Accept her submission
+				At your gesture, Ava stands up. She has submitted to you, and will use her diplomatic skill on your behalf to improve the obedience of your planets.[upgrade|AvaDiplomacy][removetag|factionleader][pose|idle][obedience|50]
+			Celebrate by using her
+				You nod and approach her. She knows what you are about to do, and sobs quietly as you position yourself behind her and begin to press yourself against her. [humansound|sobbing][pose|doggyprep][strip]
+				She cries out involuntarily as you force yourself into her, but makes no attempt to escape as you use her for your pleasure. [pose|doggy][humansound|painfulsex]
+				She gasps as she feels you finish inside her, and maintains her kneeling pose as you pull out of her and return to your desk. Ava is broken now, and will use her diplomatic skill on your behalf to improve the obedience of your planets. [upgrade|AvaDiplomacy][removetag|factionleader][pose|kneel][humansound|fear][fear|20][obedience|50]
+	Do nothing for now
+		This hope will die on its own eventually. You let her wait for her saviour.
