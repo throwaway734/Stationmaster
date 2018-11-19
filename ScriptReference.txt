@@ -1,4 +1,8 @@
-#Example of Scripting
+#Script Reference
+1. Example of Scripting
+2. Scripting Operators
+
+1. Example of Scripting
 
 {reputation > 20}The Traveler
 You are going about your normal duties when you are distracted by the sudden awareness of an unauthorized space ship materializing aboard your station. [Addslave|Kiss-o-gram from a primitive world|You enslaved her]
@@ -23,7 +27,8 @@ For all future lines, the progression is driven by indentation:
 
 All conditions in an event title or dialog option must evaluate to true for the event or option to be available.
 SlaveInspection.txt has more of these than anything else, if you want to see a sample.
-
+________________________________________________________________________________
+2.Scripting Operators
 Booleans:
     player
     pregnant
@@ -70,9 +75,9 @@ Comparablaes (Sample: {warintensity > 50}, {warintensity < 50}, {warintensity hi
 There are quite a lot of scripting operations you can do. In general, the syntax will read [method|paramter1|parameter2|etc.]
 
 *Basics:*
-name
+[name]
   Display's the active character's name
-AddSlave
+[AddSlave]
   Adds a slave, and selects/displays it if there is no other active character. This one has a ton of parameters, all optional:
   Quirk: The slave's basic description. If there are several of these separated by slashes, the system will pick a random one
   Acquisition: How you came to acquire the slave
@@ -82,17 +87,17 @@ AddSlave
   Name
   Virginity Status: V or N
   Tags: There are a lot of these. More documentation will be incoming later.
-br
+[br]
   Inserts a linebreak. Note that you have to use this to insert a literal linebreak because a carriage return starts the next screen.
-close
+[close]
   Closes the dialog window completely, and shows the new slave queue if there is one.
-money
+[money]
   Edit's player's money. [money|500|Source information (leave blank for "Events")]
-influence
+[influence]
   Increase or decrease influence by the provided amount. Usage: [inf|200]
-reputation
+[reputation]
   Sets the player's reputation [rep|230]
-remove
+[remove]
   Removes the selected slave from the player's posession [remove]
 
 *Cutscenes:  *
@@ -243,9 +248,6 @@ virgin
   [virgin|This character is a virgin|This character is not a virgin]
 relationshipswitch
   Switches based on your relationship with the selected faction. [relationshipswitch|hate|mediocre|love]
-
-
-
 
 *Slaves:*
 acquisitionindicator
