@@ -92,3 +92,5 @@ Used to be a Coral world, and was maintained as a breeding colony after humans t
 Inhabitants tall and lanky due to generations of low gravity[tag|LoGrav]
 Used to be a Ataran world, and was maintained as a breeding colony after humans took over[tag|Ataran]
 Used to be an Eko world, and was maintained as a breeding colony after humans took over[tag|Eko]
+Massive silver mines give the population oddly-colored skin[addtag|Silver]
+A strange spice permeates the atmosphere, giving residents strange glowing eyes[addtag|Spice][quirk|Seems to know about events before they happen/Sees the availability of water as the bright side of slavery/Idolizes a strange underground god/Walks without rhythm]

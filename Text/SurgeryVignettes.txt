@@ -1,0 +1,151 @@
+Shave
+Despite [name]'s feral struggling, the medical drone efficiently and harmlessly shaves her head.
+[name] doesn't react as the medical drone efficiently shaves her head.
+[name] sits motionlessly as the medical drone shaves her head, and brushes off some stray hairs after it retreats.
+[name] sobs as the medical drone efficiently shaves her head. She was proud of her hair, and this invasion of her autonomy has driven home just how little power she has over her body.
+[name] sits still as the medical drone shaves her head. She is obedient enough not to question your decisions, but still looks saddened by the loss of her hair.
+[name] sits obediently as the medical drone shaves her head. When it's finished, she looks herself over in the mirror, and touches her now-bare scalp curiously.
+
+AddHair
+[name] tries to struggle against the medical drone, but doesn't manage to stop it from plugging the thousands of new hair folliles into her scalp.
+[name] doesn't react as your medical drone drives the thousands of new hair follicles into her scalp. She doesn't seem to notice the new hair, and silently returns to her duties.
+[name] sits still as your medical drone drives the thousands of hair follicles into her scalp, and gently guides it into position with her hands before returning to her duties.
+[name] tenses as the medical drone efficiently drives the new hair follicles into her scalp. She is not yet used to her status as a slave, and is disgusted by the whimsical attitude you have towards physically altering her.
+[name] sits still as the medical drone drives the thousands of new hair follicles into her scalp. She is obedient enough not to question your decisions, but still looks upset that you are willing to give her surgery so frivolously.
+[name] sits obediently as the medical drone attaches the thousands of follicles to her scalp. When it's finished, she looks herself over in the mirror and delightedly runs her hand through her new hair.
+
+StyleHair
+[name] struggles against any touch, but the machine effortlessly adjusts to her attacks and styles her hair anyway.
+[name] sits perfectly still as your medical drone styles her hair.
+[name] sits still as your medical drone styles her hair. When it's finished, she turns slightly side to side to examine the changes, but doesn't react further.
+[name] struggles against her bonds as the medical drone re-styles her hair. It's a small thing, but she is far from broken, and furious at you for so casually altering her appearance.
+[name] cries softly at the reminder of your total control over her, but is obedient enough not to struggle as the drone styles her hair.
+[name] sits obediently as the drone styles her hair. When it's finished, she runs her fingers through it, exploring the feeling of the new cut.
+
+DyeHair
+[name] struggles against the machine as it drags the dye through her hair, but is unable to stop it from doing its work.
+[name] does not react as your medical drone dyes her hair. It's unlikely that she noticed the change.
+[name] sits still while the medical drone dyes her hair. When it's finished, she adjusts slightly to see the new color from different angles, but doesn't react further.
+[name] struggles against her bonds as the medical drone colors her hair. It's a small thing, but she is far from broken, and furious at you for so casually altering her appearance.
+[name] cries softly at the reminder of your total control over her, but is obedient enough not to struggle as the drone expertly dyes her hair.
+[name] sits obediently as the drone dyes her hair. When it's finished, she playfully turns her head back and forth to see how the light plays off of the new color.
+
+AddClothes
+[name] is not nearly obedient enough to be trusted with putting on her own outfit, and your medical drone is forced to hold her down while it builds the garment around her.
+[name] mechanically puts on the outfit.
+[name] carefully dons the outfit, stretching slightly to check its range of motion before turning her unblinking stare back to you.
+You have the security drone release [name] and present her with her new clothing. She may hate you, but she wants to cover herself enough that she willingly wears the clothes.
+You hand the clothing to [name], and she quickly puts it on. She is not completely broken, but most slaves prefer to cover themselves with anything they can get their hands on.
+[name] seems legitimately grateful at the thought. [fearswitch|She puts the outfit on, and does a little twirl to show the new look off for you.|She dons the outfit without thinking, and gently sways herself to show you a few different angles.|She shakes slightly as she puts on the outfit, but manages to get it on without issue.]
+
+RemoveClothes
+[name] screeches as you order her to strip, and likely assumes that you're planning on using her. You have your drone hold her in place while you tear off the garment, and she looks traumatized (though slightly relieved) when you return to your desk.
+[name] mechanically strips off her clothes, with no hint of embarassment or grace.
+[name] carefully removes her clothes, and folds them into a neat pile on the floor for the drone to collect.
+[name] screeches as you order her to strip, and likely assumes that you're planning on using her. You have your drone hold her in place while you tear off the garment, and she looks confused (though humiliated) when you return to your desk.
+[name] haltingly strips. She begins to lie down, but you gesture for her to remain standing. She sighs with relief as she returns to her feet.
+[name] obediently strips, and stands naked in front of you. [fearswitch|She looks briefly disappointed when you don't approach her, and seems to have been expecting more.|She seems to be actively resisting the urge to cover herself with her hands, and is standing awkwardly.|She is shaking with fear of what comes next, but knows better than to risk covering herself from you.]
+
+ChangeClothes
+While the security drone holds [name] in position, you tear off her old clothes. She screeches with fear (no-doubt assuming that this is a prelude to sex), and barely calms down when the machine assembles the new garment around her.
+[name] mechanically strips off the old clothes and puts on the new ones the drone presents to her. There is nothing left to her but your orders, and she does not question the change.
+[name] efficiently strips off the old clothes, seeeting them into a neat pile before putting on the new ones. As she finishes, she returns her unblinking gaze to you.
+While the security drone holds [name] in position, you tear off her old clothes. She screeches with fear (no-doubt assuming that this is a prelude to sex), but calms herself when you hand her the new outfit. The drone releases her, and she quickly covers herself.
+[name] haltingly strips before donning the new outfit. At your command, she walks in a small circle to show off the new look.
+[name] obediently changes her clothes. [fearswitch|Once she's donned the new outfit, she does a little twirl to show it off for you.|She turns away from you instinctively during the time that she's naked, but faces you again when she has finished getting dressed|She is shaking enough that it is difficult for her to don the new clothes, but she manages it, and looks at you expectantly.]
+
+Visible
+[name] immediately sees the changes you've made to her body, and looks disgusted by the surgical invasion. She pulls at the modified flesh, desperately trying to restore it to its previous appearance.
+[name] wakes up after the surgery and returns to her duties without acknowldging the modifications. You're not even sure that she's aware of them.
+[name] wakes up after the surgery and barely acknowledges the changes, though she seems to be aware of them.
+[name] immediately sees the changes you've made to her body, and looks disgusted by the surgical invasion. She is not yet used to her life as a slave, and is terrified by your complete power over her.
+[name] looks over her modified body in a nearby mirror. She is well-broken enough to know better than to question your actions, but still dislikes the level of power you have over her.
+[name] immediately sees the surgical modifications in the mirror, and smiles slightly. She is obedient enough to appreciate the amount of effort that you've put into her appearance, and seems to enjoy the upgrade.
+
+SkinTone
+[name] struggles against the medical drone, and has to be sedated for the delicate procedure. When she wakes with her new skin tone, she desperately tries to rub the change away with her hands, and cries when she realizes that it's permanent.
+[name] doesn't react as the thousands of microscopic needles adjust the coloration of her skin.
+[name] holds perfectly still as the medical drone's thousands of microscopic needles adjust her skin tone, and takes a moment when it's over to look at the new color before she returns her focus to you.
+[name] may be disobedient, but she knows better than to struggle while a medical drone has thousands of tiny needles in her skin. She screams and hyperventillates, but remains still. When it's over, she looks disgusted that you were willing to put her through so much for such a small adjustment.
+[name] sits quietly as the medical drone pushes the thousands of tiny needles into her skin. When it finishes, she looks herself over disapprovingly, but is obedient enough not to question the invasive change.
+[name] sits quietly as the medical drone pushes the thousands of tiny needles into her skin. When it finishes, she looks interestedly at her new skin tone, and examines it from several angles.
+
+Immortality
+[name] struggled on her way into and out of the chrono chamber, but has no way of knowing what was done to her when she was inside. With her mental state, it is unlikely that she will ever truly comprehend what happened.
+[name] steps out of the chrono chamber when ordered, and does not ask what was done to her. It's unlikely that she will ever notice that she no longer ages.
+[name] steps out of the chrono chamber. She seems to sense that she is immortal once again, but seems neutral about the idea.
+[name] struggled on her way into and out of the chrono chamber, but has no way of knowing what was done to her when she was inside. She will likely notice at some point that she no longer ages, but it will be years before the effect is noticeable.
+[name] walked into and out of the chrono chamber without resistance, but has no way of knowing what was done to her when she was inside. She will likely notice at some point that she no longer ages, but it will be years before the effect is noticeable.
+[name] walked into and out of the chrono chamber with a strange curiosity, but has no way of knowing what was done to her when she was inside. She will likely notice at some point that she no longer ages, but it will be years before the effect is noticeable.
+
+RemoveImmortality
+[name] struggled on her way into and out of the chrono chamber, but has no way of knowing what was done to her when she was inside. With her mental state, it is unlikely that she will ever truly comprehend what happened.
+[name] steps out of the chrono chamber when ordered, and does not ask what was done to her. It's unlikely that she will ever notice that she has begun to age once again.
+[name] steps out of the chrono chamber, looking pained. She seems to be adjusting to the feeling of mortality. She eventually streightens and returns her focus to you.
+[name] struggled on her way into and out of the chrono chamber, but has no way of knowing what was done to her when she was inside. She will likely notice at some point that she has begun to age again, but it will be years before the effect is noticeable.
+[name] walked into and out of the chrono chamber without resistance, but has no way of knowing what was done to her when she was inside. She will likely notice at some point that she has begun to age again, but it will be years before the effect is noticeable.
+[name] walked into and out of the chrono chamber with a strange curiosity, but has no way of knowing what was done to her when she was inside. She will likely notice at some point that she has begun to age again, but it will be years before the effect is noticeable.
+
+IncreaseAge
+[name] steps out of the chrono chamber looking slightly older than before. She doesn't seem to notice the change, but seems furious regardless.
+[name] steps out of the chrono chamber looking slightly older than before. She doesn't seem to notice the change.
+[name] steps out of the chrono chamber. She has experienced eons without aging, and seems disgusted by the sudden step, though it would take more than this to drive her to disobedience.
+[name] steps out of the chrono chamber, and immediately recognizes that she has been made older. She pulls at the changed skin on her body, disgusted at the lengths you will go to in order to shape her to your whim.
+[name] steps out of the chrono chamber, and immediately recognizes that she has been made older. She is disgusted that you would advance her age so frivolously, but is too well-broken to argue.
+[name] steps out of the chrono chamber, and immediately recognizes that she has been made older. She admires her changed body in the mirrors before returning to your office.
+
+DecreaseAge
+[name] steps out of the chrono chamber looking slightly younger than before. She doesn't seem to notice the change, but seems furious regardless.
+[name] steps out of the chrono chamber looking slightly younger than before. She doesn't seem to notice the change.
+[name] steps out of the chrono chamber. She has experienced eons without aging, and seems disgusted by the sudden step, though it would take more than this to drive her to disobedience.
+[name] steps out of the chrono chamber, and immediately recognizes that she has been made younger. She uses her newfound vigor to punch fruitlessly at the wall, disgusted at the lengths you will go to in order to shape her to your whim.
+[name] steps out of the chrono chamber, and immediately recognizes that she has been made younger. She seems grateful for the new vigor, though somewhat disgusted by the reason you've done it.
+[name] steps out of the chrono chamber, and immediately recognizes that she has been made younger. She admires her changed body in the mirrors before returning to your office.
+
+Injection
+[name] is too busy screaming and struggling against the medical drone to notice the needle entering her thigh, and does not react as the serum is injected.
+[name] doesn't seem to notice the needle as it injects the serum into her thigh.
+[name] briefly looks down as she feels the needle enter her thigh, but does not react beyond a barely-perceptible wince.
+[name] is too busy screaming and struggling against the medical drone to notice the needle arpproaching her thigh, but starts when she feels the serum entering her bloodstream.
+[name] sits obediently as the medical drone injects her with the serum. She knows better than to ask what it is for.
+[name] sits quietly as the medical drone injects the serum into her thigh, and rubs the site slightly before returning to her well-practiced sitting pose.
+
+Face
+[name] had to be put under for the procedure, as her constant screaming and struggling would make it impossible to perform delicate plastic surgery. When she sees her changed face in the mirror, she claws at it desparately, and has to be sedated until the wounds can be healed properly.
+If [name] noticed the change to her face, she didn't react to it. Mindbroken slaves generally don't have a sense of self, so this is an unsurprising outcome.
+[name] looks her new face up and down, but doesn't seem to care about the changed appearance. She looks back to you for further instructions.
+As soon as [name] sees her changed face in the mirror, she screams. Involuntary plastic surgery was likely more of an invasion than she could ever have imagined before being your slave, and it is just one more reminder of the level of power you have over her body.
+[name] looks shocked and disgusted when she sees her new face in the mirror, but knows better than to argue with your choices. She will get used to the new face in time.
+[name] admires her new face in the mirror, appreciating the amount of work you put into making her suit your desires. She is obedient enough to understand that she has no real power over her body, and takes solace in the fact that you seem to care about her, at least enough to bother with making her prettier.
+
+Body
+[name] had to be put under for the procedure, as her constant screaming and struggling would make it impossible to perform the surgery on her body. When she sees her changed figure in the mirror, she claws at it desparately, and has to be sedated until the wounds can be healed properly.
+If [name] noticed the change to her body, she didn't react to it. Mindbroken slaves generally don't have a sense of self, so this is an unsurprising outcome.
+[name] looks her new body up and down, but doesn't seem to care about the changed appearance. She looks back to you for further instructions.
+As soon as [name] sees her changed body in the mirror, she screams. Involuntary plastic surgery was likely more of an invasion than she could ever have imagined before being your slave, and it is just one more reminder of the level of power you have over her body.
+[name] looks shocked and disgusted when she sees her new body in the mirror, but knows better than to argue with your choices. She will get used to the new figure in time.
+[name] admires her new figure in the mirror, appreciating the amount of work you put into making her suit your desires. She is obedient enough to understand that she has no real power over her body, and takes solace in the fact that you seem to care about her, at least enough to bother with making her prettier.
+
+Invisible
+[name] knows you sedated her for a reason, but doesn't yet understand why. She may never know for sure.
+[name] wakes up after the surgery and returns to you without hesitation. She likely doesn't even know that you performed surgery.
+[name] wakes up after the surgery and doesn't acknowledge the changes except to gently run her fingers over the new scar.
+[name] looks disgusted by the surgical invasion, though she still doesn't know exactly what you did. She is not yet used to her life as a slave, and is terrified by your complete power over her.
+[name] returns to you after she wakes up from her surgery. She is well-broken enough to know better than to question your actions, but still dislikes the level of power you have over her.
+[name] wakes up and returns to you after her surgery. Though she does not know what you did, she is obedient enough to appreciate the amount of effort that you've put into improving her.
+
+Blind
+[name] wakes up and immediately begins to scream and claw at her now-useless eyes. You sedate her before she damages them aesthetically.
+[name] opens her eyes, but sits otherwise motionless. She has likely already forgotten the meaning of sight.
+[name] opens her eyes, and seems momentarily confused until she realizes that her eyes no longer function. The change doesn't seem to have an effect, and she looks directly at you, awaiting further orders.
+[name] wakes up and blinks a few times before she realizes that you have blinded her. She flails wildly, screaming obscenities to the room.
+[name] wakes up and blinks a few times before she realizes that you've blinded her. She begs you to return her vision in between sobs.
+[name] wakes up and blinks a few times before she realizes that you've blinded her. She is too obedient to question your decision, but is obviously distressed by her new handicap.
+
+Unblind
+[name] wakes up from surgery and begins to blink rapidly. She had grown used to blindness, and will need some time to adjust to her new sight.
+[name] opens her eyes but sits otherwise motionless. She has likely already forgotten that she was blind.
+[name] opens her eyes and blinks a few times to adjust to the new light. Blindness never seemed to have an effect on her, and she looks to you for further instructions.
+[name] wakes up, her eyelids fluttering for a few minutes as she re-adjusts to sight. She resents your willingness to add and remove handicaps to her body at your whim, but is grateful that you have restored her sight.
+[name] wakes up, her eyelids fluttering for a few minutes as she re-adjusts to sight. She thanks you for removing her handicap, and is too obedient to ask why you blinded her in the first place.
+[name] wakes up, her eyelids fluttering for a few minutes as she re-adjusts to sight. She looks delighted by your decision to unblind her, and kisses you warmly in thanks.

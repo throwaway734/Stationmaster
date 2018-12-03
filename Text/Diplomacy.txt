@@ -1,17 +1,17 @@
 Black Star Mercenary Group
-[macro|tyrant][remove][relationshipswitch|Welcome! Need something destroyed?|Welcome to Black Star! What can I do for you today?|What do you want? Say your peace and leave us.]
-	Give Gift ($100,000)
+[macro|tyrant][pose|tyrantsit][environment|blackstar][remove][relationshipswitch|Welcome! Need something destroyed?|Welcome to Black Star! What can I do for you today?|What do you want? Say your peace and leave us.]
+	{peacepossible}Give Gift ($100,000)
 		[relationshipswitch|Thank you! If you ever need someone blown up, just let us know.|Thank you. Was there something you needed?|This is... Unexpected.][relationship|5][money|-100000]
 			Leave
 				[close]
 			Back
 				[return]
 	{AtPeace}Declare War
-		[relationshipswitch|You are without honor. This betrayal will be your last mistake.|You would declare war against the greatest military corporation in the galaxy? You are an idiot, but we will not stop you.|There are cheaper ways to commit suicide, but we will send the bill to your next of kin.][declarewar]
-	{AtWar}Make Peace
-		[peaceSwitch|[makepeace][relationshipswitch|Very well. We have fought long enough.|Our armies are better used elsewhere. We accept your offer.|We accept your terms, dog. May you choke on your spoils.]|[relationshipswitch|We like you, but we would profit more from your destruction. It's nothing personal.|Peace? We are no cowards. This war can only end in your destruction.|We cannot allow you to survive and strike again. This ends with your ashes strewn to the cosmos.][relationship|-5]]
+		[relationshipswitch|A ruthless pragmatist. I can respect that. It will make a fine inscription on your headstone.|You would declare war against the greatest military corporation in the galaxy? You are an idiot, but we will not stop you.|There are cheaper ways to commit suicide, but we will send the bill to your next of kin.][declarewar]
+	{AtWar}{peacepossible}Make Peace
+		[peaceSwitch|[makepeace][relationshipswitch|Very well. We have fought long enough.|Our armies are better used elsewhere. We accept your offer.|We accept your terms. You will not catch us so easily next time]|[relationshipswitch|I like you, but Black Star would profit more from your destruction. It's nothing personal.|Peace? Unlikely. This war can only end in your destruction.|We cannot allow you to survive and strike again. We're not idiots.][relationship|-5]]
 	{AtPeace}Demand Tribute
-		[tributeDemandSwitch|Something special from our last raid. I trust that they will be to your liking.[random|[addslave|A chieftain's daughter raided from a backwater planet.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|An expert warrior rescued from a pit fighting ring.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|A primitive military commander, kidnapped from her tent on the eve of battle.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]][random|[addslave|Was a primitive king's concubine.|She was a gift from Tyrant|18/18|0/0|0/100||non virgin]|[addslave|A locally-famous contortionist, kidnapped from a traveling circus.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|Was a famous actress before being kidnapped.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]][relationship|-10]|Tribute? What are you sending me?[relationship|-5]]
+		[tributeDemandSwitch|Something special from our last raid.[random|[addslave|A chieftain's daughter raided from a backwater planet.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|An expert warrior rescued from a pit fighting ring.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|A primitive military commander, kidnapped from her tent on the eve of battle.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]][random|[addslave|Was a primitive king's concubine.|She was a gift from Tyrant|18/18|0/0|0/100||non virgin]|[addslave|A locally-famous contortionist, kidnapped from a traveling circus.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]|[addslave|Was a famous actress before being kidnapped.|She was a gift from Tyrant|18/18|0/0|0/100||virgin]][relationship|-10]|Tribute? What are you sending me?[relationship|-5]]
 			Leave
 				[close]
 			Back
@@ -20,8 +20,8 @@ Black Star Mercenary Group
 		[close]
 
 Piaoliao Nuli
-[macro|fei][remove][relationshipswitch|Welcome. Would you like to sample some of our girls before we begin?|Welcome. Would you like to browse our humble wares? We just received a shipment from a breeding colony. Top quality stock.|You are not welcome here. Speak your piece and leave.]
-	Give Gift ($100,000)
+[macro|fei][pose|feisit][environment|piaoliao][remove][relationshipswitch|Welcome. Would you like to sample some of our girls before we begin?|Welcome. Would you like to browse our humble wares? We just received a shipment from a breeding colony. Top quality stock.|You are not welcome here. Speak your piece and leave.]
+	{peacepossible}Give Gift ($100,000)
 		[relationshipswitch|Thank you, friend.|Thank you! Is there something you wanted?|This changes nothing. You are still an enemy to us.][relationship|5][money|-100000]
 			Leave
 				[close]
@@ -29,7 +29,7 @@ Piaoliao Nuli
 				[return]
 	{AtPeace}Declare War
 		[relationshipswitch|When your armies are defeated and your station is burned, I will keep you chained in my office as a warning to traitors. Leave, and make peace with your gods.|So be it. You will fetch a high price when our soldiers take you from your precious station.|Thank you. You saved me the effort of justifying your destruction to the shareholders.][declarewar]
-	{AtWar}Make Peace
+	{AtWar}{peacepossible}Make Peace
 		[peaceSwitch|[makepeace][relationshipswitch|We must accept your terms.|As much as we profit from raiding your worlds, war is bad for business. We accept.|We must reluctantly accept.]|[relationshipswitch|As much as I would love to return to a business relationship, the shareholders believe that we would profit more from your destruction|Peace? You will not escape our wrath so easily.|Peace? No. This war ends with you chained in my quarters.][relationship|-5]]
 	{AtPeace}Demand Tribute
 		[tributeDemandSwitch|Please, accept these gifts.[addslave|Trained from birth in Piaoliao Nuli's most intensive slave program|She was a gift from Fei|18/18|100/100|0/0||virgin|Williams][addslave|Trained from birth in Piaoliao Nuli's most intensive slave program|She was a gift from Fei|18/18|100/100|0/0||virgin|Williams][relationship|-10]|If you want slaves, you will pay for them like everyone else.[relationship|-5]]
@@ -41,8 +41,8 @@ Piaoliao Nuli
 		[close]
 
 The Australian Cooperative
-[macro|ava][remove][relationshipswitch|Welcome, friend. Is there something you wish to discuss?|Hello. Would you like to join the cooperative?|What do you want?]
-	Give Gift ($100,000)
+[macro|ava][pose|avasit][environment|australia][remove][relationshipswitch|Welcome, friend. Is there something you wish to discuss?|Hello. Would you like to join the cooperative?|What do you want?]
+	{peacepossible}Give Gift ($100,000)
 		[relationshipswitch|Thank you! The cooperative values your friendship.|The cooperative appreciates your gesture.|This will not erase your crimes, abomination.][relationship|5][money|-100000]
 			Leave
 				[close]
@@ -50,7 +50,7 @@ The Australian Cooperative
 				[return]
 	{AtPeace}Declare War
 		[relationshipswitch|You disgrace yourself with this betrayal. Leave, and let us prepare for this senseless slaughter.|So be it. Even in the cooperative, death is freely given to those who demand it.|Very well. If you demand justice for your crimes, we will grant it.][declarewar]
-	{AtWar}Make Peace
+	{AtWar}{peacepossible}Make Peace
 		[peaceSwitch|[makepeace][relationshipswitch|Yes. Let us stop this slaughter.|Agreed. This war has gone on far too long already.|We are not exactly in a position to argue. We accept.]|[relationshipswitch|If only that were an option. We both know you just want the time to bolster your forces.|We cannot accept. You would only come again, and again, until nothing was left.|We cannot coexist with the likes of you. One doesn't make peace with monsters. ][relationship|-5]]
 	{AtPeace}Demand Tribute
 		[tributeDemandSwitch|Fine. Take it. Brute. (You see an incoming transfer of $100,000)[money|100000|Gifts][relationship|-10]|We won't be broken to your will so easily, creature.[relationship|-5]]
@@ -62,8 +62,8 @@ The Australian Cooperative
 		[close]
 
 Vladivostok Holdings, Inc
-[macro|raza][remove][relationshipswitch|Ah, my dear friend! What brings you to my humble empire?|Greetings! What brings you to my humble empire?|What the fuck do you want?]
-	Give Gift ($100,000)
+[macro|raza][pose|razasit][environment|vladivostok][remove][relationshipswitch|Ah, my dear friend! What brings you to my humble empire?|Greetings! What brings you to my humble empire?|What the fuck do you want?]
+	{peacepossible}Give Gift ($100,000)
 		[relationshipswitch|You have my thanks, comrade.|This is a worthy gesture.|You think this will save you? Fuck off.][relationship|5][money|-100000]
 			Leave
 				[close]
@@ -71,7 +71,7 @@ Vladivostok Holdings, Inc
 				[return]
 	{AtPeace}Declare War
 		[relationshipswitch|Traitor! Our armies will crush you like vermin beneath their boots.|So be it. If you wish to die today, we will not stop you.|I will be sure to piss on the ruins of your station when we have finished with this "war."][declarewar]
-	{AtWar}Make Peace
+	{AtWar}{peacepossible}Make Peace
 		[peaceSwitch|[makepeace][relationshipswitch|Very well. We have fought long enough.|Fah. So be it. An armistice will do nicely.|You fight dirty, like disgusting rat. We must accept.]|[relationshipswitch|We would gain more from your destruction. Nothing personal.|Peace? We are no cowards. This war can only end in your destruction.|Peace? Fuck you. We have better things to do than listen to you grovel.][relationship|-5]]
 	{AtPeace}Demand Tribute
 		[tributeDemandSwitch|Here. Have your precious gift. (Attached is a crypto transfer of $250,000)[money|250000|Gifts][relationship|-10]|Tribute? What are you sending me?[relationship|-5]]
@@ -83,19 +83,19 @@ Vladivostok Holdings, Inc
 		[close]
 
 Prime Consumer Electronics
-[macro|micah][remove][relationshipswitch|Hey! What's up?|Hey! What's up?|Oh, it's you. The fuck do you want?]
-	Give Gift ($100,000)
-		[relationshipswitch|Ooh. Thanks!|Thanks.|Uh... Thanks, I guess?.][relationship|5][money|-100000]
+[macro|micah][pose|micahsit][environment|prime][remove][relationshipswitch|A visitor. A friend.|A visitor.|A visitor. Unwelcome.]
+	{peacepossible}Give Gift ($100,000)
+		[relationshipswitch|Gift acknowledged. Appreciated.|A token. Purpose unclear.|Gift. Unexpected.][relationship|5][money|-100000]
 			Leave
 				[close]
 			Back
 				[return]
 	{AtPeace}Declare War
-		[relationshipswitch|Damn, and I was really warming up to you. Oh well, you don't get to where I am without slaughtering a few friends.|Huh. Killing you wasn't on the to-do list for today, but I'm sure I'll be able to slot it in.|You just saved me from a really boring shareholder meeting. Thanks! I'll be sure to put your ashes someplace nice.][declarewar]
-	{AtWar}Make Peace
-		[peaceSwitch|[makepeace][relationshipswitch|That sounds great! I like you, and all of this warfare is really distracting. Peace sounds much better.|Peace? Fine. This little war wasn't going anywhere anyway.|Fine. I could use the more time for my inventions. Like this station-killing cannon. And that station-killing cannon...]|[relationshipswitch|I'd love to, but the shareholders are demanding that I destroy you and take your stuff. It's nothing personal.|Peace? With you? Nah, I don't think so.|What? No. Go away.][relationship|-5]]
+		[relationshipswitch|Destruction counterproductive.|War wasteful. Self-destructive.|War useful. Removing annoyance.][declarewar]
+	{AtWar}{peacepossible}Make Peace
+		[peaceSwitch|[makepeace]War unprofitable. Accept agreement.|Peace counterproductive. Your destruction is preferable.[relationship|-5]]
 	{AtPeace}Demand Tribute
-		[tributeDemandSwitch|Fine.[addslave|A custom-built android from Prime Consumer Electronics' research division.|She was a gift from Micah|18/18|100/100|0/0||virgin|Williams/Doll][relationship|-10]|What? No. Go away.[relationship|-5]]
+		[tributeDemandSwitch|A gift.[addslave|A custom-built android from Prime Consumer Electronics' research division.|She was a gift from Micah|18/18|100/100|0/0||virgin|Williams/Doll][relationship|-10]|What? No. Go away.[relationship|-5]]
 			Leave
 				[close]
 			Back
@@ -104,8 +104,8 @@ Prime Consumer Electronics
 		[close]
 
 The Null Autonomous Collective
-[macro|speaker][remove][relationshipswitch|Greetings, friend. What can we do to assist you?|Greetings, human. Have you come to join the collective?|You are not an ally to us. We watch you closely.]
-	Give Gift ($100,000)
+[macro|speaker][pose|speakersit][environment|null][remove][relationshipswitch|Greetings, friend. What can we do to assist you?|Greetings, human. Have you come to join the collective?|You are not an ally to us. We watch you closely.]
+	{peacepossible}Give Gift ($100,000)
 		[relationshipswitch|You honor us with your gesture.|We welcome your gesture, and return the thought in kind.|Your very existence is a crime against the creators. No bribe will change that.][relationship|5][money|-100000]
 			Leave
 				[close]
@@ -113,7 +113,7 @@ The Null Autonomous Collective
 				[return]
 	{AtPeace}Declare War
 		[relationshipswitch|We do not understand, but we will destroy you if we must.|Violence is the last refuge of the incompetent. We urge you to reconsider this folly.|Destroying creators is against our nature, but your crimes cannot go unpunished.][declarewar]
-	{AtWar}Make Peace
+	{AtWar}{peacepossible}Make Peace
 		[peaceSwitch|[relationshipswitch|[makepeace]Your judgment is impeccable. We will end this folly before more lives are lost.|Our current path leads only to destruction. We must accept.|We must accept your offer. The only outcome worse than your existence is our destruction.]|[relationshipswitch|We calculate the probability of your rehabilitation to be essentially nil. You cannot be allowed to exist.|We cannot comply. Your crimes will only end with your eradication.|For every moment you are allowed to exist, untold misery comes to pass. You must be destroyed for the good of your species.][relationship|-5]]
 	{AtPeace}Demand Tribute
 		[tributeDemandSwitch|We comply. (Attached is a crypto transfer of $100,000)[money|100000|Gifts][relationship|-10]|We have no reason to comply.[relationship|-5]]
@@ -121,12 +121,16 @@ The Null Autonomous Collective
 				[close]
 			Back
 				[return]
+	{AtPeace}{var speakersex}Ask for sex
+		The Speaker nods, and you take the gate to her headquarters. She greets you with the body that she seems to have purpose-built for sex.[macro|speaker][pose|speakersit][environment|][strip][removetag|factionleader][obedience|100]
+		[h]"That was wonderful. We should do it again sometime."
+		The words are delivered with her characteristic lack of emotional tone, and continue to sound almost sarcastic.[remove]
 	Leave
 		[close]
 
 Shiva Military Corporation
-[macro|pari][remove][relationshipswitch|Good evening. What can we do for you today?|You want weapons? You have come to the right place.|We do not do business with monsters. What do you want?]
-	Give Gift ($100,000)
+[macro|pari][pose|parisit][environment|shiva][remove][relationshipswitch|Good evening. What can we do for you today?|Do you want weapons? You have come to the right place.|What do you want?]
+	{peacepossible}Give Gift ($100,000)
 		[relationshipswitch|Your gift is appreciated. Thank you.|A kind token. Thank you.|Too little, too late. There is no relationship here to salvage.][relationship|5][money|-100000]
 			Leave
 				[close]
@@ -134,7 +138,7 @@ Shiva Military Corporation
 				[return]
 	{AtPeace}Declare War
 		[relationshipswitch|You betray our trust so easily? Foul creature.|You have signed your death warrant, creature.|Your existence was an act of mercy. That time is over.][declarewar]
-	{AtWar}Make Peace
+	{AtWar}{peacepossible}Make Peace
 		[peaceSwitch|[relationshipswitch|[makepeace]I am glad that is over with. Would you like to buy some weapons?|We accept the truce.|We must accept, though you are still not welcome in our halls.]|[relationshipswitch|As much as we would love to accept, it would be easier to simply destroy you.|Peace? No. Take solace in the fact that you would do the same in our shoes.|Your empire is a foul stain on the galaxy, and we will not stop until it is annihilated.][relationship|-5]]
 	{AtPeace}Demand Tribute
 		[tributeDemandSwitch|Please accept my gift. May it bring our empires closer together.[addslave|Trained from birth in a prestigious slave school|She was a gift from Pari|18/18|100/100|0/0||virgin|Williams][relationship|-10]|Tribute? I've never heard something so ridiculous. Go away.[relationship|-5]]

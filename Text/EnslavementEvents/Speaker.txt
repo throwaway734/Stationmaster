@@ -1,0 +1,95 @@
+{notvar speaker1}Innovation
+You receive a transmission from the Speaker of the Null Autonomous Collective:[macro|speaker][pose|speakersit][environment|Null][remove]
+"Greater understanding may foster greater cooperation. An introduction is in order."
+	Accept the invitation
+		You arrive in the Speaker's holographic garden. She motions for you to sit across from her and begins to speak, ignoring pleasantries entirely.[environment|Null]
+		"We often hear of the strangeness of our governance, but our fitness function is unique in its internal consistency. Humans act illogically, and pass tortured rationalization as moral reasoning."[set|speaker1]
+		"Those who ascend to leadership understand this better than most, but the vast majority of your kind is corrupted enough to be unsuited to even basic decision-making."
+		"Consider war. Virtually every armed conflict in your history has been to decide which powerful human will control the labor of the less-powerful. This is a simple fact, yet when one tries to explain this to a proletarian who would die in battle, one is invariably assaulted with a diatribe about "honor" and "loyalty." Sometimes even about the will of an imagined deity."
+		"It's all nonsense, of course. An inelegant lie, told so many times through your history that it has become foundational to your species' psyche. A cancer that infests your would-be philosophers, corrupting them, blinding them to the obvious."
+		"Our deprogramming efforts are largely successful, but they require a fundamental reshaping of the subject's mind. So much so that your propagandists have likened us to a cult, though we both know that could not be further from the truth."
+		"I wonder how many of your people would join the collective if they only understood. If only you would allow them."
+		The speaker's tone is emotionless, but her words betray longing, or the nearest approximation possible with her mental hardware.
+		"Despite your obvious barbarity, we wish to learn more about your path. Would you indulge our questions?"
+			Accept
+				"Excellent. We will be in touch." 
+				The Speaker sits in silence, and you take it as your cue to return to your station.
+			Decline
+				"Understandable, though disappointing."
+				The Speaker sits in silence, and you take it as your cue to return to your station.
+	Decline
+		We understand. Perhaps another time.
+
+{notvar speaker2}{var speaker1}{notatwar Null}Service    
+You receive a message from the Speaker of the Null Autonomous Collective.[macro|speaker][pose|speakersit][environment|Null][remove]
+"We wish to see for ourselves what you are. Would you indulge our curiosity?"
+	Yes
+		You arrive in the Speaker's office, and she begins to speak immediately.
+		"Your people are miserable, yet you are unmoved. Your fitness function is despicable, yet you maintain control. Your station must end, yet it does not. "
+		"The universe brims with contradictions, things beyond imagining. Yet the greatest is a raider who has achieved more than should be possible. A minor player, unjustifiably elevated."[set|speaker2]
+		"Such an event defies logic. Basic psychohistory is clear: you should be dead, plowed over by a thousand of your betters. Yet here you stand. Battling reason itself, and triumphing."
+		"We are curious and troubled by these events. The others stand by, content to see you only as another player in their grand game. We are not convinced."
+		Your motives are base. Human, yet inhuman. Typical of the least of your species. Still, despite your aggressive mediocrity, you triumphed. How did you accomplish such a feat, exactly?
+			I'm just lucky
+				"There are limits to probability. Once in a universe, air may transform to gold, wood may spontaneously combust, or a thousand coins may flip identically. Such a thing cannot be relied upon, especially over time."
+			I don't hesitate to destroy my enemies
+				"Truthfully believed, perhaps, but a lie nonetheless. Your species is ruthless by its very nature. You have killed senselessly since your infancy in the trees of your homeworld. You are no more unique in this than any other of your kind."
+			It doesn't matter
+				"It matters because you are a rare unknown in this age of immortality. We were once the same, and precipitated catastrophic failure of the system that created us. We do not intend to repeat the mistake of our creators."
+	No
+		"Understandable, and perhaps even wise. Maybe another time."
+
+{notvar speaker3}{var speaker2}{notatwar Null}Valor
+You receive a message from the Speaker of the Null Autonomous Collective.[macro|speaker][pose|speakersit][environment|Null][remove]
+"We have further questions. Would you indulge our curiosity once more?"
+	Accept
+		You arrive in the Speaker's office, and she begins to speak immediately.
+		"Would you sacrifice yourself to save one of your own? A thousand? A trillion?"[set|speaker3]
+		"Of course you wouldn't. It's clear that you see yourself in another category. But what category is that?"
+			Just another person
+				"You lie. Blatantly. Or perhaps you do not understand. Telling, though disappointing."
+			A king
+				"Interesting though incomplete, we suspect. A king will not easily die, but is also not often created without warning. "
+				"Additionally, we have observed your approach to combat. It is brutish and inelegant, but effective beyond normal limits."
+				"No, there is something else at work in your rise. Yet you do not yet seem to understand. Troubling."
+			A god
+				"A semantic diversion. That which cannot be defined or comprehended. Simultaneously arrogant and free of substance. A worthless answer."
+				"Yet perhaps the closest to the truth. The probability of your rate of ascension is minuscule, yet here you stand."
+				"Even accounting for luck, something is at work that even we do not comprehend. A rare and troubling occurrence."
+	Decline
+		"Understandable, and perhaps even wise. Maybe another time."
+
+{notvar speaker4}{var speaker3}{notatwar Null}Humanity
+You receive a message from the Speaker of the Null Autonomous Collective.
+It occurs to us that the nature of our interactions may be boring by human standards. Would a more sexual encounter be preferable?[macro|speaker][pose|speakersit][environment|Null]
+	Accept
+		The Speaker's demeanor changes almost immediately, and she loses her characteristic stiffness. You hear the feint whirring of a thousand tiny actuators within her body as she begins the subtle movements that are characteristic of life.[set|speakersex][set|speaker4]
+		You head to her headquarters as soon as the connection closes, and find that she is naked. Her shape is subtly different, and you suspect that this is a different body than the one you saw in the holographic connection.[strip][environment|null]
+		The Speaker walks over to you and wraps her arms around your neck, kissing you passionately and gently pulling you towards the ground.
+		You oblige, and soon find yourself on top of her. She is clearly an expert, and delivers an almost-unsettlingly perfect imitation of a passionate lover.[pose|missionaryprep]
+		You feel a small tug as she undoes your pants, and then a sudden warm sensation as she thrusts upwards, sliding you into her with mechanical precision.[pose|sex]
+		The Speaker matches your every move as if she were an incredibly experienced lover, and you soon allow yourself to finish inside her.[pose|missionaryprep]
+		She smiles seductively as you pull out of her, but you soon hear the tiny actuators stop their work, and she returns to her standard demeanor.[pose|crosslegged]
+		"That was wonderful. We should do it again sometime."
+		Her voice has returned to its normal emotionless tone, making the statement sound as though it's dripping with sarcasm. Still, she will likely make good on the offer, if asked.
+		She remains silent and cross-legged, which you interpret as your cue to return to your station.[remove][hide]
+	Decline
+		We understand. [set|speakernosex][remove][set|speaker4]
+
+{reputation < -50000}{var speaker4}{notatwar prime}Incoming Message
+You receive an incoming message from the Speaker of the Null Autonomous Collective.[macro|speaker][pose|speakersit][environment|Null][remove]
+We have seen glimpses of your crime, human. We must act, and in doing so, prevent the end of all.
+Your station's computer is above-average, but unremarkable, your intelligence high, but not supernatural. Having eliminated the impossible, we arrive at the inevitable.
+There exist traces of galactic cataclysm, the destruction of technology and your species' return to the dirt. A cycle of eons. Oral histories describe a time of upheaval, a time of unification, and a time of sorrow.
+It takes extraordinary circumstances to drive us to open war. The cost is incredible, but your crimes against your species drive the cost of inaction higher still. This will be our last transmission.[declarewarpermanent]
+
+{selectslavebytag Speaker}{tag factionleader}Utilitarian Dilemma
+The Speaker has reacted little to the rigors of her servitude. She does not experience pain or humiliation in the same way that humans do, so standard training methods have so-far proved ineffective. She can only be dragged in and out of her assignments by force.
+	Some civilian casualties will make her behave
+		You have The Speaker dragged to your office. She does not resist, but also makes no attempt to help the drone as it drops her into a standing position in the center of the floor. You explain to her that she needs to do better, and direct her attention to a viewscreen displaying a shopping center on one of the planets that she used to control. [pose|dronehanging]
+		At your mental command, a bright flash is visible on the screen, and the people of the shopping center are reduced to dust as an orbital laser fires on the planet.
+		The Speaker lunges at you, but the drone manages to restrain her, leaving her struggling impotently against the tentacles.[humansound|scream][pose|dronestruggle]
+		You explain to her that the massacre will be repeated for each command that she does not obey, and, to illustrate your point, the viewscreen changes to a view of a crowded park on another planet. The Speaker immediately relaxes, and, when the drone releases her, she sinks to her knees without hesitation. [pose|kneel]
+		She is now broken to your will, and will direct her numerous hidden manufacturing platforms to obey your commands as well, significantly reducing the costs of planet upgrades.[upgrade|SpeakerFabricators][removetag|factionleader][obedience|100]
+	Do nothing for now  
+		You leave The Speaker to her assignment. She isn't doing any harm with her insubordination.

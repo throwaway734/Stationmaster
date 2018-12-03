@@ -1,0 +1,195 @@
+{ownedbodies > 5}{notvar tyrant1}{notatwar Black}Suppression
+Incoming message from Tyrant, leader of the Black Star Mercenary Corporation.[macro|tyrant][environment|blackstar][remove]
+"I find that the best place to get to know someone is the battlefield. Care to join me for some light revolution? It's one of Ava’s little humanitarian missions, but there's a prize at the end. Interested?"
+	Accept
+		You take your ship down to the indicated planet, and find Tyrant on the ground, directing her troops with a holographic map on her wrist. She smiles and waves away her soldiers as she sees you approach.[set|tyrant1][environment|default]
+		"Welcome to the battlefield! I find this is the best place to really get to know someone. Fun too. Objective is the palace over there."
+		She points into the distance, where a palace can be seen on top of a hill. It's surrounded by fire and the chaos of an ongoing revolution, but seemingly untouched. As you start the trek, Tyrant begins to speak.
+		"Say what you will about most of these fucks, but they get the rules. Gain power, massacre your enemies, repeat as necessary. Basic shit. Ava though? She tries to look like some kind of humanitarian."
+		You approach the palace and hear a click followed by what sounds like a single loud bang. The guards at the gate fall to the ground, headless. You look over to see Tyrant holstering her sidearm. She must have drawn it in the split second that it took you to look at the guards. She continues to speak, barely distracted.
+		"You ever see anyone hire mercenaries to overthrow a government just to return it to some backwards democracy? No natural resources to speak of, no tourist bullshit, no nothing. This is a worthless rock full of worthless primitives."
+		As you follow, she punches the heavy wooden door of the palace, disintegrating it and spraying thousands of splinters into the room. After waiting a moment for the sound to subside, she continues her thought.
+		"Don't be fooled though. She's still playing, in her own way. Half the Galaxy's best working stiffs live in the cooperative. People who don't play the game like to tell themselves they're doing something good with their lives." 
+		You manage to fire a shot into one of the guards, but it is insignificant compared to Tyrant's onslaught. Within seconds, every royal guard in the room ends at the spine, and the door to the throne room is unguarded. Tyrant once again holsters her sidearm.
+		"Saving a bunch of primitives from some oppressive lord or another makes for a great ad, and don't think for a second that she doesn't know it."
+		She kicks down the door to the throne room, revealing the royal family cowering behind the king's gaudy golden seat.
+		"Careful with her. She may look all cuddly, but you have no idea how many masters have underestimated her propaganda and died by the hands of their own people."
+		Tyrant unceremoniously shoots the king and queen, leaving the princess cowering beneath their corpses. She turns to you, finally addressing you directly.
+		"She specifically forbade me from enslaving the king and queen, but I don't think she knew about the princess. All yours. Stay out of my way, and I think this can be the beginning of a beautiful friendship."
+		She exits as swiftly as she entered, leaving you alone with the cowering princess. You walk up to the throne and throw her over her shoulder before returning to your ship. She's clearly in shock, and makes no attempt to resist the abduction.[addslave|She was the princess of a primitive world|She was your prize for a joint mission with Tyrant|18/18|50/100|100/100]
+	Decline
+		"A shame. Perhaps another time."
+
+{ownedbodies > 10}{notvar tyrant2}{var tyrant1}{notatwar Black}Oppression
+You receive a characteristally-terse message from Tyrant.[environment|blackstar][macro|tyrant][remove]
+"New job came in. Basic storming op. A rebel base. You interested in some fun?"
+	Accept
+		[set|tyrant2]You arrive at a portal on the destination planet this time, to find Tyrant, alone in the room. She smiles as you enter, and beckons you into a small ship. As you travel to your destination, she starts on another one of her stories.[environment|default]
+		"I like you. Most of the Masters can't handle this part. They're happier to pay us to make their problems go away, no questions asked. Fei is the only one who wants details, but I don't think she's in it for the tactics, if you catch my drift."
+		The ship stops, hovering above the compound, and Tyrant opens the hatch before calmly dropping the hundred feet into the walled base below. You hear screaming and gunshots as she falls, but can't see anything through the dust. You follow behind her and land on a dead guard.
+		"Fucking psychopath."
+		Tyrant approaches the main building of the compound, and takes the cannon from behind her back.
+		"I may be good at killing, but nobody enjoys it like she does. There have been days when I've delivered hundreds of slaves to that palace of hers. I don't think most of them lasted a week. Don't get me wrong, killing is good fun, but you're not going to catch me rubbing one out over it."
+		She braces her legs against the ground and fires her cannon. You feel the ground shake, and you're instantly blinded by a thick cloud of smoke. When it clears, you see that the door of the compound is gone, and there is a trail of rubble where the railgun's shell has pierced through every layer of the structure. 
+		"It's a job, and a damn good one at that. Black Star is the last meritocracy in this whole fucking galaxy. I started as a pit fighter, and killed my way up to mercenary queen. That was a bastard of a journey. And a great story."
+		She enters the room, and you see several bullets glance off her armor. You follow her, and you work together to massacre the rebels inside. The compound is emptied of life within minutes.
+		"Looks like that's the last of them. It's been fun. We should do this again sometime."
+		Your ship lands in the now-empty compound and takes you back to the gate room. You say your polite goodbyes and return to your respective homes, the bond between you deepened by your peculiar diplomatic outing.
+	Decline
+		Ah well. Perhaps another time.
+
+{notvar tyrant3}{var tyrant2}{notatwar Black}Milk Run
+"Got another milk run. Some wannabe pirates made off with a bunch of Pari’s weapons. Idiots got locked out of course, but she's pissed as hell. Wants them to be an example. You in?"[environment|blackstar][macro|tyrant][remove]
+	Accept
+		You both board the heavy transport bound for the pirate station. You notice that Tyrant's sidearm is not the one she usually carries, and she hands you another one.[set|tyrant3][environment|default]
+		"Stun guns"
+		Tyrant shows you the basic features of the weapon before starting off on another monologue.
+		"Pari is a good one. No bullshit, straight to the point. Not with everyone though. She knows her audience. Plays you like that fucking harp of hers."
+		The boarding pod slams into the side of the station and welds itself to the hull. The inner door evaporates, leaving you with a clear path inside.
+		"Got a story from one of my mercs who did some time as her bodyguard. She went to one of Fei's parties. Came out covered in blood, but wearing that same diplomatic smile. Half hour later she was cleaned up and waxing poetic about abolition with Ava."
+		You board the station and the pirates immediately surrender. It's likely that they've heard of both of you, and know that resistance is pointless.
+		"What she says isn't worth shit unless her signature is on it, but I've never heard of her fucking up a contract. Those ships of hers are something else too. My soldiers are the best at keeping a population in line, but those dreadnoughts make 'em damn near worthless in open space."
+		You stun the submitting pirates one by one, and work together to nail their still-living forms to the inside of the hull per Pari's instructions.
+		"Another job well done. It's been good. Hope we can do this again sometime."
+		You activate the gate on the station and return to your respective homes. You see news of the massacre a few hours later, though Pari has generously wiped the recordings of your intervention.
+	Decline
+		"Ah well. Perhaps another time."
+
+{notvar tyrant4}{var tyrant3}{notatwar Black}Upgrades
+"Just came back from a tune-up from Micah. Going for a test drive. Interested?"[environment|blackstar][macro|tyrant][remove]
+	Accept
+		[set|tyrant4]The two of you take off to a small asteroid with a under-defended mining colony. Tyrant fidgets with her upgraded muscles as she speaks.
+		"God damn I love that woman. These bodies of hers are like magic. Could have bought five planets for the price of my left pinky, but it's worth every credit."
+		The breaching pod hits the side of the base, but Tyrant doesn't wait for the grinders to cut through. She kicks a hole into the colony's outer wall, and tears a section away like wet cardboard.
+		"Don't even bother trying to talk to her though. She's one of the smartest beings in the universe, but there's barely a human in there. It's like having a conversation with a VI, and a shitty one at that."
+		You step into the structure to find miners clustered in the control room, improvised weapons drawn. Tyrant ignores them completely as she takes a fire extinguisher from the wall and hurls it through the deck's window, shattering it. The miners quickly suffocate in the hard vacuum, but she continues speaking to you through your neural lace.
+		"The gear is top fucking notch though. A small team with midrange augments can take out an army of natural humans, and everyone knows it. Someone like me? Pretty sure I could punch my way through a cruiser if I needed to. Hope I don't though."
+		You enable the gate on the mining colony.
+		"I like you. If you haven't already, you should go get a tune-up. I've even heard of her doing it free for people she fancies. If there ever was crazy not to stick your dick into though..."
+		She vanishes through the gate, and you soon follow suit.
+	Decline
+		"Ah well. Maybe another time."
+
+{notvar tyrant5}{var tyrant4}{notatwar Black}Inscrutable Tasks
+I got a job from The Speaker. Looks like a fun one. You interested?[environment|blackstar][macro|tyrant][remove]
+	Accept
+		Tyrant's message contains credentials for a remote body. After jumping in, you find yourself on a ship in deep space. It's a much different design than anything you have seen from Black Star, and Tyrant greets you, her confident body language unmistakable despite her unrecognizable face. She gestures towards an inactive android on the ship.[set|tyrant5][environment|default]
+		"Can't have our famous faces showing on this one. Covert ops, but she insisted that I oversee personally. Didn't say anything about bringing friends along though. Ready for a kamikaze run?"
+		The navigation computer shows you on a collision course for an unremarkable meteor.
+		"Fucking Nulls. First thing you see of the Speaker is those creepy glowing eyes, and it just gets worse from there. It's always “go here, do this tiny thing, avoid detection and casualties.” Always timed down to the minute."
+		You take a closer look at the ship. It appears to be a large combat vessel at first glance, but closer inspection of the systems shows that it is just a prop. It wouldn't pass cursory inspection if it were running, but, judging by your course, it won't be for long.
+		"I charge her ten times the usual rate. I'm sure she knows, but it's not like she has other options. Collective is loaded anyway. All that crazy high-tech bullshit they've got."
+		"You know they don't work there? Nada. Just sit around eating and drinking all day. All protected by the speaker and her little 'interventions.'"
+		"Like this shit. Supposed to trigger a war or something. Get someone off her back."
+		You receive a threatening message from a nearby colony, but Tyrant ignores it.
+		"This particular brand of bullshit isn't even unusual. She had us kill a child once. Just some kid who lived with his parents on some godforsaken planet. A nobody. One of my guys just walked up and shot him in the streets. Left before the police were even called."
+		Tyrant takes direct control of the ship to dodge a warning shot from the asteroid's surface, while expertly making it look like engine failure.
+		"It turned into a clusterfuck. Kid's death flared up a revolution. Her parents were political dissidents of some kind, and people liked them a hell of a lot more than the king. Especially with an adorable little martyr. One thing led to another, and the whole planet was under new management by the time the attack was supposed to start. Turned a whole army around with one bullet."
+		She punches the thrusters, and the false ship shakily accelerates towards the meteor.
+		"That's just how she operates. An assassination here, an misplaced ship there, and opponents seem to just collapse in on themselves. I hate AI’s. Way too unpredictable. I'll take an open war any day of the week."
+		The ship collides with the asteroid, and you abruptly lose connection with the prosthetic body. Moments later, you receive a message from Tyrant:
+		"That was fun. We should do it again sometime."
+		You make a point of checking the local feeds for the next few days, and quickly find news of a war between two outlying powers, precipitated by an airspace violation.
+	Decline
+		Ah well. Perhaps another time.
+
+{notvar tyrant6}{var tyrant5}{notatwar Black}Bonding
+Incoming message from Tyrant.[environment|blackstar][macro|tyrant][remove]
+"Want to go drink? I could go for a drink."
+	Accept
+		You arrive at the seedy soldier bar. You have no trouble finding Tyrant, who stands a full head taller than anyone else present. She motions for you to sit down.[set|tyrant6][pose|boundseated][environment|default]
+		"Did I ever tell you I got my start as a pit slave? I was eight years old when they handed me my first dagger. I don't know how many fights I had, but it went on for decades. Must have killed thousands."
+		"Eventually earned my freedom in a tournament and joined up with Black Star. Back then it was pretty small-time, putting down protesters and the like."
+		She takes a long drink from the bottle in front of her.
+		"Leader back then was a right bastard, and not in a good way. Treated us like his personal toys when we weren't on duty. Didn't do wonders for morale, but he was too stupid to see it until it was too late. Thinking with the wrong head, I guess."
+		She smiles bitterly and drains the bottle.
+		"When my turn came up, well, let's just say I didn't cooperate. He was more of a money man than a fighter, and barely managed to call for help before I ended his little party."
+		"When word spread of dear leader's untimely demise, well, let's just say it inspired a bit of a reckoning through the ranks. It was a massacre. Left us without much in the way of leadership, and I took advantage."
+		"Wasn't hard to earn loyalty after that. After that little stunt, every other mercenary within a thousand parsecs wanted a piece, and we took 'em all. Went from small time to monopoly in less than a century."
+		You see her straighten as she abruptly drains the alcohol from her circuits. She looks directly at you, an uncharacteristic seriousness in her voice.
+		"Be careful with your vices. I'm sure it's fun for people like you, but all it takes is one slip, and someone like me has everything you own."
+		"Don't get me wrong, that's not a threat. Just friendly advice. I like you, and it would be a shame to have your whole conquest stop because you can't keep it in your pants."
+		Her expression darkens further, and you see a hint of disgust as she talks about your proclivities.
+		"And so help me God. If you try to fuck me or any of mine without asking first, I'm going to cut off your dick and feed it to you. And that's just to start."
+			"Is that an invitation?"
+				Tyrant laughs.
+				"I'm afraid you're barking up the wrong tree. It's nothing personal, that's just never been my cup of tea. Wouldn't mind another round though!"
+				You continue to laugh and drink together for several hours, sharing war stories and a seemingly endless array of filthy jokes. Eventually, you both find yourselves with pressing issues to deal with at home, and say your goodbyes.
+			Nod 
+				She continues to look serious for a moment before allowing the alcohol to return to her system. She smiles broadly at you.
+				"Now that that's out of the way, let's see just how much we can store in these prosthetic livers of ours. Another round!"
+				You continue to laugh and drink together for several hours, sharing war stories and a seemingly endless array of filthy jokes. Eventually, you both find yourselves with pressing issues to deal with at home, and say your goodbyes.
+	Decline
+		Ah well. Perhaps another time.
+
+{selectfaction Black}{notatwar}{influence > 500000}{var tyrant6}Incoming Message
+Tyrant appears on screen. She looks uncharacteristically somber.[environment|blackstar][macro|tyrant][remove]
+"Bad news. You've attracted some attention, and I've been hired to stop you."
+"I like you, so I'm giving you a warning: turn your station over to Black Star right now, and we can avoid bloodshed. I'll even take you on as a mercenary. It's not much, but it's the best you're going to get. If you don't take it, I'm going to have to come kill you, and neither of us wants that."[declarewarpermanent]
+
+{var tyrantexiled}Ranger
+Ever since Tyrant's self-imposed exile, you have kept an ear out for spacer legends that match her description. There are hundreds of stories, ranging from the mundane to the unrealistic, but there is a pattern within the noise. 
+She seems to be responding to distress signals at the edge of known space, saving lives and performing heroic feats with the aid of her honor guard. She never asks for payment, preferring rumors and legends of strange occurrences on the rim.
+Most haven't seen augmentations on the level available to faction leaders, and a large group has begun to treat her as a patron saint of travelers. In all fairness, she has earned the title.
+The dates you've collected also shows a meandering trajectory. She seems to be traversing the edge of the galaxy in a search pattern. It would be straightforward enough to meet her at her next refueling stop.
+	Meet up with her
+		You take a portal to the next port on Tyrant's trajectory, and are waiting for her when she disembarks her ship. She has changed her face, but her gait and mannerisms are unmistakable. Her face sinks when she sees you, and she carefully unclips her sidearm from her holster, waiting for you to make the first move.[addslave][unset|tyrantexiled]
+		She remains tense when you explain that you just want to catch up with an old friend, but relents when you offer to buy her a drink at the dock bar.
+		"I didn't think I'd see your sorry ass again. This wasn't the deal. What do you want?"
+			What are you doing out here?
+				"What am I doing? What the fuck are you doing? I've seen your ships in action. I used to think they were just lucky as shit, but then I remembered some weird stories from my men who toured the rim. Ghosts on the edges of space. Strange black ships that are never quite where your sensors say they are. Entire systems disappearing in the blink of an eye. Any of that sound familiar?"
+				"I've got a lot less to do these days, so I figured I'd go looking for more stories. A reason for... for what happened to Black Star. And I found them. Hundreds of them. Something dormant. Something powerful and dangerous. Squeezing us. Keeping us contained in our little spiral."
+				"What I can't figure out is why. Why you? You were a nobody. An asshole. I've killed better men than you for desertion. What could you possibly have to offer them. Do you even know?"
+				"But you didn't come all the way to the ass end of space to hear me lecture you. What do you want?"[unset|tyrantexiled]
+					Just seeing an old friend
+						Tyrant sighs.
+						"You know, I would shoot you right here if I thought it would actually kill you. Hell, I'd detonate my own body if I thought it would accomplish anything."
+						"I know how it works though. Backups upon backups. And that's not even counting all the bullshit that your new friends put together. For all I know the blast wouldn't even touch you."
+						She drains the rest of her drink and sets it gingerly back at the bar. You could never have imagined it before, but she seems almost helpless.
+						"I'm going to go. That is, if you're not going to stop me."
+							About that...
+								Tyrant sighs once again and gets up out of her seat. She has seen enough of your allies to know that she is no match for you, and quietly accompanies you to the portal.
+								You make a quick stop-off at a surgery center to return her to her former appearance before you arrive at your station.[remove][macro|tyrantslave][removetag|factionleader][obedience|100][fear|100]
+							You are free to go.
+								Tyrant looks almost surprised, but takes it in stride. She gets out of her chair and returns to her ship.
+								She is far too depressed to be a threat to you. Eventually she will run into an accident, or her death wish will catch up to her. Either way, this is likely the last you will see of her. You wave goodbye and return to your station.[remove]
+					I changed my mind. I want my trophy.
+						Tyrant sighs and gets up out of her seat. She has seen enough of your allies to know that she is no match for you, and quietly accompanies you to the portal.
+						You make a quick stop-off at a surgery center to return her to her former appearance before you arrive at your station.[remove][macro|tyrantslave][removetag|factionleader][obedience|100][fear|100]
+			I was just in the neighborhood. Thought I'd say hello to an old friend.
+				"You're a fucking piece of work, you know that? I've seen your ships in action. I used to think they were just lucky as shit, but then I remembered some weird stories from my men who toured the rim. Ghosts on the edges of space. Strange black ships that are never quite where your sensors say they are. Entire systems disappearing in the blink of an eye. Any of that sound familiar?"
+				"I've got a lot less to do these days, so I figured I'd go looking for more stories. A reason for... for what happened to Black Star. And I found them. Hundreds of them. Something dormant. Something powerful and dangerous. Squeezing us. Keeping us contained in our little spiral."
+				"What I can't figure out is why. Why you? You were a nobody. An asshole. I've killed better men than you for desertion. What could you possibly have to offer them. Do you even know?"
+				"But you didn't come all the way to the ass end of space to hear me lecture you. What do you want?"[unset|tyrantexiled]
+					Just seeing an old friend
+						Tyrant sighs.
+						"You know, I would shoot you right here if I thought it would actually kill you. Hell, I'd detonate my own body if I thought it would accomplish anything."
+						"I know how it works though. Backups upon backups. And that's not even counting all the bullshit that your new friends put together. For all I know the blast wouldn't even touch you."
+						She drains the rest of her drink and sets it gingerly back at the bar. You could never have imagined it before, but she seems almost helpless.
+						"I'm going to go. That is, if you're not going to stop me."
+							About that...
+								Tyrant sighs once again and gets up out of her seat. She has seen enough of your allies to know that she is no match for you, and quietly accompanies you to the portal.
+								You make a quick stop-off at a surgery center to return her to her former appearance before you arrive at your station.[remove][macro|tyrantslave][removetag|factionleader][obedience|100][fear|100]
+							You are free to go.
+								Tyrant looks almost surprised, but takes it in stride. She gets out of her chair and returns to her ship.
+								She is far too depressed to be a threat to you. Eventually she will run into an accident, or her death wish will catch up to her. Either way, this is likely the last you will see of her. You wave goodbye and return to your station.[remove]
+					I changed my mind. I want my trophy.
+						Tyrant sighs and gets up out of her seat. She has seen enough of your allies to know that she is no match for you, and quietly accompanies you to the portal.
+						You make a quick stop-off at a surgery center to return her to her former appearance before you arrive at your station.[remove][macro|tyrantslave][removetag|factionleader][obedience|100][fear|100]
+	Ignore her
+		Tyrant's new psych profile indicates that she has been overcome with severe depression. She is unlikely to ever be a threat to you, and will likely die in an accident or foolhardy attack on the rim. Regardless, she is no longer worth your time.
+
+{selectslavebytag Tyrant}{tag factionleader}{extreme}Marathon
+When you enslaved her, Tyrant told you that she would not be broken easily. So far, she has kept her promise. Her will remains strong, and she fights as hard as she did before you took her empire. It will take something extreme to break past her mental block and start her proper training.[pose|dronestruggle][humansound|screaming]
+	Spend a few days showing her what it means to be a slave
+		Tyrant's body is one of the few in the galaxy more advanced than yours. Her combat augmentations were disabled when she was enslaved, but she can still take an immense beating without permanent damage. You tell her that you're going to test its limits, but it's likely that she didn't hear you over her defiant screaming.[strip]
+		You begin to deliver kick after kick to her exposed belly. Though her body is easily strong enough to handle the abuse, she cries out as she feels the now-unfiltered pain signals jolt through her. She has been augmented for centuries, and it's likely been a long time since she experienced agony without the option to turn it off.
+		You beat her for many hours before you decide that it's time for the main attraction. She looks at you as you stop kicking her, and, by her renewed screams, you surmise that she knows what's coming next.[pose|dronemissionaryprep]
+		You climb on top of her, and she shrieks with humiliation as you force yourself into her[virgin|, taking her virginity after centuries of asexuality. Her screams gain renewed vigor, and she is obviously deeply disturbed by the unfamiliar violation. |. She is asexual, and was a virgin when she arrived aboard your station. Even though this isn't the first time she's been raped here, it's a new and terrifying sensation for her.]
+		More than an hour of sexual assault from you would be enough to reduce an ordinary slave to a bloody and broken heap. Tyrant is anything but an ordinary slave though, and shows no signs of wear until well after a natural woman would have perished. Her strength is freeing, and you take full advantage, bending her into positions that would destroy a human body as she screams in agony.[pose|dronemissionary]
+		A day passes, and her screams quiet as her spirit begins to weaken. She seems to be growing used to the unrelenting rhythm of the rape, and her struggles have lost some of their original power. [humansound|painfulsex][pose|dronedoggy]
+		A week passes, and you finally feel her struggles cease. You have the drone drop her to the floor, and she makes no attempt to stop you as you push yourself back into her. [humansound|sex][pose|missionary]
+		You enjoy her compliant body for a few more hours before you finally allow yourself to finish inside her. You hear a soft sigh of relief as you pull yourself out, and she collapses limply to the floor.[macro|postrape]
+		After a few minutes of quiet contemplation, she manages to get up, and kneels shakily before you. Her resistance is broken, and she will apply her military expertise to your invasions, permanently boosting your fleet's effectiveness.[pose|kneel][upgrade|TyrantWill][removetag|factionleader][obedience|50][fear|50][humansound|idle][sex]
+	Continue her standard training for now
+		You simply have your station continue its standard training regimen. It may not be effective, but it's fun to watch her fight.

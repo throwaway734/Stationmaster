@@ -1,14 +1,20 @@
+#Script Reference
+1. Example of Scripting
+2. Scripting Operators
+
+1. Example of Scripting
+
 {reputation > 20}The Traveler
-You are going about your normal duties when you are distracted by the sudden awareness of an unauthorized space ship materializing aboard your station. It superficially appears to be an ancient phone booth, but the fact that it was able to so easily bypass your defenses is unnerving. Almost immediately, a man and a woman emerge and begin to look around. It's obvious that they are unaware of where they are, and the man is carefully examining the environment. As they step through the door, you immediately see that the box is larger on the inside.[Addslave|Kiss-o-gram from a primitive world|You enslaved her with her companion after they appeared in a mysterious spacecraft|20/23|80/100|80/100]
+You are going about your normal duties when you are distracted by the sudden awareness of an unauthorized space ship materializing aboard your station. [Addslave|Kiss-o-gram from a primitive world|You enslaved her]
 	Watch the strangers
-		The strangers appear to be scandalized when they see the state of the slaves on your station, and immediately attempt to start a revolution. Your slaves are far too smart to join a random stranger under your eyes though, and your security drones quickly descend on both the man and his companion. 
+		The strangers appear to be scandalized when they see the state of the slaves on your station, and immediately attempt to start a revolution. Your slaves are far too smart to join a random stranger under your eyes though, and your security drones quickly descend on both the man and his companion.
 		The man pulls out a small metal stick and manages to disable one of your drones, but they are far too numerous, and he is quickly overwhelmed. The woman surrenders without a fight after seeing the brutal power of your drones, and they drag her away for processing.
 		Your drones attempt to execute the man, but he has some form of failsafe that you're not familiar with. After they tear him limb from limb, he dissolves into dust, and reassembles himself as a woman. You shrug and have the drones drag her away for processing as well. [Addslave|Nigh-indestructible alien with extra organs|You enslaved her with her companion after they appeared in a mysterious spacecraft|20/23|80/100|80/100][select|1]
 	Incinerate the strangers
 		You simply seal off the corridor that they landed in, and incinerate it. The woman is reduced to dust immediately, but the man dissolves into a glowing storm of nanites several times before eventually joining his companion in the ashes. You have a security drone analyze their ship, which was bizarrely unaffected by the intense heat. It appears to be indestructible and impossible to open, so you jettison it from the station to avoid any surprises.[remove]
 
 
-The first line is the title of the event. This is what displays in the notification bar. A condition in this line (displayed {like this} ) that is not met will make the randomizer choose a different event. 
+The first line is the title of the event. This is what displays in the notification bar. A condition in this line (displayed {like this} ) that is not met will make the randomizer choose a different event.
 The second line is the initial text that is displayed.
 For all future lines, the progression is driven by indentation:
   Lines indented at the next level (one tab) will be options shown on dialog buttons
@@ -21,7 +27,8 @@ For all future lines, the progression is driven by indentation:
 
 All conditions in an event title or dialog option must evaluate to true for the event or option to be available.
 SlaveInspection.txt has more of these than anything else, if you want to see a sample.
-
+________________________________________________________________________________
+2.Scripting Operators
 Booleans:
     player
     pregnant
@@ -68,9 +75,9 @@ Comparablaes (Sample: {warintensity > 50}, {warintensity < 50}, {warintensity hi
 There are quite a lot of scripting operations you can do. In general, the syntax will read [method|paramter1|parameter2|etc.]
 
 *Basics:*
-name
+[name]
   Display's the active character's name
-AddSlave
+[AddSlave]
   Adds a slave, and selects/displays it if there is no other active character. This one has a ton of parameters, all optional:
   Quirk: The slave's basic description. If there are several of these separated by slashes, the system will pick a random one
   Acquisition: How you came to acquire the slave
@@ -80,19 +87,19 @@ AddSlave
   Name
   Virginity Status: V or N
   Tags: There are a lot of these. More documentation will be incoming later.
-br
+[br]
   Inserts a linebreak. Note that you have to use this to insert a literal linebreak because a carriage return starts the next screen.
-close
+[close]
   Closes the dialog window completely, and shows the new slave queue if there is one.
-money
+[money]
   Edit's player's money. [money|500|Source information (leave blank for "Events")]
-influence
+[influence]
   Increase or decrease influence by the provided amount. Usage: [inf|200]
-reputation
+[reputation]
   Sets the player's reputation [rep|230]
-remove
+[remove]
   Removes the selected slave from the player's posession [remove]
-  
+
 *Cutscenes:  *
 backgroundloop
   Sets the background soundtrack. Available options available in examples.
@@ -172,7 +179,7 @@ Injection
 ChronoChamber
 Baby
 Spank
-  
+
 endhumansound
   Shuts off all human sounds
 environment
@@ -182,11 +189,11 @@ environment
   Sublevel
   TribalHut
   Wasteland
- 
+
 strip
   Removes all clothes from the selected character
 clothe
-  Clothes the selected character.  
+  Clothes the selected character.
 expression
   Sets the viewed character's expression. Options are:
     Acceptance
@@ -210,7 +217,7 @@ show
 
 *Variables:*
 set
-  Sets a variable [set|isOpen] 
+  Sets a variable [set|isOpen]
 unset
   Removes a variable. [unset|isOpen]
 var
@@ -241,12 +248,9 @@ virgin
   [virgin|This character is a virgin|This character is not a virgin]
 relationshipswitch
   Switches based on your relationship with the selected faction. [relationshipswitch|hate|mediocre|love]
-  
-  
-  
-  
+
 *Slaves:*
-acquisitionindicator 
+acquisitionindicator
   Shows how the selected slave was acquired
 addtag
   Adds a tag to the given slave. Formatted as [AddTag|New Tag]
@@ -282,8 +286,8 @@ prestige
   Adjusts the prestige of the selected slave
 prestigeindicator
   Displays the prestige of the selected slave
-  
-  
+
+
 *Esoterics:*
 body
   Shows the name of the selected celestial body

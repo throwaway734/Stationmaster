@@ -1,0 +1,76 @@
+Black Star Mercenary Group
+[macro|tyrant][pose|tyrantsit][environment|blackstar][remove][relationshipswitch|LoveGreet|mediocreGreet|hateGreet]
+  Tell me about yourself
+    [relationshipswitch|I'm the leader of the goddamn Black Stars, what's more to tell? I kick, shoot, and occasionally fuck asses in equal measure. You think there's some sad story to tell, that I'll openly weep as I reveal my tragic past? No. But ask anyway, maybe you'll get lucky.]
+        Back
+          [return]
+    How did you come to lead the Black Stars?
+      [relationshipswitch|I shot curious upstart slavers asking too many questions.]
+        Back
+          [return]
+    Any stories from your mercenary days?
+      story/story/story
+        Back
+          [return]
+  I want your opinion on another faction
+    [relationshipswitch|Go ahead, ask away. Let no one say the Black Stars were cowards, I'll gladly give you my opinion.]
+    Black Star Mercenary Group
+      [relationshipswitch|My unbiased opinion? We might not have fancy weapons, big words, or goods to offer... What we do have is a squad of murderous whoresons stationed on almost every planet, every station, every shady backroom in the ass end of nowhere. All it takes is one word from me and the galaxy burns.]
+        Back
+          [return]
+    Piaoliao Nuli
+      [relationshipswitch|They pay well. They better. Have you ever been on a factory world? Vast facilities stretching across their surface, always pumping out more slaves, and most of them doesn't even make it to the market. Luckily, sex sweat is stronger than rot.]
+        Back
+          [return]
+    Australian Cooperative
+      [relationshipswitch|Urgh, if it wasn't for their damn good shows, I'd throw a collar on Ava myself. All that talk about community and solidarity, it makes me sick. Ha, not that they're above purchasing our services. What can I say, I get richer, they produce another season of 'Canis Country' for me to binge.]
+        Back
+          [return]
+    Vladivostok Holdings, Inc
+      [relationshipswitch|Not enough killing, if you ask me. They'd rather wave a stick of credits in your face than put a bullet there. So most jobs end up being a charade of looking though and scowling a lot.]
+        Back
+          [return]
+    Prime Consumer Electronics
+      [relationshipswitch|I love those guys. Basically, they have billions of factories, trillions of employees, and endless amounts of cash. They use the latter to employ my men, so they can keep the former safe. Maybe, sometimes, an employee or two goes missing for some reason. PCE doesn't seem to mind.]
+        Back
+          [return]
+    The Null Autonomous Collective
+      [relationshipswitch|When faced against a Null, it either ends with It dead, or you on in garden. Thinking about a life of luxurious inactivity makes me shudder.]
+        Back
+          [return]
+    Shiva Military Corporation
+      [relationshipswitch|"Look at us, we've got a thing for spandex and big guns." That's what they sound like. Pretentious cock suckers, all of them. If I could just get my hand on their designs and outfit more of my men with their weapons, I'd be unstoppable.]
+        Back
+          [return]
+    Back
+        [return]
+  Tribute
+
+    Gift $60,000
+      [relationshipswitch|Aww, if you just wanted to hang, you could've asked.|...Thanks. I'll get myself a pack of gum.|Are you trying to insult me?][relationship|1][money|-60000]
+        Back
+          [return]
+    Gift $100,000
+      [relationshipswitch|Zyxz, are you implying the next round is on you?|Well, well, I won't say no to a little pocket-money.|Yes. You have credits. Very impressive.][relationship|2][money|-100000]
+        Back
+          [return]
+    Gift 175,000
+      [relationshipswitch|][relationship|4][money|-175000]
+        Back
+          [return]
+    Gift 250,000
+      [relationshipswitch|][relationship|6][money|-250000]
+        Back
+          [return]
+  {AtPeace}Declare War
+    [relationshipswitch|][declarewar]
+  {AtWar}Make Peace
+    [peaceSwitch|[makepeace][relationshipswitch|Accept]|[relationshipswitch|Decline]]
+  {AtPeace}Demand Tribute
+    [tributeDemandSwitch|]
+      Leave
+        [close]
+      Back
+        [return]
+  Leave
+    [close]

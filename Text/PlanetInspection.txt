@@ -1,2 +1,4 @@
 Planet Options
-[showbody][body][br][bodytypedisplay][br]Income: [income][br]Population: [population][br]Obedience: [bodyobedience][br]Fear: [bodyFear][br]Prosperity: [economy][br][bodyquirk]
+[showbody][body][br][bodytypedisplay][br]Income: [income][br]Population: [population][br]Obedience: [bodyobedience][br]Fear: [bodyFear][br]Prosperity: [economy][br][bodyquirk][br][hasproxy|You have assigned [proxyname] to run the body in your stead.[br]Intelligence: [proxyint][br]Charisma: [proxycharisma][br]Personality:[proxytype]|It is being governed by a group of leading citizens.]
+	Close
+		[close]

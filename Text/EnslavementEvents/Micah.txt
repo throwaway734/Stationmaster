@@ -1,0 +1,127 @@
+{notvar micah1}{notatwar Prime}Development
+Micah appears on your screen.[macro|micah][environment|prime][pose|micahsit][remove]
+"Want to meet newcomer. Augmentation upgrade? Free."
+	Accept
+		You step into Micah's lab. It is deceptively simple-looking. Without looking up from her work, she gestures at a spot on the floor, and her mental command pulls an operating chair from beneath the workshop.[set|micah1]
+		"Sit"
+		You sit in the chair, and hundreds of tiny arms rise out of the floor to painlessly burrow into your skin. They begin making the thousands of tiny upgrades across your chassis as Micah begins to speak once again.
+		"Situation unusual. Newcomer holding territory. Someone generally prevents. Usually Speaker. May just be matter of time."
+		She finally looks over to you. "Primary motivation?"
+		She stares at you, expecting an answer.
+			I want to help people.
+				Micah pauses for a moment. She looks disappointed.
+				"Ava-analog. Utilitarian. Selfless. Doomed."
+				She returns to her work, the many arms of her workbench tinkering in your stomach for a few minutes more before retracting.
+				"Finished for today. More later."
+			I'm just in it for the slaves.
+				Micah pauses for a moment. She looks disappointed.
+				"Fei-analog. Base. Shallow. Sadistic."
+				She returns to her work, the many arms of her workbench tinkering in your stomach for a few minutes more before retracting.
+				"Finished for today. More later."
+			I want to advance technology.
+				Micah pauses for a moment. She looks disappointed.
+				"Pari-analog. Diplomatic. Friendly. Dishonest."
+				She returns to her work, the many arms of her workbench tinkering in your stomach for a few minutes more before retracting.
+				"Finished for today. More later."
+			I want to control the galaxy.
+				Micah pauses for a moment. She looks concerned.
+				"Tyrant-analog. Ambitious. Realistic. Threatening."
+				She returns to her work, the many arms of her workbench tinkering in your stomach for a few minutes more before retracting.
+				"Finished for today. More later."
+			(Remain Silent)
+				Micah pauses for a moment. She looks intrigued.
+				"Speaker-analog. Pragmatic. Wary. Laconic."
+				She returns to her work, the many arms of her workbench tinkering in your stomach for a few minutes more before retracting.
+				"Finished for today. More later."
+	Decline
+		"Understood. Another time."
+
+{notvar micah2}{var micah1}{notatwar Prime}Staging
+You receive an incoming message from Micah:
+"Interesting specimen. Upgrade? No charge."[macro|micah][environment|prime][pose|micahsit][remove]
+	Accept
+		You step into Micah's lab once again. This time, she turns to face you as you enter.[set|micah2]
+		"Not dead yet. Impressive. Unlikely."
+		Like before, she gestures to the mass of complex interlocking plates that form the operating table. You lie down, and feel the familiar sensation of her thousands of manipulators running through their upgrades.
+		"Goal?"
+			I want to conquer the universe.
+				Micah does not look up from her work.
+				"Ambitious. Doomed."
+				A few moments later, the arms retract back into their bases.
+				"Finished. More another time."
+				Micah ignores you as you say goodbye and leave the room. She seems deeply uncomfortable with human interaction unless there's something to distract her.
+			I want to stay alive.
+				Micah does not look up from her work.
+				"Achievable. Prudent. Boring."
+				A few moments later, the arms retract back into their bases.
+				"Finished. More another time."
+				Micah ignores you as you say goodbye and leave the room. She seems deeply uncomfortable with human interaction unless there's something to distract her.
+			I want to seduce a faction leader.
+				Her concentration breaks, and the burrowing arms stop for a moment before she regains her focus.
+				"Deflective. Flippant. Achievable."
+				You may have seen a small smile cross her face, but it's impossible to be sure. A few moments later, the arms retract back into their bases.
+				"Finished. More another time."
+				Micah ignores you as you say goodbye and leave the room. She seems deeply uncomfortable with human interaction unless there's something to distract her.
+	Decline
+		Understood. Another time.
+
+{notvar micah3}{var micah2}{var heartofentropy}{notatwar Prime}Production
+You receive a message from Micah.
+Enjoy our talks. Upgrade? Free.[macro|micah][environment|prime][pose|micahsit][remove]
+	Accept
+		You arrive at Micah's lab, and she once again gestures to the mass of complex interlocking plates that form the operating table. You lie down, and feel the familiar sensation of her thousands of manipulators running through their upgrades.[set|micah3]
+		"Competence rare. Speaker capable, but unpredictable. Off-putting for humans. Not like me."
+		"Most are simple. Predictable. Irrational."
+		"You're different. Incompetent. Naive, yet effective."
+		As Micah's table does its work, you notice that she has come over to your table, and is personally examining the drones' work. She continues speaking distractedly.
+		"Advice: All good leaders sociopathic. Relentless. Imitate to succeed. Rebel to fail."
+		The arms of her operating table complete their myriad tasks and close you back up.
+		"All done. Thank you."
+		You feel still stronger, though this upgrade doesn't seem as significant as the rest.
+	Decline
+		Understood. Another time.
+
+{var micah3}{notvar micah4}{notatwar Prime}User Acceptance
+You receive a message from Micah.
+"Endorphins bond. Bonding reduces strife. Sex?"[macro|micah][environment|prime][pose|micahsit]
+	Accept	
+		When you arrive on Micah's station, you find her still sitting at her desk. She perceives your presence immediately, and you see a large soft plate rise from the floor at her mental command.[set|micah4]
+		She rises to her feet and turns to you. As she does so, you see thousands of plates across the surface of her body open and close, shredding the jumpsuit she wears to fine confetti, and leaving her naked before you.[strip]
+		"Acceptable?"
+		She lies down on the soft surface before spreading her legs nonchalantly. Her body is flawless, of course, and a marvel of engineering. Still, she is entirely missing the emotions of the act, making her imitation of human behavior almost unsettling. [pose|missionaryprep]
+		Still, for diplomacy's sake, you soldier on. You position yourself between your legs and push into her. Her face contorts into a crude imitation of pleasure as you do so, though you are certain that her mind is elsewhere.[pose|sex]
+		As you thrust, however, you feel a strange sensation. Her fingers slide across the back of your head, searching for something. A moment later, you feel something new.
+		Somehow, using her intimate understanding of the code underlying your prosthetic body, she has formed a bond between your minds. Though her demeanor hasn't changed, you experience an incredible sensation as she pours the distilled form of a thousand sexual experiences through the connection.
+		As you finish in her, the sensation overwhelms all others, and even your vision loses focus before ecstasy of the new experience fades, and you are returned to the room, inside Micah's still-unenthusiastic form.[pose|missionaryprep]
+		She remains motionless as you pull out of her.
+		"Felt good. Come anytime."
+		You return to your station with slightly more comprehension of her unfathomable mind.[remove]
+	Decline
+		"Understood. Another time."[remove]
+
+{var micah4}{notatwar Prime}Incoming Message
+You receive a message from Micah.
+"The others don't see. I do. I've looked inside you. Took a piece. For science. Ran some tests."[macro|micah][environment|prime][pose|micahsit][remove]
+"Can't show to others, of course. Breach of contract. But I had to be sure. Puzzle unsettling. Findings… impossible."
+"You won't tell, but you don't have to. I'm the best. You have better. Only one explanation. Improbable, yet certain. First contact. Something old. Something… powerful. Not like the others. Ships likely affected too. Explains combat superiority. But why you? What price was paid?"
+"Technological disparity brings conquest, and my advantage wanes. Only one path forward now. I'm sorry."[declarewarpermanent]
+
+{selectslavebytag Micah}{tag factionleader}Optimization
+Micah may be a slave, but she is still the brilliant engineer she always was. She frequently points out small things that could be improved on your station, and today she entered your office with a detailed schematic for a new ventilation system that she drew using protein paste on a napkin.
+"Systems inefficient. Sloppy."
+	Follow her suggestions
+		You listen to Micah's suggestions, and as soon as she sees your maintenance drones implementing the design, she enters your office. She is intelligent enough to know that she has no way off your station, and that her best hope is to become useful to you. She kneels before you.
+			Accept her submission
+				At your gesture, she stands up. She is now willing to help you in exchange for better treatment, and will apply her talents to optimizing your station, permanently reducing construction costs. [upgrade|MicahTinkering][removetag|factionleader][pose|idle][obedience|50]
+			Celebrate by using her
+				You nod and approach her. She knows what you are about to do, and sobs quietly as you position yourself behind her and begin to press yourself against her. [humansound|sobbing][pose|doggyprep][strip]
+				She cries out involuntarily as you force yourself into her, but makes no attempt to escape as you use her for your pleasure. [pose|doggy][humansound|painfulsex]
+				She gasps as she feels you finish inside her, and maintains her kneeling pose as you pull out of her and return to your desk. Micah is broken now, and will apply her talents to optimizing your station, permanently reducing construction costs. [upgrade|MicahTinkering][removetag|factionleader][pose|kneel][humansound|fear][fear|20][obedience|50]
+	{extreme}Remind her of her place
+		You snatch the plans and hand them to a drone to be read and implemented. You then turn your attention back to Micah, and demand more. She stutters for a moment before giving you another idea, this time for an improvement to the life support system. You demand another, but she has no more ideas left. You slap her, and she falls to the floor, crying bitterly.[humansound|crying][pose|facedownonground][strip]
+		You get on top of her and press yourself against her from behind. She knows what is coming, and instinctively tries to resist, but her augmentations were disabled on her enslavement, and she only has the strength of an ordinary human here.[pose|doggyrapeprep]
+		She screams in pain as you force yourself into her. Once you're comfortably inside, you explain that you won't stop until she's given you three more upgrades. She is heavily augmented, and could likely survive days of this assault, but the pain is enough to convince her to think quickly. You can sense her mind racing as you rape her from behind, and she soon manages to give you another idea through her screams, this time for the security drones. [pose|doggyrape][humansound|painfulsex]
+		Over the next hours, she manages to think of the remaining improvements, and, true to your word, you allow yourself to finish inside her and release her from your grasp.[macro|postrape]
+		She manages to get up slightly, and kneels before you. Micah is now broken, and will work tirelessly to improve efficiency on your station, reducing construction costs.[upgrade|MicahTinkering][removetag|factionleader][pose|kneel][humansound|fear][fear|50][obedience|50]
+	Ignore her for now
+		You have better things to do than listen to this drivel. You dismiss her.

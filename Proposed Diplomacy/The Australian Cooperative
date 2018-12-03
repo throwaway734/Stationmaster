@@ -1,0 +1,74 @@
+The Australian Cooperative
+[macro|ava][pose|avasit][environment|australia][remove][relationshipswitch|LoveGreet|mediocreGreet|hateGreet]
+  Tell me about yourself
+    [relationshipswitch|]
+      How did you come to lead this faction?
+        [relationshipswitch|]
+          Back
+            [return]
+      (Leader Specific Stories)
+        [relationshipswitch|Story/Story/Story]
+          Back
+            [return]
+  I want your opinion on another faction
+    [relationshipswitch|]
+      Black Star Mercenary Group
+        [relationshipswitch|]
+          Back
+            [return]
+      Piaoliao Nuli
+        [relationshipswitch|]
+          Back
+            [return]
+      Australian Cooperative
+        [relationshipswitch|]
+          Back
+            [return]
+      Vladivostok Holdings, Inc
+        [relationshipswitch|]
+          Back
+            [return]
+      Prime Consumer Electronics
+        [relationshipswitch|]
+          Back
+            [return]
+      The Null Autonomous Collective
+        [relationshipswitch|]
+          Back
+            [return]
+      Shiva Military Corporation
+        [relationshipswitch|]
+          Back
+            [return]
+      Back
+        [return]
+  Tribute
+
+    Gift $60,000
+      [relationshipswitch|][relationship|1][money|-60000]
+        Back
+          [return]
+    Gift $100,000
+      [relationshipswitch|][relationship|2][money|-100000]
+        Back
+          [return]
+    Gift 175,000
+      [relationshipswitch|][relationship|4][money|-175000]
+        Back
+          [return]
+    Gift 250,000
+      [relationshipswitch|][relationship|6][money|-250000]
+        Back
+          [return]
+  {AtPeace}Declare War
+    [relationshipswitch|][declarewar]
+  {AtWar}Make Peace
+    [peaceSwitch|[makepeace][relationshipswitch|Accept]|[relationshipswitch|Decline]]
+  {AtPeace}Demand Tribute
+    [tributeDemandSwitch|]
+      Leave
+        [close]
+      Back
+        [return]
+  Leave
+    [close]
