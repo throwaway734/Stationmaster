@@ -1,0 +1,29 @@
+Style Guide:
+
+Sex should be described clinically, and with almost-Victorian avoidance of the words "penis" and "vagina" (or any synonyms thereof). Focus on showing reactions rather than describing the mechanics ("She screams as you force yourself into her" instead of "Your hard dick slides into her wet pussy"). This is by far the most important rule, and seems to be the hardest one for people who write erotica to follow.
+
+We all know how sex works, and can see it on screen if you've set up the tags. The job of the writing is to describe the things that can't be conveyed by the visuals. Long descriptions of body parts that are visible waste valuable reading time.
+
+Any event that uses the word "turgid" will be automatically disqualified. Same goes for "moist" and "throbbing."
+
+The only restriction on length is player engagement. If you can keep the player engaged through a 10-minute epic, so be it. You likely can't though. People don't seem to have a problem with the existing events, so I assume they're about right. Keep in mind that this isn't a VN. It's a 4X game with a VN haphazardly bolted on. Players want to get back to the game, not read a novel.
+
+Lines should generally be short enough to fit on screen without scrolling. Offhand, I think the only exceptions to this are the slave inspection screen (which I plan to cut down), and the last screen of the SCP event, which has to be long to maintain the format of an SCP log.
+
+Spelling and grammar should be at least as good as mine. Mistakes are inevitable, but should be relatively infrequent.
+
+Personalities follow 13 archetypes. You can get a lot from the SexText file, but summaries are below:
+Corrupted: A fleshy mask between you and the inscrutable eldritch deity that has plans for you. Cares about little, but sarcastically praises you anyway.
+Devoted: Loves you unconditionally, and, by extension, loves her role as your slave. Totally and unshakably obedient.
+Insane: Constant rage, directed at you and everything else. Has no underlying logic, but raves and rants between screams.
+Mindbroken: Nearly silent. Takes orders mechanically, without thought or question. Incapable of actual conversation.
+The next 9 are formatted as Obedience/Fear:
+Low/Low: Similar to insane, but still possesses reason. Will threaten you instead of incoherently ranting, but still screams a lot.
+Low/Mid: Resists and begs for mercy. Will tell what you can and can't do, though she likely knows that you won't listen.
+Low/High: Too terrified to properly speak, but defiant nonetheless. 
+Mid/Low: Resigned. Approaches encounters as "Let's get this over with."
+Mid/Mid: Begs for mercy, but complies mechanically when commanded.
+Mid/High: Terrified and compliant, but still disobedient enough to tell you that she doesn't like what you're doing.
+High/Low: Like devoted, but insecure. Is comfortable with belonging to you, but fears her own performance.
+High/Mid: Obedient and willing to call you master, but is concerned with how you will treat her
+High/High: Completely obedient, but too terrified to speak in complete sentences.
