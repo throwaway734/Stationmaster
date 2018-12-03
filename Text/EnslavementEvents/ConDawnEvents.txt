@@ -84,7 +84,7 @@ She clearly can't believe what just happened.
 
 {notvar conaleasforgotten}Forgotten
 From time to time, it can be pretty hectic on your station and family members can easily get lost, when they are distracted.[AddSlave||Her parents have forgotten her on your station|18/19|10/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated]
-She is one example. She couldn't find her parents anymore, after she got seperated from them in the docking stations, so she approached one of your security drones, to find some help.
+She is one example. She couldn't find her parents anymore, after she got separated from them in the docking stations, so she approached one of your security drones, to find some help.
 After an automatic research of your surveillance A.I., she found out, that her parents already left the station with the last tourist shuttle and simply have forgotten her.
 It's just a matter of time, until your station will be contacted about the missing person, yet it could be a good opportunity to gather a new slave.
 Surely her parents wouldn't be very happy about this... So what would you do?
