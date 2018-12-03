@@ -59,23 +59,23 @@ Yet they couldn't trick the advanced sensors of your station and life sensors de
 				If they are not completely retarded, they would enter an escape capsule and may survive. But you don't really care.
 
 The Prophet
-Earlier, a small group of people arrived at the station and now they asked for an audience, to speak you personally.
-They seem to be weird in some way and bound to strange rites. Would you allow them, to speak to you?
+Earlier, a small group of people arrived at the station and now they are asking for an audience, to speak you personally.
+They seem to be weird in some way and bound to strange rites. You have no idea what they want.
 	Send them away
 		You decide, that you don't want to waste your time with them, no matter what they want.
 	Allow the audience
 		As you allow them to speak to you, a group of 7 seven people enters your office.
-		They seem to be astonished, not by the appearance of your office, or of your slaves, but of your appearance.
+		They seem to be astonished, not by the appearance of your office, or of your slaves, but of yours.
 		They explain, that you have been prophesied, centuries ago, by an unknown prophet and that they are here to welcome you.
 		To show their subservience, they offer you a legit sum of money and their own, unspoiled daughters as your personal slaves.
-		Of course, you don't see any reason to refuse this offer, yet you are quite intrigued about this prophecy, so you ask them about your role in that.
+		You don't see any reason to refuse this offer, yet you are quite intrigued about this prophecy, so you ask them about your role in that.
 		The eldest of them spoke: "You are prophesied as destroyer of worlds and time itself" ...Then they left happily.[rep|10][money|50000][AddSlave||She is a loving disciple of a religion, that sees you as destroyer of worlds and time|18/18|100/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated][AddSlave||She is a loving disciple of a religion that sees you as destroyer of worlds and time|18/18|100/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated][AddSlave||She is a loving disciple of a religion that sees you as destroyer of worlds and time|18/18|100/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated]
 
 Random Enslavement
-It's time again. The randomizer called out for the station-event, you establishment long ago.
-One, random female tourist is about the get enslaved today.
+It's time again. The randomizer called out for that funny station-event, you establishment long ago.
+One random female tourist is about the get enslaved today.
 The risk of becoming a slave on this station, just by being here, seems to be part of the charm of your station, for many of it's visitors... At least for those, who never become enslaved.
-The "lucky" one is chosen. [AddSlave||A stationwide event chose her randomly, to become a slave|18/30|10/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated]
+The "lucky" one is chosen. [AddSlave||A stationwide event chose her randomly, to become a slave|18/30|10/100|10/100||][clothe][humansound|fear][pose|boundseated]
 She clearly can't believe what just happened.
 	Keep her
 		You decide to keep her, as she seems to be good slave material.[rep|2]
