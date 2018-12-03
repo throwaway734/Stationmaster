@@ -1,0 +1,128 @@
+Father in Debts
+One of the tourists enjoyed his time on your station too much, as he made terrible debts. To evade your justice, he offered his own daughter as payment.[AddSlave||Her father sold her to you to pay his debts|18/18|50/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated]
+	Grant the daughter residence aboard your station
+		The girl surely didn't see this coming. She knew about the horrors of the slaves and can't believe how merciful you was towards her. She thanks you a thousand times before she leaves.[rep|20][remove]
+	Enslave the daughter
+		The girl is in shock. Her own father sold her. Now she's your property and she don't even know how to react.[playsound|drone]
+
+Father in Debts
+One of the tourists enjoyed his time on your station way too much, as he made terrible debts. To evade your justice, he offered his own daughters as payment.
+	Grant the daughters residence aboard your station
+		The girls surely didn't see this coming. They knew about the horrors of the slaves and can't believe how merciful you were towards them. They thank you a thousand times before they leave.[rep|20]
+	Enslave the daughters
+		The girls are in shock. Their own father sold them. Now they are your property and don't even know how to react.[playsound|drone][AddSlave||Her father sold her to you to pay his debts|18/18|50/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated][AddSlave||Her father sold her to you to pay his debts|19/20|50/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated]
+
+Mother in Debts
+One of the tourists enjoyed her time on your station too much, as she made terrible debts. To evade your justice, she offered her own daughter as payment.[AddSlave||Her Mother sold her to you to pay her debts|18/18|50/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated]
+	Grant the daughter residence aboard your station
+		The girl surely didn't see this coming. She knew about the horrors of the slaves and can't believe how merciful you was towards her. She thanks you a thousand times before she leaves.[rep|20][remove]
+	Enslave the daughter
+		The girl is in shock. Her own mother sold her. Now she's your property and she don't even know how to react.[playsound|drone]
+	It would be a shame to seperate them - Enslave the daughter AND the mother
+		Of course the girl alone would be enough, but you think the mother would also make a good slave.[playsound|drone][rep|-10][AddSlave||You enslaved her too, as she wanted to sell her daughter to pay her debts|36/58|0/100|10/100||][clothe][humansound|fear][pose|boundseated]
+
+Mother in Debts
+One of the tourists enjoyed her time on your station way too much, as she made terrible debts. To evade your justice, she offered her own daughters as payment.
+	Grant the daughters residence aboard your station
+		The girls surely didn't see this coming. They knew about the horrors of the slaves and can't believe how merciful you were towards them. They thank you a thousand times before they leave.[rep|20]
+	Enslave the daughters
+		The girls are in shock. Their own mother sold them. Now they are your property and don't even know how to react.[playsound|drone][AddSlave||Her mother sold her to you to pay her debts|18/18|50/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated][AddSlave||Her mother sold her to you to pay her debts|19/20|50/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated]
+	It would be a shame to seperate them - Enslave the daughters AND the mother
+		Of course the girls alone would be enough, but you think the mother would also make a good slave.[playsound|drone][rep|-10][AddSlave||Her mother sold her to you to pay her debts|18/18|50/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated][AddSlave||Her mother sold her to you to pay her debts|19/20|50/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated][AddSlave||You enslaved her too, as she wanted to sell her daughters to pay her debts|36/58|0/100|10/100||][clothe][humansound|fear][pose|boundseated]
+
+Strange Ship
+A strange ship appeared near your station. The ship obviously tries to hide it's presence while bypassing this area, by showing minimal activity in it's main and sub-systems.
+Yet they couldn't trick the advanced sensors of your station and life sensors detect 10 human lifeforms aboard.
+	Ignore the ship
+		You decide that this isn't of further interest for you and let them pass.
+		Yet you flood their communication systems with a simple message, again and again: "I CAN SEE YOU."
+		After this they supercharged their engines to get through this area as fast as possible, while not trying to hide anymore.
+		Also they sent a message of greeting and sent some cash as excuse ($10,000).[money|10000]
+		At least they know, that you could easily destroy them... Or do even more terrible things to them.
+	Destroy the ship
+		Your stationary turrets begin to fire and tear the ship easily into pieces.
+		The ship couldn't even return fire and was destroyed in seconds.
+	Conquer the ship
+		You send out your drones to engage the ship.
+		The ship detected the engaging drones and opened fire immediately, yet they didn't hit any of them as they managed to evade the primitive, kinetic shots easily.
+		As the drones reached the ship, they breached easily through the hull and killed everybody who resisted.
+		8 men were killed and the last remaining persons aboard, two young women, showed no sign of resistance and were spared... For the moment.
+		After further research of the ship's log you found out, that this ship and it's crew were on a mission to abduct the young girls, who were relatives of an influental person in the galaxy.
+		Obviously this whole drama was a game of power and influence, while the original contractors remain unknown, which isn't too interesting for you anyway.
+		You are only interested in how you could gain something by this incident for yourself.
+			Send the girls back to their origin
+				As the girls reached their destination, their influental relative was very thankful and paid you a huge sum ($250,000) for retrieving his beloved ones. Also your reputation has increased in certain groupes.[rep|50][money|200000]
+			Keep the girls as slaves
+				You simply decide to keep the girls with a shoulder shrug.[AddSlave||You retrieved her from abductors and kept her|18/18|10/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated][AddSlave||You retrieved her from abductors and kept her|18/18|10/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated]
+			Leave them behind
+				After you revealed the story behind this all, you are no longer interested in this bullshit and decide to leave them behind on this sinking ship.
+				If they are not completely retarded, they would enter an escape capsule and may survive. But you don't care anyway.
+
+The Prophet
+Earlier a small group of people arrived at the station and now they asked for an audience to speak you personally.
+They seem to be weird in some way, bound to strange rites. Would you allow them to speak to you?
+	Send them away
+		You decide that you don't want to waste your time with them, no matter what they want.
+	Allow the audience
+		As you allow them to speak to you, a group of 7 seven people enters your office.
+		They seem to be astonished, not by the appearance of your office or your slaves, but of yours.
+		They explain, that you have been prophesied centuries ago by an unknown prophet and that they are here to welcome you.
+		To show their subservience, they offer you a legit sum of money and their own unspoiled daughters as your personal slaves.
+		Of course you don't see any reason to refuse this offer, yet you are quite intrigued about this prophecy, so you ask them about your role in that.
+		The eldest of them spoke: "You are prophesied as destroyer of worlds and time itself" ...Then they left happily.[rep|10][money|50000][AddSlave||She is a loving disciple of a religion that sees you as destroyer of worlds and time|18/18|100/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated][AddSlave||She is a loving disciple of a religion that sees you as destroyer of worlds and time|18/18|100/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated][AddSlave||She is a loving disciple of a religion that sees you as destroyer of worlds and time|18/18|100/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated]
+
+Random Enslavement
+It's time again. The randomizer called out for the station-event you establishment long ago.
+One random female tourist is about the get enslaved today.
+The risk of becoming a slave on this station just by being here, seems to be part of the charm of your station for many of it's visitors... At least for those who never become enslaved.
+The "lucky" one is chosen. [AddSlave||A stationwide event chose her randomly to become a slave|18/30|10/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated]
+She clearly can't believe what just happened.
+	Keep her
+		You decide to keep her, as she seems to be good slave material.[rep|2]
+	Sell her ($10,000)
+		You decide to sell her, as she has no use for you.[remove][rep|2][money|10000]
+
+{notvar conaleasforgotten}Forgotten
+From time to time it can be pretty hectic on your station and family members can easily get lost when they are distracted.[AddSlave||Her parents have forgotten her on your station|18/19|10/100|10/100||Virgin][clothe][humansound|fear][pose|boundseated]
+She is one example. She couldn't find her parents anymore after they got seperated in the docking station, so she approached one of your security drones to help her.
+After an automatic research of your surveillance A.I., she found out that her parents already left the station with the last tourist shuttle and simply have forgotten her.
+It's just a matter of time until your station will be contacted about the missing person, yet it could be a good opportunity to gather a new slave.
+Surely her parents wouldn't be very happy about this... So what would you do?
+	Keep her
+		You decide to keep her.[rep|-5]
+		Surely her parents will do everything they can to ruin your reputation, as there was no legitimation to enslave their daughter.[set|conaleasforgotten]
+	Send her home (cost $250)
+		You decide to send her after the shuttle at your own cost.[remove][rep|2][money|-250]
+		Later her parents contacted diverse news stations about your kindness.
+	Just let her stay
+		You allow her to stay on your station until her parents organize her collection.[remove][rep|1]
+
+{var conaleasforgotten}Unforgotten
+Some time ago you decided to enslave a young woman, who was simply forgotten by her parents on your station.
+There was no real legitimization to do this, but you are above such rules.
+Her father obviously had another sight on this situation and paid some mercenaries to assist him for an attempt to free his daughter from your grip, as he didn't know which destiny she had to face here.
+They were pretty well prepared and managed to trick your security systems, as their ships were hidden as civilian crafts. Unfortunatelythey managed to do some damage on your station.
+The repairs will cost $7,000, but at least the attackers were defeated, including the father of the slave, who was killed in the firefight.
+And as little bonus your security drones managed to arrest two of the attackers who could be proper slave-material.
+Now you have to decide about their destiny.[money|-7000]
+	Keep them
+		You decide to keep the two women as slaves.[AddSlave||She was part of an attacking force who tried to free one of your slaves|18/45|0/25|80/100||][clothe][humansound|fear][pose|boundseated][AddSlave||She was part of an attacking force who tried to free one of your slaves|18/45|0/25|80/100||][clothe][humansound|fear][pose|boundseated]
+	Sell them ($ 14,000)
+		You decide to simply sell them on the slave market, as compensation of the damage on your station.[money|14000]
+	Execute them in public
+		Your security drones drag them in front of a huge crowd of people and beginn to behead them on your signal.
+		The message is simple, clear and effective.[inf|5][rep|-2]
+	Free them
+		You confront them and explain that you understand that this is just business and that you have no grudge against them. They tried, they failed, their employer is dead. According to you, this affair is of the past now.
+		The two women are happy about your words and thank you for your understanding and swear to never join similar contracts to possible enemies of you again.[rep|3]
+
+{hascitizens}Unpaid rent
+One of your citizen can't pay his rent anymore. He already struggled in the past to pay on time and constantly sold his remaining belongings just to bring up the rent. But now there is nothing of worth left and he's already in debt for several months.
+Obviously there is no way he could compensate his debts, so there are not much options left for you, how to handle this situation... He must die.
+Yet there is something you could accept as compensation... He has a daughter, who just reached adulthood.
+	Keep his daughter as compensation
+		The father fell crushed on his knees, as your drones picked up his daughter as another drone explained him the situation. He shouted after his daughter how sorry he was, while she was screaming in fear.[AddSlave||You took her as compensation for the rent-debts of her father|18/18|0/100|80/100||Virgin][clothe][humansound|fear][pose|boundseated]
+	Kill him
+		There is no other way to handle this. A drone came to pick him up and space him, while his daughter ran after the drone and watched this whole scene in shock... Maybe this will be a lesson for her not to make the same mistakes as him.
+	Send him away
+		As you have a good moment, you simply ban him from the station. He and his daughter are very thankfully, as they know how much they were subjected to your mercy.[rep|2]
