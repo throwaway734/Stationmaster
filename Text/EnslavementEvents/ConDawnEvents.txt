@@ -34,11 +34,11 @@ Strange Ship
 A strange ship appeared near your station. The ship tries to hide it's presence, while bypassing this area, by showing minimal activity in it's main and sub systems.
 Yet they couldn't trick the advanced sensors of your station and life sensors detect 10 human lifeforms aboard.
 	Ignore the ship
-		You decide that this isn't of further interest for you and let them pass.
-		Yet you flood their communication systems with a simple message, again and again: "I CAN SEE YOU."
-		After this, they supercharged their engines, to get through this area as fast as possible.
-		Also they sent a message of greeting and sent some cash as excuse ($10,000).[money|10000]
-		At least, they know, that you could easily destroy them... Or do even more terrible things to them.
+		You decide, that this isn't of further interest for you and let them pass.
+		Yet, you flood their communication systems with a simple message, again and again: "I CAN SEE YOU."
+		After this they supercharged their engines, to get through this area as fast as possible.
+		Also they sent a message of greeting and some cash as excuse ($10,000).[money|10000]
+		They know, that you could easily destroy them... Or do even more terrible things.
 	Destroy the ship
 		Your stationary turrets begin to fire and tear the ship easily into pieces.
 		The ship couldn't even return fire and was destroyed in seconds.
