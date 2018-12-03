@@ -4,7 +4,7 @@ This repository has the text assets for Stationmaster, an NSFW game available on
 
 Welcome, and thank you for checking out the contributor side!
 
-I recommend taking a look at the existing events to get a feel for the scripting. I designed it to be simple to write, but it is a bit terse.
+I recommend taking a look at the existing events to get a feel for the scripting. I designed it to be simple to write, but it is a bit terse. There's also a style guide in the repository root, which will hopefully help you to match the rest of the game's content.
 
 Any new text documents added to the folders under the main "Text" folder will be automatically appended. Generally, please try to keep your own additions to their own files. The giant "Core" file is a relic from when they had to be in the same file, and may be split at some point.
 
