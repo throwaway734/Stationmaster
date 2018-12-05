@@ -109,7 +109,7 @@ Now you have to decide about their destiny.[money|-7000]
 		You decide to keep the two women as slaves.[AddSlave||She was part of an attacking force, who tried to free one of your slaves|18/45|0/25|80/100||][clothe][humansound|fear][pose|boundseated][AddSlave||She was part of an attacking force, who tried to free one of your slaves|18/45|0/25|80/100||][clothe][humansound|fear][pose|boundseated]
 	Sell them ($ 14,000)
 		You decide to simply sell them on the slave market, as compensation of the damage on your station.[money|14000]
-        You made some profit.
+		You made some profit.
 	Execute them in public
 		Your security drones drag them in front of a huge crowd of people and beginn to behead them on your signal.
 		The message is simple, clear and effective.[inf|5][rep|-2]
